@@ -1,0 +1,3173 @@
+fileFormatVersion: 2
+guid: ae8786d2a27ee5c459427f85b6281f1a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7767688184249520952
+    second: Koromon_0
+  - first:
+      213: -2394295119054857759
+    second: Koromon_1
+  - first:
+      213: -1218905648949970937
+    second: Koromon_2
+  - first:
+      213: -7826835700244696992
+    second: Koromon_3
+  - first:
+      213: 4869511462598425848
+    second: Koromon_4
+  - first:
+      213: -2818490469824795764
+    second: Koromon_5
+  - first:
+      213: 3952060501767936767
+    second: Koromon_6
+  - first:
+      213: 2793713987611169720
+    second: Koromon_7
+  - first:
+      213: -4037589284070946602
+    second: Koromon_8
+  - first:
+      213: -7569523326840962649
+    second: Koromon_9
+  - first:
+      213: 4840733418555830975
+    second: Koromon_10
+  - first:
+      213: 8358186774274776312
+    second: Koromon_11
+  - first:
+      213: -5008925475142034453
+    second: Koromon_12
+  - first:
+      213: 8428012049933038473
+    second: Koromon_13
+  - first:
+      213: 2041253608317476585
+    second: Koromon_14
+  - first:
+      213: 3066041007386669347
+    second: Koromon_15
+  - first:
+      213: 1467242803369418109
+    second: Koromon_16
+  - first:
+      213: 3757357708206207044
+    second: Koromon_17
+  - first:
+      213: -1164607637020540575
+    second: Koromon_18
+  - first:
+      213: 8301423660224708100
+    second: Koromon_19
+  - first:
+      213: 428548981271873366
+    second: Koromon_20
+  - first:
+      213: 6961886348162717522
+    second: Koromon_21
+  - first:
+      213: 8539325187034777810
+    second: Koromon_22
+  - first:
+      213: -7854357782261955365
+    second: Koromon_23
+  - first:
+      213: 793339254786354820
+    second: Koromon_24
+  - first:
+      213: -263706077819872885
+    second: Koromon_25
+  - first:
+      213: 6826079257012814406
+    second: Koromon_26
+  - first:
+      213: -581581482594833020
+    second: Koromon_27
+  - first:
+      213: -348698641906672077
+    second: Koromon_28
+  - first:
+      213: 1616783495949536972
+    second: Koromon_29
+  - first:
+      213: -892099441128314859
+    second: Koromon_30
+  - first:
+      213: -6861013438299440511
+    second: Koromon_31
+  - first:
+      213: 7120753130554315607
+    second: Koromon_32
+  - first:
+      213: -1793144651663971352
+    second: Koromon_33
+  - first:
+      213: -4506276196727428264
+    second: Koromon_34
+  - first:
+      213: 8374330533779873025
+    second: Koromon_35
+  - first:
+      213: 2905613565255310402
+    second: Koromon_36
+  - first:
+      213: -8643284799286357029
+    second: Koromon_37
+  - first:
+      213: 79336877907589595
+    second: Koromon_38
+  - first:
+      213: -7983963205279081768
+    second: Koromon_39
+  - first:
+      213: 6507008692763947679
+    second: Koromon_40
+  - first:
+      213: -4581338433310874976
+    second: Koromon_41
+  - first:
+      213: 2105456744737153239
+    second: Koromon_42
+  - first:
+      213: 9092244486530613581
+    second: Koromon_43
+  - first:
+      213: 7169032131117678281
+    second: Koromon_44
+  - first:
+      213: 5613401581440164417
+    second: Koromon_45
+  - first:
+      213: -4297264175400972268
+    second: Koromon_46
+  - first:
+      213: 4121559280093273925
+    second: Koromon_47
+  - first:
+      213: -5739989336899745967
+    second: Koromon_48
+  - first:
+      213: -3490072149889747919
+    second: Koromon_49
+  - first:
+      213: 2892548165743299116
+    second: Koromon_50
+  - first:
+      213: 5897733467603901151
+    second: Koromon_51
+  - first:
+      213: 1936535486571661789
+    second: Koromon_52
+  - first:
+      213: 7336903706426525892
+    second: Koromon_53
+  - first:
+      213: -7060570880880569023
+    second: Koromon_54
+  - first:
+      213: 1382038112265050683
+    second: Koromon_55
+  - first:
+      213: -2060280548983213652
+    second: Koromon_56
+  - first:
+      213: -1838372205766103170
+    second: Koromon_57
+  - first:
+      213: -3814713971256448082
+    second: Koromon_58
+  - first:
+      213: -2907192312609971536
+    second: Koromon_59
+  - first:
+      213: -6700450596633428249
+    second: Koromon_60
+  - first:
+      213: 8192033829502289918
+    second: Koromon_61
+  - first:
+      213: 9130347087154302775
+    second: Koromon_62
+  - first:
+      213: -7654207326854731429
+    second: Koromon_63
+  - first:
+      213: -6695113676182828234
+    second: Koromon_64
+  - first:
+      213: -387352587406612519
+    second: Koromon_65
+  - first:
+      213: -5565640773459426333
+    second: Koromon_66
+  - first:
+      213: -6293023262415894008
+    second: Koromon_67
+  - first:
+      213: -8494381756510923689
+    second: Koromon_68
+  - first:
+      213: 5904770277918912460
+    second: Koromon_69
+  - first:
+      213: -3115588708648623282
+    second: Koromon_70
+  - first:
+      213: 6126074474464003419
+    second: Koromon_71
+  - first:
+      213: -7073237762482855066
+    second: Koromon_72
+  - first:
+      213: -4732664800491902102
+    second: Koromon_73
+  - first:
+      213: 4809502218916070845
+    second: Koromon_74
+  - first:
+      213: 6100371293351858158
+    second: Koromon_75
+  - first:
+      213: 8416635735054415184
+    second: Koromon_76
+  - first:
+      213: -6886463599517022154
+    second: Koromon_77
+  - first:
+      213: 1263363210722130961
+    second: Koromon_78
+  - first:
+      213: 7189653439531540258
+    second: Koromon_79
+  - first:
+      213: 1170903439464997650
+    second: Koromon_80
+  - first:
+      213: 5715782512272245498
+    second: Koromon_81
+  - first:
+      213: 3803212250129341551
+    second: Koromon_82
+  - first:
+      213: -4060685220422971907
+    second: Koromon_83
+  - first:
+      213: 1351275365367569856
+    second: Koromon_84
+  - first:
+      213: -4690614938989526275
+    second: Koromon_85
+  - first:
+      213: 354066653368761249
+    second: Koromon_86
+  - first:
+      213: 1052499382347734096
+    second: Koromon_87
+  - first:
+      213: -8806265180313048598
+    second: Koromon_88
+  - first:
+      213: -5418023159008347567
+    second: Koromon_89
+  - first:
+      213: 5438441682523301277
+    second: Koromon_90
+  - first:
+      213: 6705230273244199591
+    second: Koromon_91
+  - first:
+      213: 5537619895768845794
+    second: Koromon_92
+  - first:
+      213: 8111749794250677103
+    second: Koromon_93
+  - first:
+      213: -3077805599490377146
+    second: Koromon_94
+  - first:
+      213: -1076954146781884931
+    second: Koromon_95
+  - first:
+      213: -8091183918936484449
+    second: Koromon_96
+  - first:
+      213: -2784189215990573766
+    second: Koromon_97
+  - first:
+      213: 2017097147974382390
+    second: Koromon_98
+  - first:
+      213: -6989696426280130153
+    second: Koromon_99
+  - first:
+      213: -7524496364932454803
+    second: Koromon_100
+  - first:
+      213: -8968716569109534038
+    second: Koromon_101
+  - first:
+      213: 4968239014247721447
+    second: Koromon_102
+  - first:
+      213: 6726209669699511048
+    second: Koromon_103
+  - first:
+      213: 8768277372231354248
+    second: Koromon_104
+  - first:
+      213: -699469835555490401
+    second: Koromon_105
+  - first:
+      213: 663126224096559537
+    second: Koromon_106
+  - first:
+      213: 6139841891054469256
+    second: Koromon_107
+  - first:
+      213: 3088253687129115121
+    second: Koromon_108
+  - first:
+      213: -5523926222945691249
+    second: Koromon_109
+  - first:
+      213: -5864942100432535121
+    second: Koromon_110
+  - first:
+      213: -2451390024814381461
+    second: Koromon_111
+  - first:
+      213: 1875999046611806667
+    second: Koromon_112
+  - first:
+      213: 2759484358961980070
+    second: Koromon_113
+  - first:
+      213: 8915082708616459308
+    second: Koromon_114
+  - first:
+      213: -7897520319813878138
+    second: Koromon_115
+  - first:
+      213: 5658371665432677703
+    second: Koromon_116
+  - first:
+      213: 2525084046680894188
+    second: Koromon_117
+  - first:
+      213: -3652052759692775323
+    second: Koromon_118
+  - first:
+      213: 6981057096956931553
+    second: Koromon_119
+  - first:
+      213: -6645157822506565609
+    second: Koromon_120
+  - first:
+      213: 7808953415684089898
+    second: Koromon_121
+  - first:
+      213: -8083705187432574784
+    second: Koromon_122
+  - first:
+      213: -8707671329704321383
+    second: Koromon_123
+  - first:
+      213: -5760113120313075118
+    second: Koromon_124
+  - first:
+      213: -5378249195697379842
+    second: Koromon_125
+  - first:
+      213: 2557280767213793373
+    second: Koromon_126
+  - first:
+      213: 2854573532512552395
+    second: Koromon_127
+  - first:
+      213: 3853623019321882141
+    second: Koromon_128
+  - first:
+      213: 5088680009597238451
+    second: Koromon_129
+  - first:
+      213: 4276967784786359263
+    second: Koromon_130
+  - first:
+      213: 6162042160030794967
+    second: Koromon_131
+  - first:
+      213: -4252735077207477319
+    second: Koromon_132
+  - first:
+      213: -1637854822680697517
+    second: Koromon_133
+  - first:
+      213: -3504859839497884153
+    second: Koromon_134
+  - first:
+      213: 6670307464134309021
+    second: Koromon_135
+  - first:
+      213: 3879722865525546886
+    second: Koromon_136
+  - first:
+      213: 1521958807237682647
+    second: Koromon_137
+  - first:
+      213: -5894798035263418749
+    second: Koromon_138
+  - first:
+      213: 1449598469992436741
+    second: Koromon_139
+  - first:
+      213: -5079103679880800089
+    second: Koromon_140
+  - first:
+      213: 6846217788081081119
+    second: Koromon_141
+  - first:
+      213: -8778760779140637838
+    second: Koromon_142
+  - first:
+      213: -6508911857333229969
+    second: Koromon_143
+  - first:
+      213: -4641270379718084107
+    second: Koromon_144
+  - first:
+      213: 8047418310681605448
+    second: Koromon_145
+  - first:
+      213: -4553375432513581399
+    second: Koromon_146
+  - first:
+      213: -4678506493047040284
+    second: Koromon_147
+  - first:
+      213: 4246661992854646541
+    second: Koromon_148
+  - first:
+      213: 8051706745123832320
+    second: Koromon_149
+  - first:
+      213: 5842252220722415009
+    second: Koromon_150
+  - first:
+      213: 3116863054096326785
+    second: Koromon_151
+  - first:
+      213: 6726748954888144935
+    second: Koromon_152
+  - first:
+      213: -4888986518000757849
+    second: Koromon_153
+  - first:
+      213: -6593162539930546774
+    second: Koromon_154
+  - first:
+      213: 6929871597246617831
+    second: Koromon_155
+  - first:
+      213: -4586929921380629661
+    second: Koromon_156
+  - first:
+      213: 782473676122054706
+    second: Koromon_157
+  - first:
+      213: -5655562901927587481
+    second: Koromon_158
+  - first:
+      213: -5859636283892225096
+    second: Koromon_159
+  - first:
+      213: -8987737677250426165
+    second: Koromon_160
+  - first:
+      213: -484863840120905672
+    second: Koromon_161
+  - first:
+      213: -4645226638159042842
+    second: Koromon_162
+  - first:
+      213: -1463603893310433786
+    second: Koromon_163
+  - first:
+      213: 6237294121277199835
+    second: Koromon_164
+  - first:
+      213: -6215145149988137073
+    second: Koromon_165
+  - first:
+      213: 8151167270851357451
+    second: Koromon_166
+  - first:
+      213: 1926879561105718775
+    second: Koromon_167
+  - first:
+      213: 8045290067862936148
+    second: Koromon_168
+  - first:
+      213: -2704378729872613816
+    second: Koromon_169
+  - first:
+      213: 7255733006187961342
+    second: Koromon_170
+  - first:
+      213: 8098746566978246042
+    second: Koromon_171
+  - first:
+      213: 3523767472024907735
+    second: Koromon_172
+  - first:
+      213: -3700093640429238973
+    second: Koromon_173
+  - first:
+      213: -3662509525203380611
+    second: Koromon_174
+  - first:
+      213: 2882872109730252000
+    second: Koromon_175
+  - first:
+      213: 6828961124005245964
+    second: Koromon_176
+  - first:
+      213: 5171274964558239592
+    second: Koromon_177
+  - first:
+      213: 3686448374016907110
+    second: Koromon_178
+  - first:
+      213: 1957348588956704946
+    second: Koromon_179
+  - first:
+      213: -7863848037723093418
+    second: Koromon_180
+  - first:
+      213: -783022878731746115
+    second: Koromon_181
+  - first:
+      213: 2965565157176184697
+    second: Koromon_182
+  - first:
+      213: 7629859588947854818
+    second: Koromon_183
+  - first:
+      213: -8479336228219084395
+    second: Koromon_184
+  - first:
+      213: -9014788636508745341
+    second: Koromon_185
+  - first:
+      213: 6030976739025991094
+    second: Koromon_186
+  - first:
+      213: 4291423907148392332
+    second: Koromon_187
+  - first:
+      213: 3936816711864392840
+    second: Koromon_188
+  - first:
+      213: -607494569040925117
+    second: Koromon_189
+  - first:
+      213: -7207117420976088406
+    second: Koromon_190
+  - first:
+      213: -7910081944825180213
+    second: Koromon_191
+  - first:
+      213: 5920885789854307146
+    second: Koromon_192
+  - first:
+      213: 2728926156175497059
+    second: Koromon_193
+  - first:
+      213: -7049316942725478395
+    second: Koromon_194
+  - first:
+      213: -8617076535287065277
+    second: Koromon_195
+  - first:
+      213: 1218821468029258613
+    second: Koromon_196
+  - first:
+      213: -8035844633152986664
+    second: Koromon_197
+  - first:
+      213: -8786316565501266949
+    second: Koromon_198
+  - first:
+      213: -5833428230596710491
+    second: Koromon_199
+  - first:
+      213: -2413705006742823887
+    second: Koromon_200
+  - first:
+      213: -8353027792127772979
+    second: Koromon_201
+  - first:
+      213: 6509779589473622519
+    second: Koromon_202
+  - first:
+      213: -1133090888712639542
+    second: Koromon_203
+  - first:
+      213: 2774438232212932927
+    second: Koromon_204
+  - first:
+      213: -861301061934051007
+    second: Koromon_205
+  - first:
+      213: -2665207015512082497
+    second: Koromon_206
+  - first:
+      213: 4739580406073048071
+    second: Koromon_207
+  - first:
+      213: 4662859534478410022
+    second: Koromon_208
+  - first:
+      213: -4641937668941376171
+    second: Koromon_209
+  - first:
+      213: -3884395978726528099
+    second: Koromon_210
+  - first:
+      213: 751579812429547379
+    second: Koromon_211
+  - first:
+      213: 7752130968167771210
+    second: Koromon_212
+  - first:
+      213: -1554789183684503317
+    second: Koromon_213
+  - first:
+      213: -348123422574370160
+    second: Koromon_214
+  - first:
+      213: -3480467868291972353
+    second: Koromon_215
+  - first:
+      213: -6645549479752273327
+    second: Koromon_216
+  - first:
+      213: -3803616312519543223
+    second: Koromon_217
+  - first:
+      213: -4364825209887793718
+    second: Koromon_218
+  - first:
+      213: -7058012914984183377
+    second: Koromon_219
+  - first:
+      213: 3376333140118685816
+    second: Koromon_220
+  - first:
+      213: -5533629438481055937
+    second: Koromon_221
+  - first:
+      213: -4832518015029623032
+    second: Koromon_222
+  - first:
+      213: -836803840840455267
+    second: Koromon_223
+  - first:
+      213: -1485338877778561185
+    second: Koromon_224
+  - first:
+      213: -6267838861423267161
+    second: Koromon_225
+  - first:
+      213: -1979299464074321223
+    second: Koromon_226
+  - first:
+      213: 4254440860125800831
+    second: Koromon_227
+  - first:
+      213: 3528886417029542344
+    second: Koromon_228
+  - first:
+      213: -2366494938897425891
+    second: Koromon_229
+  - first:
+      213: 981987505864404903
+    second: Koromon_230
+  - first:
+      213: -2567086268607433744
+    second: Koromon_231
+  - first:
+      213: 7648759705040229831
+    second: Koromon_232
+  - first:
+      213: -4694219781733241964
+    second: Koromon_233
+  - first:
+      213: 9182072541463317028
+    second: Koromon_234
+  - first:
+      213: 2382092641509172764
+    second: Koromon_235
+  - first:
+      213: -8436585779530114079
+    second: Koromon_236
+  - first:
+      213: 2833349500733744759
+    second: Koromon_237
+  - first:
+      213: 3806467807158268293
+    second: Koromon_238
+  - first:
+      213: 2491553412247887078
+    second: Koromon_239
+  - first:
+      213: 7728374724567449994
+    second: Koromon_240
+  - first:
+      213: -3466781007373417566
+    second: Koromon_241
+  - first:
+      213: 4045499979466155384
+    second: Koromon_242
+  - first:
+      213: 5132261051563882763
+    second: Koromon_243
+  - first:
+      213: 1948452950907566708
+    second: Koromon_244
+  - first:
+      213: 2856989970556940343
+    second: Koromon_245
+  - first:
+      213: 1804349848823035864
+    second: Koromon_246
+  - first:
+      213: 6591868146271676229
+    second: Koromon_247
+  - first:
+      213: -7712159821723978130
+    second: Koromon_248
+  - first:
+      213: 4352364127619131547
+    second: Koromon_249
+  - first:
+      213: 8589535044105910596
+    second: Koromon_250
+  - first:
+      213: 8024364237369577717
+    second: Koromon_251
+  - first:
+      213: -2231314205463956033
+    second: Koromon_252
+  - first:
+      213: -2779178616237362772
+    second: Koromon_253
+  - first:
+      213: -7735499329902581652
+    second: Koromon_254
+  - first:
+      213: 1870496355703066138
+    second: Koromon_255
+  - first:
+      213: -361396818990875810
+    second: Koromon_256
+  - first:
+      213: -4791101311161193903
+    second: Koromon_257
+  - first:
+      213: 9061523125016217510
+    second: Koromon_258
+  - first:
+      213: 2597845005381865149
+    second: Koromon_259
+  - first:
+      213: -1640447864611072622
+    second: Koromon_260
+  - first:
+      213: 3986039994490787056
+    second: Koromon_261
+  - first:
+      213: 202003933885061359
+    second: Koromon_262
+  - first:
+      213: 7019308312311748527
+    second: Koromon_263
+  - first:
+      213: 1802330341500487884
+    second: Koromon_264
+  - first:
+      213: -549435629059217267
+    second: Koromon_265
+  - first:
+      213: 2603439686090237417
+    second: Koromon_266
+  - first:
+      213: 2786384574978674448
+    second: Koromon_267
+  - first:
+      213: -5711522544624382866
+    second: Koromon_268
+  - first:
+      213: -7532853606917264149
+    second: Koromon_269
+  - first:
+      213: -4678114030820455053
+    second: Koromon_270
+  - first:
+      213: 8052856776569756700
+    second: Koromon_271
+  - first:
+      213: -2507252692122371117
+    second: Koromon_272
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 01Koromon_29
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 864
+        width: 87
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f46e9f89c3911c1439515ad85bb7fbbb
+      internalID: -1139862635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01Koromon_30
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 864
+        width: 87
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c3e968d6705c62498a29b50199d8d8c
+      internalID: -85246575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01Koromon_31
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 864
+        width: 87
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9d8da53b37076c48ac4d3b69535eb4d
+      internalID: -1209794603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01Koromon_32
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 864
+        width: 88
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1adfdfaf6b1cb4148a6d06d9078cbc9a
+      internalID: 1711865595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01Koromon_45
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 693
+        width: 68
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 688cba8ca85f0cf459809e3f04a2ecc9
+      internalID: 1490010541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01Koromon_46
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 694
+        width: 80
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 946d1e4fece6edf4599c44b59bd65a52
+      internalID: -1563710693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01Koromon_47
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 693
+        width: 80
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 507e38ba42659034499d65675aeb8515
+      internalID: -1516699628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01Koromon_48
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 695
+        width: 79
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d776acedbd2804abfbbb1c73fe7880
+      internalID: -2067151167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01Koromon_49
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 695
+        width: 81
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dc6c6d703b3d764595af4d7e8324511
+      internalID: 1562009878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01Koromon_50
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 694
+        width: 80
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2261277e031e49849a4305a93c3f90b3
+      internalID: -1057423892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01Koromon_51
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 706
+        width: 85
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fd49710c8c09c043874064425b26bd8
+      internalID: -1232496921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01Koromon_52
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 701
+        width: 84
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 663f65b6454b6a84a86ffe72f8c876db
+      internalID: -634231337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01Koromon_53
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 698
+        width: 86
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1d3fef8027d0324ea228e7cc5244d91
+      internalID: -1834101432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01Koromon_54
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 698
+        width: 83
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ea4d3903bde3f844b12bd1835cc6a6d
+      internalID: -362036132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01Koromon_55
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 698
+        width: 87
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57d51de6819ad6846a821994c8a24087
+      internalID: -1709250085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01Koromon_56
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 699
+        width: 85
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4ff813b5d3df494da07d96c8bc27194
+      internalID: -29504778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01Koromon_73
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 551
+        width: 81
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5852f9ff783f50946a0e111c2309c950
+      internalID: -825186374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01Koromon_82
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 524
+        width: 76
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63bdd45dda1222f42a70483b5015fe74
+      internalID: -2066198444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01Koromon_83
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 535
+        width: 78
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11b34b2e551fec7448bab3f2721e08e0
+      internalID: -1905458725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01Koromon_84
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 515
+        width: 78
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0c9d700de25abf499a1ca7a9e0af4f4
+      internalID: -1751162898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01Koromon_85
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 516
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9ede7dcd82c753479281521572f1c44
+      internalID: 1766970497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01Koromon_86
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 517
+        width: 75
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e58d80f5f08cb1498a2231061b18f1d
+      internalID: 109965254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01Koromon_87
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 516
+        width: 76
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15b773dc998d5fa48a840950e757eecc
+      internalID: -833294702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01Koromon_88
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 515
+        width: 78
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d37b7387d6b91b4b86aa5048405478c
+      internalID: 773119534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01Koromon_89
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 518
+        width: 82
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 182f47e100cc6974db5247672a5c9362
+      internalID: -2015224538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01Koromon_112
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 360
+        width: 79
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 328b0bd5126304c41bf6ea1769e4e145
+      internalID: -1394051835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01Koromon_113
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 359
+        width: 81
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b47d132ac85d3334c937903095e71407
+      internalID: -1862626714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01Koromon_114
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 361
+        width: 86
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c6665985f5845a49a37addb69e97d4a
+      internalID: 1820857926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01Koromon_115
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 362
+        width: 84
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 711d5009ebb26c849a54ca51da1ac3b3
+      internalID: 68991349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01Koromon_116
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 357
+        width: 68
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00c3727d0476cc84899b65cb2ec947f2
+      internalID: -1051909862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01Koromon_117
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 356
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b6d1c94c32ab1f4d8772ca77f11baf8
+      internalID: 1910977849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01Koromon_118
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 355
+        width: 71
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bb9a32ce5cf9584f8bb825fe071b0bd
+      internalID: 169189955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01Koromon_119
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 420
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7773eca227bd71f458ee0a078121f22e
+      internalID: 1866886712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01Koromon_120
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 365
+        width: 69
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a49d902f545a9f49813468191e4360a
+      internalID: 444750807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01Koromon_121
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 386
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3207e5ee364cf243922545f442a2727
+      internalID: -883241855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01Koromon_122
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 357
+        width: 80
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d5b309599d60f2418582c42ebc7f5c3
+      internalID: 1736630187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01Koromon_123
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 356
+        width: 83
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d55fc2fed90336945b98f532fb2e747d
+      internalID: -62503854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01Koromon_124
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 355
+        width: 82
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7d5cdc7f23bd294dbf364ef75e7124c
+      internalID: 689214942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01Koromon_125
+      rect:
+        serializedVersion: 2
+        x: 1389
+        y: 357
+        width: 84
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f96b67af281c4fd4c86e6e33857e5170
+      internalID: 862071365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01Koromon_126
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 368
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd9b14ca942b5c34faae6191c506dcb0
+      internalID: 1616825322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01Koromon_127
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 373
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21f602677c91e8a47a2bfbb8df3aeeca
+      internalID: 1713952619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01Koromon_156
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 200
+        width: 67
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fed0b29cc626bf94991d63a41f098bf1
+      internalID: -140236509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01Koromon_157
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 201
+        width: 73
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ea0fda03d779d444815b2c954d07ddf
+      internalID: 976167475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01Koromon_158
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 201
+        width: 67
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74ca6a23e54b58b47997c35af57a0e8b
+      internalID: 1535571905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01Koromon_159
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 201
+        width: 73
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13e98a6c3715f61469808b8747e88d5f
+      internalID: -324324780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01Koromon_160
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 200
+        width: 69
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 406e0e2fc00235140b35d5b80ddd38b6
+      internalID: -1430402152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01Koromon_161
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 200
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a77ea0cebdaa3134fb9af5da30dc7a4f
+      internalID: -937651743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01Koromon_162
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 262
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cec7b10fcd8dc3488f83361ecf6383f
+      internalID: 880308686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01Koromon_163
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 262
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7468cd02b9aa8084b9b01bc142ad92a9
+      internalID: -179202309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01Koromon_164
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 267
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de3fb6dae473bc3489457fb0ed940af6
+      internalID: 496118905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01Koromon_165
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 262
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce8221dafe1f1404e9b6c96381d811a2
+      internalID: 790124109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01Koromon_166
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 263
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c075b92c2763e024b87ab83fb45b72e4
+      internalID: -283075790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01Koromon_167
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 260
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d7312d0a11c5434897c882969c491aa
+      internalID: 1580726252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01Koromon_168
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 260
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05b03055b18a55d4395670430f02b7f5
+      internalID: -875779556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01Koromon_169
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 260
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce8cb7c262da6964aac0b7ed9aa7c5b0
+      internalID: 327119345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01Koromon_170
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 250
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2910b6d2072e924498e2de8d60ee0acd
+      internalID: -1533073255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01Koromon_171
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 198
+        width: 65
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5492088331273b84298e208cf5ae2efe
+      internalID: -482932409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01Koromon_172
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 199
+        width: 68
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7572aabf8b72edd4daded95ba28173fd
+      internalID: -1163176072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01Koromon_173
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 200
+        width: 76
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7ca8bd78b8ce944689376526eac1d93
+      internalID: -345643950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01Koromon_174
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 255
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5e63cb20fc9eb744a04ec5d3639ee8c
+      internalID: 1136218789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01Koromon_175
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 255
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 515a0a6dc33a8574e92732cb8e15cc61
+      internalID: 911253635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01Koromon_176
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 200
+        width: 77
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 496a4b8b51a667541a27340302f5d995
+      internalID: -471509908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01Koromon_177
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 254
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 888d53a77383f4147a04ddc375cc9eb9
+      internalID: 522679987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01Koromon_178
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 255
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f852bb8390a657b4ca4480da8833c1b2
+      internalID: 1717101982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01Koromon_179
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 253
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52c188ff5a44238408468cf4b3f2b73b
+      internalID: -86317857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01Koromon_180
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 255
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d695a0d7116f914fb72e22a024a481f
+      internalID: 1279307315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01Koromon_181
+      rect:
+        serializedVersion: 2
+        x: 1418
+        y: 249
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27d38adeec10601459425262d29d81b9
+      internalID: -731700608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01Koromon_182
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 251
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe81ccc45998d4d48aa5c17f9702747f
+      internalID: -1395801497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01Koromon_183
+      rect:
+        serializedVersion: 2
+        x: 1436
+        y: 256
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1276caccb9b2e5b499c6349992dba7a2
+      internalID: -519393070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01Koromon_184
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 244
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40ca0a04ebadaa044b3e3d5d6ac53991
+      internalID: 1165164440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01Koromon_185
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 200
+        width: 77
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c3754c680c20be459f37b036e5b5235
+      internalID: -342819230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01Koromon_186
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 200
+        width: 79
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 529098b1579190743bf70d0609247f1a
+      internalID: -1031016869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01Koromon_187
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 236
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 421d8a2fb1a78f24eba9ceb40318409c
+      internalID: 1125240617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01Koromon_229
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 45
+        width: 78
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e89ed6772d17f53439f64f787d560189
+      internalID: -1668029172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01Koromon_230
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 46
+        width: 78
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6dbf7b593c96ba43968fe1b2ec4203a
+      internalID: 749094098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01Koromon_233
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 43
+        width: 73
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4728e072b92875942babd9fba00409e2
+      internalID: 1596947911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01Koromon_234
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 40
+        width: 88
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c6aca9705e86d445ba2877c096d9a39
+      internalID: -1759623912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01Koromon_237
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 42
+        width: 72
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a3ee0d469b4d694693877ed8f5e1331
+      internalID: 61392676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01Koromon_238
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 42
+        width: 72
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 486caa3156f09664199ce8fe341d5bcd
+      internalID: 1679905887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01Koromon_250
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 52
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3bd630da4b82874380fb0f28a93d30d
+      internalID: 658914871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01Koromon_251
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 52
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40244c82705e19f42a00e2602b2745a6
+      internalID: -1138550269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01Koromon_255
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 45
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 871365b9a8e302d4cb32d3ffbac1efe5
+      internalID: 828978037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01Koromon_256
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 45
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 614e01478c2c73a45b3ae8935d7e5bc5
+      internalID: -633919942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01Koromon_259
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 48
+        width: 5
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4acc28cc58a5f7b4a8bbd4ce31e88e39
+      internalID: -1922510024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01Koromon_260
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 45
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1e6c997922dd4a49a6c94b0c5af20aa
+      internalID: -252111293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01Koromon_261
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 47
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc0e252dc2130f14fbbed41d4fa03e9c
+      internalID: -1365334830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01Koromon_264
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 41
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f555bc8e6e040744c919b7c1c6108871
+      internalID: 2021531557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01Koromon_214
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 51
+        width: 80
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0505bba4107763645899da7ea469e3a5
+      internalID: -1243476511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5679e627aa513bf49ae9dba51a321221
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      01Koromon_0: 249205832
+      01Koromon_1: 975538328
+      01Koromon_10: -2023227894
+      01Koromon_100: -48035237
+      01Koromon_101: -1375770952
+      01Koromon_102: -1116573386
+      01Koromon_103: -367414444
+      01Koromon_104: 433960410
+      01Koromon_105: -1636956549
+      01Koromon_106: -388071870
+      01Koromon_107: 577135133
+      01Koromon_108: -2034220792
+      01Koromon_109: 1009609792
+      01Koromon_11: 303855226
+      01Koromon_110: -1664702700
+      01Koromon_111: 460471443
+      01Koromon_112: -1394051835
+      01Koromon_113: -1862626714
+      01Koromon_114: 1820857926
+      01Koromon_115: 68991349
+      01Koromon_116: -1051909862
+      01Koromon_117: 1910977849
+      01Koromon_118: 169189955
+      01Koromon_119: 1866886712
+      01Koromon_12: 249433618
+      01Koromon_120: 444750807
+      01Koromon_121: -883241855
+      01Koromon_122: 1736630187
+      01Koromon_123: -62503854
+      01Koromon_124: 689214942
+      01Koromon_125: 862071365
+      01Koromon_126: 1616825322
+      01Koromon_127: 1713952619
+      01Koromon_128: 1877528354
+      01Koromon_129: 791289458
+      01Koromon_13: 957573196
+      01Koromon_130: -181576574
+      01Koromon_131: -1304565612
+      01Koromon_132: -1988249386
+      01Koromon_133: 887314774
+      01Koromon_134: 1695589981
+      01Koromon_135: 1836235712
+      01Koromon_136: 1617264808
+      01Koromon_137: -344538017
+      01Koromon_138: 1345169373
+      01Koromon_139: -1695573967
+      01Koromon_14: -1091925585
+      01Koromon_140: 1422129261
+      01Koromon_141: -243050838
+      01Koromon_142: 1442862628
+      01Koromon_143: 1467030763
+      01Koromon_144: 857905778
+      01Koromon_145: -91637229
+      01Koromon_146: 2060646118
+      01Koromon_147: 29669124
+      01Koromon_148: 1426551728
+      01Koromon_149: -2130801618
+      01Koromon_15: 1041068437
+      01Koromon_150: 424214557
+      01Koromon_151: 687363921
+      01Koromon_152: 1195387868
+      01Koromon_153: 865431067
+      01Koromon_154: 1848450559
+      01Koromon_155: -1159806077
+      01Koromon_156: -140236509
+      01Koromon_157: 976167475
+      01Koromon_158: 1535571905
+      01Koromon_159: -324324780
+      01Koromon_16: -1118444851
+      01Koromon_160: -1430402152
+      01Koromon_161: -937651743
+      01Koromon_162: 880308686
+      01Koromon_163: -179202309
+      01Koromon_164: 496118905
+      01Koromon_165: 790124109
+      01Koromon_166: -283075790
+      01Koromon_167: 1580726252
+      01Koromon_168: -875779556
+      01Koromon_169: 327119345
+      01Koromon_17: 612580200
+      01Koromon_170: -1533073255
+      01Koromon_171: -482932409
+      01Koromon_172: -1163176072
+      01Koromon_173: -345643950
+      01Koromon_174: 1136218789
+      01Koromon_175: 911253635
+      01Koromon_176: -471509908
+      01Koromon_177: 522679987
+      01Koromon_178: 1717101982
+      01Koromon_179: -86317857
+      01Koromon_18: -136509626
+      01Koromon_180: 1279307315
+      01Koromon_181: -731700608
+      01Koromon_182: -1395801497
+      01Koromon_183: -519393070
+      01Koromon_184: 1165164440
+      01Koromon_185: -342819230
+      01Koromon_186: -1031016869
+      01Koromon_187: 1125240617
+      01Koromon_188: -1213012326
+      01Koromon_189: -1197086026
+      01Koromon_19: 207060199
+      01Koromon_190: 1342084422
+      01Koromon_191: -1643583812
+      01Koromon_192: 2144217863
+      01Koromon_193: 1097863511
+      01Koromon_194: 461382778
+      01Koromon_195: 504792401
+      01Koromon_196: 47302144
+      01Koromon_197: 22305245
+      01Koromon_198: -831493795
+      01Koromon_199: 1192148654
+      01Koromon_2: -254930553
+      01Koromon_20: -544384771
+      01Koromon_200: 1081167889
+      01Koromon_201: 1352240008
+      01Koromon_202: 1573602776
+      01Koromon_203: 654433974
+      01Koromon_204: -158656034
+      01Koromon_205: 37949262
+      01Koromon_206: 502451691
+      01Koromon_207: 763988025
+      01Koromon_208: -1969909391
+      01Koromon_209: 537885580
+      01Koromon_21: 1967537201
+      01Koromon_210: 43441906
+      01Koromon_211: 692477361
+      01Koromon_212: 1315959771
+      01Koromon_213: -135970770
+      01Koromon_214: -1243476511
+      01Koromon_215: 76575429
+      01Koromon_216: 1470165518
+      01Koromon_217: -139340910
+      01Koromon_218: -295284283
+      01Koromon_219: 275828699
+      01Koromon_22: 1648540919
+      01Koromon_220: -1396683437
+      01Koromon_221: -988509969
+      01Koromon_222: 216500848
+      01Koromon_223: 728614506
+      01Koromon_224: -7841189
+      01Koromon_225: -1815957331
+      01Koromon_226: 585347538
+      01Koromon_227: 318148587
+      01Koromon_228: -1351014479
+      01Koromon_229: -1668029172
+      01Koromon_23: -13780585
+      01Koromon_230: 749094098
+      01Koromon_231: -340355773
+      01Koromon_232: 1474789345
+      01Koromon_233: 1596947911
+      01Koromon_234: -1759623912
+      01Koromon_235: 15497731
+      01Koromon_236: 1823241139
+      01Koromon_237: 61392676
+      01Koromon_238: 1679905887
+      01Koromon_239: 1539737462
+      01Koromon_24: -1023541043
+      01Koromon_240: 1547558970
+      01Koromon_241: 984883736
+      01Koromon_242: -1553865004
+      01Koromon_243: -464537829
+      01Koromon_244: 845284500
+      01Koromon_245: 1114001124
+      01Koromon_246: -1891848235
+      01Koromon_247: -2118414723
+      01Koromon_248: 285164264
+      01Koromon_249: 156048040
+      01Koromon_25: -773074613
+      01Koromon_250: 658914871
+      01Koromon_251: -1138550269
+      01Koromon_252: 1835628663
+      01Koromon_253: 284983776
+      01Koromon_254: 1814801958
+      01Koromon_255: 828978037
+      01Koromon_256: -633919942
+      01Koromon_257: 2114915428
+      01Koromon_258: -172875361
+      01Koromon_259: -1922510024
+      01Koromon_26: -1141265350
+      01Koromon_260: -252111293
+      01Koromon_261: -1365334830
+      01Koromon_262: 1283951578
+      01Koromon_263: 134946333
+      01Koromon_264: 2021531557
+      01Koromon_265: -582280947
+      01Koromon_266: 37422857
+      01Koromon_267: -1027608041
+      01Koromon_268: 281089561
+      01Koromon_269: 540184406
+      01Koromon_27: -910037333
+      01Koromon_270: -411173475
+      01Koromon_271: 651107483
+      01Koromon_272: 2014872730
+      01Koromon_28: -996730875
+      01Koromon_29: -1139862635
+      01Koromon_3: -1858962324
+      01Koromon_30: -85246575
+      01Koromon_31: -1209794603
+      01Koromon_32: 1711865595
+      01Koromon_33: -2018828027
+      01Koromon_34: -2035815193
+      01Koromon_35: -1845636922
+      01Koromon_36: 1495300726
+      01Koromon_37: 88898333
+      01Koromon_38: -832325036
+      01Koromon_39: -911791893
+      01Koromon_4: -1065557125
+      01Koromon_40: -732445849
+      01Koromon_41: -1435495640
+      01Koromon_42: -1955156432
+      01Koromon_43: -1243273203
+      01Koromon_44: 777445587
+      01Koromon_45: 1490010541
+      01Koromon_46: -1563710693
+      01Koromon_47: -1516699628
+      01Koromon_48: -2067151167
+      01Koromon_49: 1562009878
+      01Koromon_5: -921576332
+      01Koromon_50: -1057423892
+      01Koromon_51: -1232496921
+      01Koromon_52: -634231337
+      01Koromon_53: -1834101432
+      01Koromon_54: -362036132
+      01Koromon_55: -1709250085
+      01Koromon_56: -29504778
+      01Koromon_57: -343337840
+      01Koromon_58: 637953199
+      01Koromon_59: -1418314847
+      01Koromon_6: 559957497
+      01Koromon_60: 10894810
+      01Koromon_61: 31978541
+      01Koromon_62: -1805682274
+      01Koromon_63: 638134786
+      01Koromon_64: -1370410585
+      01Koromon_65: 523896628
+      01Koromon_66: -2085881468
+      01Koromon_67: -1994481640
+      01Koromon_68: 941213406
+      01Koromon_69: -1050207970
+      01Koromon_7: 942300698
+      01Koromon_70: -804785619
+      01Koromon_71: 2071380209
+      01Koromon_72: 882719470
+      01Koromon_73: -825186374
+      01Koromon_74: -469042970
+      01Koromon_75: 1989811593
+      01Koromon_76: 1584256265
+      01Koromon_77: 1859714846
+      01Koromon_78: -725638241
+      01Koromon_79: 1122535766
+      01Koromon_8: -1315743905
+      01Koromon_80: -459628325
+      01Koromon_81: -691424571
+      01Koromon_82: -2066198444
+      01Koromon_83: -1905458725
+      01Koromon_84: -1751162898
+      01Koromon_85: 1766970497
+      01Koromon_86: 109965254
+      01Koromon_87: -833294702
+      01Koromon_88: 773119534
+      01Koromon_89: -2015224538
+      01Koromon_9: 1891105126
+      01Koromon_90: -690980842
+      01Koromon_91: 884323927
+      01Koromon_92: -162217882
+      01Koromon_93: 1593841728
+      01Koromon_94: 1925157290
+      01Koromon_95: -1096544731
+      01Koromon_96: 913630913
+      01Koromon_97: 1540952422
+      01Koromon_98: 2102463252
+      01Koromon_99: -1779888673
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

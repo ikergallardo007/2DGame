@@ -1,0 +1,7189 @@
+fileFormatVersion: 2
+guid: 22d8286894bd5514089c4951127db38a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6761289367468492253
+    second: Wargreymon_0
+  - first:
+      213: 7321035604511912470
+    second: Wargreymon_1
+  - first:
+      213: 5305555606991823315
+    second: Wargreymon_2
+  - first:
+      213: -2446715182955019359
+    second: Wargreymon_3
+  - first:
+      213: 5112895260164064223
+    second: Wargreymon_4
+  - first:
+      213: -8330565023869988179
+    second: Wargreymon_5
+  - first:
+      213: -6697955099444706647
+    second: Wargreymon_6
+  - first:
+      213: -3854503641799259028
+    second: Wargreymon_7
+  - first:
+      213: -1295115163579154469
+    second: Wargreymon_8
+  - first:
+      213: -7449646165270720976
+    second: Wargreymon_9
+  - first:
+      213: 9036246143351738285
+    second: Wargreymon_10
+  - first:
+      213: -2323951261732841662
+    second: Wargreymon_11
+  - first:
+      213: -4065173737239007443
+    second: Wargreymon_12
+  - first:
+      213: 9013911764343905666
+    second: Wargreymon_13
+  - first:
+      213: 6856207992611303830
+    second: Wargreymon_14
+  - first:
+      213: 3492542960019786913
+    second: Wargreymon_15
+  - first:
+      213: -339921962760288901
+    second: Wargreymon_16
+  - first:
+      213: -8699888783598349989
+    second: Wargreymon_17
+  - first:
+      213: -4652354811076264985
+    second: Wargreymon_18
+  - first:
+      213: 3825570648648447412
+    second: Wargreymon_19
+  - first:
+      213: -2357475956561031786
+    second: Wargreymon_20
+  - first:
+      213: 4528682697624988568
+    second: Wargreymon_21
+  - first:
+      213: 3793266111734886848
+    second: Wargreymon_22
+  - first:
+      213: -2068578552036020909
+    second: Wargreymon_23
+  - first:
+      213: -5097992752818205652
+    second: Wargreymon_24
+  - first:
+      213: -519305386886646780
+    second: Wargreymon_25
+  - first:
+      213: 3143612777754251234
+    second: Wargreymon_26
+  - first:
+      213: 5636725516585671578
+    second: Wargreymon_27
+  - first:
+      213: 5301592610624294691
+    second: Wargreymon_28
+  - first:
+      213: 7118635729930295711
+    second: Wargreymon_29
+  - first:
+      213: -4702850484827130354
+    second: Wargreymon_30
+  - first:
+      213: -1065379186425497380
+    second: Wargreymon_31
+  - first:
+      213: 7486218645043633593
+    second: Wargreymon_32
+  - first:
+      213: 8203358738938951045
+    second: Wargreymon_33
+  - first:
+      213: 2689572033789546992
+    second: Wargreymon_34
+  - first:
+      213: 820272480305368559
+    second: Wargreymon_35
+  - first:
+      213: 6455341049862017504
+    second: Wargreymon_36
+  - first:
+      213: 4310595862286829085
+    second: Wargreymon_37
+  - first:
+      213: 2344780767000936361
+    second: Wargreymon_38
+  - first:
+      213: -7922444602438643987
+    second: Wargreymon_39
+  - first:
+      213: 6109367642532596386
+    second: Wargreymon_40
+  - first:
+      213: -7053241419375252884
+    second: Wargreymon_41
+  - first:
+      213: -677426294232606185
+    second: Wargreymon_42
+  - first:
+      213: 7172359062651992665
+    second: Wargreymon_43
+  - first:
+      213: 1104300882912997004
+    second: Wargreymon_44
+  - first:
+      213: -8170277869373033865
+    second: Wargreymon_45
+  - first:
+      213: 6989780240860974955
+    second: Wargreymon_46
+  - first:
+      213: 9210992070475477323
+    second: Wargreymon_47
+  - first:
+      213: 9104660099363013599
+    second: Wargreymon_48
+  - first:
+      213: 3273466971339947950
+    second: Wargreymon_49
+  - first:
+      213: 8170432880006210748
+    second: Wargreymon_50
+  - first:
+      213: 2364115062500760466
+    second: Wargreymon_51
+  - first:
+      213: -5481387499184622183
+    second: Wargreymon_52
+  - first:
+      213: -6301455927300843639
+    second: Wargreymon_53
+  - first:
+      213: 3880311836898326406
+    second: Wargreymon_54
+  - first:
+      213: -2593435509137634439
+    second: Wargreymon_55
+  - first:
+      213: -1636558084774910832
+    second: Wargreymon_56
+  - first:
+      213: 2601770105336560392
+    second: Wargreymon_57
+  - first:
+      213: -7814876918245862028
+    second: Wargreymon_58
+  - first:
+      213: -6729093968296933728
+    second: Wargreymon_59
+  - first:
+      213: 6517295723760140556
+    second: Wargreymon_60
+  - first:
+      213: 585228660272983352
+    second: Wargreymon_61
+  - first:
+      213: -1081686350455986978
+    second: Wargreymon_62
+  - first:
+      213: -5738250154630298547
+    second: Wargreymon_63
+  - first:
+      213: -8064596213898492209
+    second: Wargreymon_64
+  - first:
+      213: 3807407603202528345
+    second: Wargreymon_65
+  - first:
+      213: -2808261740641617910
+    second: Wargreymon_66
+  - first:
+      213: -4950314162069742964
+    second: Wargreymon_67
+  - first:
+      213: -6104918191632729163
+    second: Wargreymon_68
+  - first:
+      213: -5646308802264139899
+    second: Wargreymon_69
+  - first:
+      213: 3096629012047789189
+    second: Wargreymon_70
+  - first:
+      213: 5160437118461329334
+    second: Wargreymon_71
+  - first:
+      213: 6098010387721138666
+    second: Wargreymon_72
+  - first:
+      213: 245055832765116781
+    second: Wargreymon_73
+  - first:
+      213: -2641431212888172360
+    second: Wargreymon_74
+  - first:
+      213: -2259360260585020871
+    second: Wargreymon_75
+  - first:
+      213: 488717810585266318
+    second: Wargreymon_76
+  - first:
+      213: 2896587021639217838
+    second: Wargreymon_77
+  - first:
+      213: 4602618095354570676
+    second: Wargreymon_78
+  - first:
+      213: -6099165161253864576
+    second: Wargreymon_79
+  - first:
+      213: -8691487611330459377
+    second: Wargreymon_80
+  - first:
+      213: -6655417917561964894
+    second: Wargreymon_81
+  - first:
+      213: 7960874824520389557
+    second: Wargreymon_82
+  - first:
+      213: 3583862410567295401
+    second: Wargreymon_83
+  - first:
+      213: -5601346168147385600
+    second: Wargreymon_84
+  - first:
+      213: 2579867014403141930
+    second: Wargreymon_85
+  - first:
+      213: 8031033581654972673
+    second: Wargreymon_86
+  - first:
+      213: 1754120800952296628
+    second: Wargreymon_87
+  - first:
+      213: -3492282065397502106
+    second: Wargreymon_88
+  - first:
+      213: 3001686665520370283
+    second: Wargreymon_89
+  - first:
+      213: -8584060957415451011
+    second: Wargreymon_90
+  - first:
+      213: -1488423922085538581
+    second: Wargreymon_91
+  - first:
+      213: -6889659434662700593
+    second: Wargreymon_92
+  - first:
+      213: -7150046685686736775
+    second: Wargreymon_93
+  - first:
+      213: -1398488291257968304
+    second: Wargreymon_94
+  - first:
+      213: 1454021366037432409
+    second: Wargreymon_95
+  - first:
+      213: 391875500193870326
+    second: Wargreymon_96
+  - first:
+      213: -1263360194127886830
+    second: Wargreymon_97
+  - first:
+      213: 4831178079943913821
+    second: Wargreymon_98
+  - first:
+      213: -3698326735830162258
+    second: Wargreymon_99
+  - first:
+      213: -8963176899917849819
+    second: Wargreymon_100
+  - first:
+      213: -6882454304641514864
+    second: Wargreymon_101
+  - first:
+      213: 8517290489636756158
+    second: Wargreymon_102
+  - first:
+      213: 2126729878488741626
+    second: Wargreymon_103
+  - first:
+      213: -7561295337683514736
+    second: Wargreymon_104
+  - first:
+      213: -549188678673138719
+    second: Wargreymon_105
+  - first:
+      213: 2386835932677265638
+    second: Wargreymon_106
+  - first:
+      213: -4027258269061920545
+    second: Wargreymon_107
+  - first:
+      213: 2495023377978353837
+    second: Wargreymon_108
+  - first:
+      213: 8494862508049550560
+    second: Wargreymon_109
+  - first:
+      213: 2981090494854961473
+    second: Wargreymon_110
+  - first:
+      213: 5267033329496046288
+    second: Wargreymon_111
+  - first:
+      213: -3065358107818365577
+    second: Wargreymon_112
+  - first:
+      213: 8828398589562612307
+    second: Wargreymon_113
+  - first:
+      213: -791597792126670788
+    second: Wargreymon_114
+  - first:
+      213: -4532979004619775373
+    second: Wargreymon_115
+  - first:
+      213: -4520518598837914288
+    second: Wargreymon_116
+  - first:
+      213: -2698836002747745781
+    second: Wargreymon_117
+  - first:
+      213: 2112981554894412873
+    second: Wargreymon_118
+  - first:
+      213: -7808847949347315063
+    second: Wargreymon_119
+  - first:
+      213: 2573194236857976979
+    second: Wargreymon_120
+  - first:
+      213: 366327482491963517
+    second: Wargreymon_121
+  - first:
+      213: 955878477222111528
+    second: Wargreymon_122
+  - first:
+      213: -5698039031895172905
+    second: Wargreymon_123
+  - first:
+      213: -5966222075366544990
+    second: Wargreymon_124
+  - first:
+      213: -1013109027667238264
+    second: Wargreymon_125
+  - first:
+      213: -8845928292821125312
+    second: Wargreymon_126
+  - first:
+      213: -6780170727639660762
+    second: Wargreymon_127
+  - first:
+      213: -4001097710092346996
+    second: Wargreymon_128
+  - first:
+      213: -1999007577048337943
+    second: Wargreymon_129
+  - first:
+      213: 5883189005106505144
+    second: Wargreymon_130
+  - first:
+      213: 7890448553436938228
+    second: Wargreymon_131
+  - first:
+      213: -647041536761079205
+    second: Wargreymon_132
+  - first:
+      213: -6297843053290988864
+    second: Wargreymon_133
+  - first:
+      213: 5139363533137658875
+    second: Wargreymon_134
+  - first:
+      213: 8918378383818581255
+    second: Wargreymon_135
+  - first:
+      213: 6747011856582653029
+    second: Wargreymon_136
+  - first:
+      213: 487546441686125043
+    second: Wargreymon_137
+  - first:
+      213: -4958401706907117118
+    second: Wargreymon_138
+  - first:
+      213: -5692861494329341292
+    second: Wargreymon_139
+  - first:
+      213: 3359941682257735605
+    second: Wargreymon_140
+  - first:
+      213: -5879165803607103246
+    second: Wargreymon_141
+  - first:
+      213: 7560844097297297293
+    second: Wargreymon_142
+  - first:
+      213: 3503321795983269905
+    second: Wargreymon_143
+  - first:
+      213: -4412729537839098881
+    second: Wargreymon_144
+  - first:
+      213: -667495699766787411
+    second: Wargreymon_145
+  - first:
+      213: 2680694463735712031
+    second: Wargreymon_146
+  - first:
+      213: 2920440632104806591
+    second: Wargreymon_147
+  - first:
+      213: -4488710829219316475
+    second: Wargreymon_148
+  - first:
+      213: 7490732524936861514
+    second: Wargreymon_149
+  - first:
+      213: -2557342090325531231
+    second: Wargreymon_150
+  - first:
+      213: -3089090184260946775
+    second: Wargreymon_151
+  - first:
+      213: -6365212732601223728
+    second: Wargreymon_152
+  - first:
+      213: -7561923807204899304
+    second: Wargreymon_153
+  - first:
+      213: -3862370382720867375
+    second: Wargreymon_154
+  - first:
+      213: 900498897080588001
+    second: Wargreymon_155
+  - first:
+      213: 4500202117059785449
+    second: Wargreymon_156
+  - first:
+      213: -7076738627668084008
+    second: Wargreymon_157
+  - first:
+      213: 8687727058332449570
+    second: Wargreymon_158
+  - first:
+      213: -3710445301608127884
+    second: Wargreymon_159
+  - first:
+      213: -8125386712737362787
+    second: Wargreymon_160
+  - first:
+      213: -8765781166483911533
+    second: Wargreymon_161
+  - first:
+      213: 2031080681328892305
+    second: Wargreymon_162
+  - first:
+      213: 6525775529099909328
+    second: Wargreymon_163
+  - first:
+      213: 3609969588725796904
+    second: Wargreymon_164
+  - first:
+      213: -8361262604192112784
+    second: Wargreymon_165
+  - first:
+      213: 4253118262100790192
+    second: Wargreymon_166
+  - first:
+      213: 8416957174948601746
+    second: Wargreymon_167
+  - first:
+      213: 3179271183908455867
+    second: Wargreymon_168
+  - first:
+      213: -1537308706046041638
+    second: Wargreymon_169
+  - first:
+      213: 8759849426077140233
+    second: Wargreymon_170
+  - first:
+      213: -7690017982563309267
+    second: Wargreymon_171
+  - first:
+      213: 5763618271203902020
+    second: Wargreymon_172
+  - first:
+      213: -8882084526564889877
+    second: Wargreymon_173
+  - first:
+      213: 8898680267092918880
+    second: Wargreymon_174
+  - first:
+      213: -6879269465006318497
+    second: Wargreymon_175
+  - first:
+      213: -4340372588353641965
+    second: Wargreymon_176
+  - first:
+      213: 1545015918761002939
+    second: Wargreymon_177
+  - first:
+      213: 1470973844025654268
+    second: Wargreymon_178
+  - first:
+      213: 7620173826352901816
+    second: Wargreymon_179
+  - first:
+      213: 3751145098652732522
+    second: Wargreymon_180
+  - first:
+      213: 655175300375267894
+    second: Wargreymon_181
+  - first:
+      213: 4726906854069245365
+    second: Wargreymon_182
+  - first:
+      213: -2303337463979973625
+    second: Wargreymon_183
+  - first:
+      213: -627612841375561235
+    second: Wargreymon_184
+  - first:
+      213: -4096711497218924033
+    second: Wargreymon_185
+  - first:
+      213: 5700602534571425699
+    second: Wargreymon_186
+  - first:
+      213: -365524299335873016
+    second: Wargreymon_187
+  - first:
+      213: -6087918758938596995
+    second: Wargreymon_188
+  - first:
+      213: -5157907044283457274
+    second: Wargreymon_189
+  - first:
+      213: 6530679545926543839
+    second: Wargreymon_190
+  - first:
+      213: -2910624251797626463
+    second: Wargreymon_191
+  - first:
+      213: 1918548466662990531
+    second: Wargreymon_192
+  - first:
+      213: 6879724873120320182
+    second: Wargreymon_193
+  - first:
+      213: 1163275275047348269
+    second: Wargreymon_194
+  - first:
+      213: 3341706281948456755
+    second: Wargreymon_195
+  - first:
+      213: 6758594900160383555
+    second: Wargreymon_196
+  - first:
+      213: -7714211253689120931
+    second: Wargreymon_197
+  - first:
+      213: 1557066982166786206
+    second: Wargreymon_198
+  - first:
+      213: -8877231333581023550
+    second: Wargreymon_199
+  - first:
+      213: -7212427164872483854
+    second: Wargreymon_200
+  - first:
+      213: -1621612885223532990
+    second: Wargreymon_201
+  - first:
+      213: -7736939673651413195
+    second: Wargreymon_202
+  - first:
+      213: 1156348176632772126
+    second: Wargreymon_203
+  - first:
+      213: -1298904853516926713
+    second: Wargreymon_204
+  - first:
+      213: 3009316961900025110
+    second: Wargreymon_205
+  - first:
+      213: 5214967225867084631
+    second: Wargreymon_206
+  - first:
+      213: -8597687908361358641
+    second: Wargreymon_207
+  - first:
+      213: 6873889358528222623
+    second: Wargreymon_208
+  - first:
+      213: -7511033883128363327
+    second: Wargreymon_209
+  - first:
+      213: -1496047669547450748
+    second: Wargreymon_210
+  - first:
+      213: -3899896401686494101
+    second: Wargreymon_211
+  - first:
+      213: -5279862260249282635
+    second: Wargreymon_212
+  - first:
+      213: 3147399907515541915
+    second: Wargreymon_213
+  - first:
+      213: 166264490687700495
+    second: Wargreymon_214
+  - first:
+      213: 2224028659124280217
+    second: Wargreymon_215
+  - first:
+      213: -584065374296834873
+    second: Wargreymon_216
+  - first:
+      213: -4108991016171931137
+    second: Wargreymon_217
+  - first:
+      213: -4744690386043068260
+    second: Wargreymon_218
+  - first:
+      213: -855304283827600280
+    second: Wargreymon_219
+  - first:
+      213: 2227809296764614020
+    second: Wargreymon_220
+  - first:
+      213: -7781400120669117262
+    second: Wargreymon_221
+  - first:
+      213: 8252093287684174720
+    second: Wargreymon_222
+  - first:
+      213: 8267803083959571994
+    second: Wargreymon_223
+  - first:
+      213: -4003667505134214793
+    second: Wargreymon_224
+  - first:
+      213: 883448741096831539
+    second: Wargreymon_225
+  - first:
+      213: 885676272748070668
+    second: Wargreymon_226
+  - first:
+      213: 6727158638094494560
+    second: Wargreymon_227
+  - first:
+      213: -5648590462287918813
+    second: Wargreymon_228
+  - first:
+      213: 4245586932010490357
+    second: Wargreymon_229
+  - first:
+      213: 6071039250450272876
+    second: Wargreymon_230
+  - first:
+      213: -5541698093013883756
+    second: Wargreymon_231
+  - first:
+      213: 4641329071628500160
+    second: Wargreymon_232
+  - first:
+      213: 8669506256006604766
+    second: Wargreymon_233
+  - first:
+      213: 3014615707303322517
+    second: Wargreymon_234
+  - first:
+      213: 3043166228193590711
+    second: Wargreymon_235
+  - first:
+      213: 510171506293127072
+    second: Wargreymon_236
+  - first:
+      213: -984499237533064592
+    second: Wargreymon_237
+  - first:
+      213: -8355314423044584119
+    second: Wargreymon_238
+  - first:
+      213: -8085723530913077210
+    second: Wargreymon_239
+  - first:
+      213: -5987265362049775590
+    second: Wargreymon_240
+  - first:
+      213: -8522821211790178978
+    second: Wargreymon_241
+  - first:
+      213: -7615682711999725346
+    second: Wargreymon_242
+  - first:
+      213: 978180939032757156
+    second: Wargreymon_243
+  - first:
+      213: 1982877806926824476
+    second: Wargreymon_244
+  - first:
+      213: -961829466893166546
+    second: Wargreymon_245
+  - first:
+      213: 7946458027954747427
+    second: Wargreymon_246
+  - first:
+      213: 1847675865476807283
+    second: Wargreymon_247
+  - first:
+      213: 5016712015869484872
+    second: Wargreymon_248
+  - first:
+      213: 1893501539533571237
+    second: Wargreymon_249
+  - first:
+      213: -4658887335140464589
+    second: Wargreymon_250
+  - first:
+      213: 45496535277048063
+    second: Wargreymon_251
+  - first:
+      213: 154695235670623364
+    second: Wargreymon_252
+  - first:
+      213: -1053755252734074996
+    second: Wargreymon_253
+  - first:
+      213: 3407379543671332426
+    second: Wargreymon_254
+  - first:
+      213: -3003953389112897831
+    second: Wargreymon_255
+  - first:
+      213: -5966004005511362807
+    second: Wargreymon_256
+  - first:
+      213: -8040226622313461345
+    second: Wargreymon_257
+  - first:
+      213: 313317767092198202
+    second: Wargreymon_258
+  - first:
+      213: 8206913500914229642
+    second: Wargreymon_259
+  - first:
+      213: 5394023304854059140
+    second: Wargreymon_260
+  - first:
+      213: -9008947536480799339
+    second: Wargreymon_261
+  - first:
+      213: -2637432646995070741
+    second: Wargreymon_262
+  - first:
+      213: -6494973583562669099
+    second: Wargreymon_263
+  - first:
+      213: 5025174491597411639
+    second: Wargreymon_264
+  - first:
+      213: -3954471206124339051
+    second: Wargreymon_265
+  - first:
+      213: 6334128433665910610
+    second: Wargreymon_266
+  - first:
+      213: -4498398284989871768
+    second: Wargreymon_267
+  - first:
+      213: 5847371162714509621
+    second: Wargreymon_268
+  - first:
+      213: 8275496509740962044
+    second: Wargreymon_269
+  - first:
+      213: -1710679423012455502
+    second: Wargreymon_270
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Wargreymon_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 967
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd5c59b5bdce4dd50800000000000000
+      internalID: 6761289367468492253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_1
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 967
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6127be2081b899560800000000000000
+      internalID: 7321035604511912470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 967
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d164dae6be11a940800000000000000
+      internalID: 5305555606991823315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_3
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 967
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a3496d11858b0ed0800000000000000
+      internalID: -2446715182955019359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_4
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 967
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd38bdb5627a4f640800000000000000
+      internalID: 5112895260164064223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_5
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 967
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da29fed7f33e36c80800000000000000
+      internalID: -8330565023869988179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_6
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 967
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a2051803551c03a0800000000000000
+      internalID: -6697955099444706647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_7
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 967
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6c0b1d1c5d028ac0800000000000000
+      internalID: -3854503641799259028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_8
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 967
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdf74abde93d60ee0800000000000000
+      internalID: -1295115163579154469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_9
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 967
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03e00b8584a8d9890800000000000000
+      internalID: -7449646165270720976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_10
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 983
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daf4975cdf1376d70800000000000000
+      internalID: 9036246143351738285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_11
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 983
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 247d719e3aaafbfd0800000000000000
+      internalID: -2323951261732841662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_12
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 983
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2f2f91360a9597c0800000000000000
+      internalID: -4065173737239007443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_13
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 983
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28dde6eedf8d71d70800000000000000
+      internalID: 9013911764343905666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_14
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 934
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6917ac1f7d4262f50800000000000000
+      internalID: 6856207992611303830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_15
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 934
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ac45ce5151087030800000000000000
+      internalID: 3492542960019786913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_16
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 934
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b75c15e96ca584bf0800000000000000
+      internalID: -339921962760288901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_17
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 934
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b51173cce39c34780800000000000000
+      internalID: -8699888783598349989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_18
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 934
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eb38b4d2f38f6fb0800000000000000
+      internalID: -4652354811076264985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_19
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 934
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b5f9d77c38271530800000000000000
+      internalID: 3825570648648447412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_20
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 934
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69dc7a2ab10984fd0800000000000000
+      internalID: -2357475956561031786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_21
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 934
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89b25646bec19de30800000000000000
+      internalID: 4528682697624988568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_22
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 934
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c13c785e6364a430800000000000000
+      internalID: 3793266111734886848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_23
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 934
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35da6e744ceea43e0800000000000000
+      internalID: -2068578552036020909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_24
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 934
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2c41c40a9a4049b0800000000000000
+      internalID: -5097992752818205652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_25
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 934
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 404bca4808e0bc8f0800000000000000
+      internalID: -519305386886646780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_26
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 934
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2efcb617a2b50ab20800000000000000
+      internalID: 3143612777754251234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_27
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 934
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9b18702efba93e40800000000000000
+      internalID: 5636725516585671578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_28
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 934
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32fc81ce36a039940800000000000000
+      internalID: 5301592610624294691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_29
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 934
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9916efea797ac260800000000000000
+      internalID: 7118635729930295711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_30
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 934
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e06fa1c966e1cbeb0800000000000000
+      internalID: -4702850484827130354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_31
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 858
+        width: 93
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd8730a46430731f0800000000000000
+      internalID: -1065379186425497380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_32
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 857
+        width: 93
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bd5bb8a13464e760800000000000000
+      internalID: 7486218645043633593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_33
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 857
+        width: 93
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5857d8f4f4f28d170800000000000000
+      internalID: 8203358738938951045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_34
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 857
+        width: 96
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f1d9d7c387435520800000000000000
+      internalID: 2689572033789546992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_35
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 857
+        width: 106
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fed41af8971326b00800000000000000
+      internalID: 820272480305368559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_36
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 807
+        width: 289
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e1d505ab7af59950800000000000000
+      internalID: 6455341049862017504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_37
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 834
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1600e5291052db30800000000000000
+      internalID: 4310595862286829085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_38
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 834
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9af32453fa55a8020800000000000000
+      internalID: 2344780767000936361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_39
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 834
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dee0fe6eb92dd0290800000000000000
+      internalID: -7922444602438643987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_40
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 834
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aacb678085d8c450800000000000000
+      internalID: 6109367642532596386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_41
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 834
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6ae01b7c4add1e90800000000000000
+      internalID: -7053241419375252884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_42
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 784
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71a91c2ef5c4996f0800000000000000
+      internalID: -677426294232606185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_43
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 784
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95afce21196598360800000000000000
+      internalID: 7172359062651992665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_44
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 784
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8eed2b5dc3435f00800000000000000
+      internalID: 1104300882912997004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_45
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 788
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 772f8c7d0975d9e80800000000000000
+      internalID: -8170277869373033865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_46
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 788
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6f009a7810b00160800000000000000
+      internalID: 6989780240860974955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_47
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 788
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4171a57c7404df70800000000000000
+      internalID: 9210992070475477323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_48
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 678
+        width: 94
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd3843f2f104a5e70800000000000000
+      internalID: 9104660099363013599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_49
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 678
+        width: 96
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaff0baedd0bd6d20800000000000000
+      internalID: 3273466971339947950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_50
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 678
+        width: 93
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb421f16a65336170800000000000000
+      internalID: 8170432880006210748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_51
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 679
+        width: 95
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29b128caf160fc020800000000000000
+      internalID: 2364115062500760466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_52
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 679
+        width: 93
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99575d27c133ee3b0800000000000000
+      internalID: -5481387499184622183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_53
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 681
+        width: 96
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 987147d783bbc88a0800000000000000
+      internalID: -6301455927300843639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_54
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 684
+        width: 99
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68771109e03a9d530800000000000000
+      internalID: 3880311836898326406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_55
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 685
+        width: 98
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97b87f12524420cd0800000000000000
+      internalID: -2593435509137634439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_56
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 714
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 094a2beb717c949e0800000000000000
+      internalID: -1636558084774910832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_57
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 687
+        width: 105
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80bf0d340285b1420800000000000000
+      internalID: 2601770105336560392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_58
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 716
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4755e8c09dafb8390800000000000000
+      internalID: -7814876918245862028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_59
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 683
+        width: 99
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a6007720b47d92a0800000000000000
+      internalID: -6729093968296933728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_60
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 715
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0145ee3ee5127a50800000000000000
+      internalID: 6517295723760140556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_61
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 683
+        width: 102
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83de2f7ad562f1800800000000000000
+      internalID: 585228660272983352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_62
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 717
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed4aeaacef31df0f0800000000000000
+      internalID: -1081686350455986978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_63
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 683
+        width: 104
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d444eec03e3ad50b0800000000000000
+      internalID: -5738250154630298547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_64
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 718
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc6ce95b87cc41090800000000000000
+      internalID: -8064596213898492209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_65
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 688
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9541208ea01a6d430800000000000000
+      internalID: 3807407603202528345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_66
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 696
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a087cb063dc0709d0800000000000000
+      internalID: -2808261740641617910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_67
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 688
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8a5f3b5f73fc4bb0800000000000000
+      internalID: -4950314162069742964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_68
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 688
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bb39ecff39f64ba0800000000000000
+      internalID: -6104918191632729163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_69
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 690
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58772ec4f0844a1b0800000000000000
+      internalID: -5646308802264139899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_70
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 699
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58cf6480eaf69fa20800000000000000
+      internalID: 3096629012047789189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_71
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 692
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bfb0a3d73e8d9740800000000000000
+      internalID: 5160437118461329334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_72
+      rect:
+        serializedVersion: 2
+        x: 1483
+        y: 689
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae1b2c4932c70a450800000000000000
+      internalID: 6098010387721138666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_73
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 684
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d613a164bfc966300800000000000000
+      internalID: 245055832765116781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_74
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 683
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b8db298e40c75bd0800000000000000
+      internalID: -2641431212888172360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_75
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 682
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 932223840d325a0e0800000000000000
+      internalID: -2259360260585020871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_76
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 657
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e886757624648c600800000000000000
+      internalID: 488717810585266318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_77
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 657
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea2ffc5ac8eb23820800000000000000
+      internalID: 2896587021639217838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_78
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 657
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b7e462a5c8cfdf30800000000000000
+      internalID: 4602618095354570676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_79
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 657
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08b7601c9996b5ba0800000000000000
+      internalID: -6099165161253864576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_80
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 657
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0980f42112a16780800000000000000
+      internalID: -8691487611330459377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_81
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 658
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a6f2f77aa433a3a0800000000000000
+      internalID: -6655417917561964894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_82
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 659
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b353e07975ba7e60800000000000000
+      internalID: 7960874824520389557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_83
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 660
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a12db1dfdf6cb130800000000000000
+      internalID: 3583862410567295401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_84
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 660
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 003649756550442b0800000000000000
+      internalID: -5601346168147385600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_85
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 660
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a213f3181678dc320800000000000000
+      internalID: 2579867014403141930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_86
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 660
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10917c50e76f37f60800000000000000
+      internalID: 8031033581654972673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_87
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 660
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b4a2e12393e75810800000000000000
+      internalID: 1754120800952296628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_88
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 616
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66fa384e6fbe88fc0800000000000000
+      internalID: -3492282065397502106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_89
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 616
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b625e516e1228a920800000000000000
+      internalID: 3001686665520370283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_90
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 616
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d76d3fe1a0a4fd880800000000000000
+      internalID: -8584060957415451011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_91
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 616
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be4d5e0345e085be0800000000000000
+      internalID: -1488423922085538581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_92
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 542
+        width: 95
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc9d2854f330360a0800000000000000
+      internalID: -6889659434662700593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_93
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 616
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 978de240c6ee5cc90800000000000000
+      internalID: -7150046685686736775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_94
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 616
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05996010f42979ce0800000000000000
+      internalID: -1398488291257968304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_95
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 616
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9584d7a8ab8bd2410800000000000000
+      internalID: 1454021366037432409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_96
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 616
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f1fb31f0b8307500800000000000000
+      internalID: 391875500193870326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_97
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 616
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21683a5d894a77ee0800000000000000
+      internalID: -1263360194127886830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_98
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 616
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d51f5b5fddacb0340800000000000000
+      internalID: 4831178079943913821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_99
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 616
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea46387ad67ecacc0800000000000000
+      internalID: -3698326735830162258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_100
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 616
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52bd86539166c9380800000000000000
+      internalID: -8963176899917849819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_101
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 510
+        width: 87
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0920cf4564c9c70a0800000000000000
+      internalID: -6882454304641514864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_102
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 512
+        width: 92
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eba9c93e29e733670800000000000000
+      internalID: 8517290489636756158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_103
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 509
+        width: 59
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af6f78c7e89a38d10800000000000000
+      internalID: 2126729878488741626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_104
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 510
+        width: 98
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09a8e8ba3f1e01790800000000000000
+      internalID: -7561295337683514736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_105
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 510
+        width: 87
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eb75057ec3e068f0800000000000000
+      internalID: -549188678673138719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_106
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 519
+        width: 86
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e8dd5082aebf1120800000000000000
+      internalID: 2386835932677265638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_107
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 515
+        width: 91
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd84fcd01fd4c18c0800000000000000
+      internalID: -4027258269061920545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_108
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 510
+        width: 96
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da8e1b60b8a10a220800000000000000
+      internalID: 2495023377978353837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_109
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 509
+        width: 89
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ecc3108170d3e570800000000000000
+      internalID: 8494862508049550560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_110
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 509
+        width: 25
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1499f15b206fe5920800000000000000
+      internalID: 2981090494854961473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_111
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 509
+        width: 26
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0da31c048e2481940800000000000000
+      internalID: 5267033329496046288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_112
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 487
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77d6f1aba09a575d0800000000000000
+      internalID: -3065358107818365577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_113
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 487
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35a607a0eb5c48a70800000000000000
+      internalID: 8828398589562612307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_114
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 487
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c386e4b800ea305f0800000000000000
+      internalID: -791597792126670788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_115
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 487
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 372a55fac9f9711c0800000000000000
+      internalID: -4532979004619775373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_116
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 487
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05538bbf844e341c0800000000000000
+      internalID: -4520518598837914288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_117
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 487
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0a7f2d54fecb8ad0800000000000000
+      internalID: -2698836002747745781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_118
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 487
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94c1f647781d25d10800000000000000
+      internalID: 2112981554894412873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_119
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 487
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 982ad12c92661a390800000000000000
+      internalID: -7808847949347315063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_120
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 487
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 398800a6682d5b320800000000000000
+      internalID: 2573194236857976979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_121
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 450
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d78856987e4751500800000000000000
+      internalID: 366327482491963517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_122
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 450
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 829e34b1966f34d00800000000000000
+      internalID: 955878477222111528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_123
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 450
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d8d393a0bf7ce0b0800000000000000
+      internalID: -5698039031895172905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_124
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 450
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a9eea202a8b33da0800000000000000
+      internalID: -5966222075366544990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_125
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 450
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 882272ff4b6b0f1f0800000000000000
+      internalID: -1013109027667238264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_126
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 450
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 047b1ddd513fc3580800000000000000
+      internalID: -8845928292821125312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_127
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 450
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 627498665aef7e1a0800000000000000
+      internalID: -6780170727639660762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_128
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 450
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c891156d4de3978c0800000000000000
+      internalID: -4001097710092346996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_129
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 450
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e138ba23391244e0800000000000000
+      internalID: -1999007577048337943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_130
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 450
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b56bdbca3945a150800000000000000
+      internalID: 5883189005106505144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_131
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 450
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ff7a1a6721808d60800000000000000
+      internalID: 7890448553436938228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_132
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 450
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5ade66862f3507f0800000000000000
+      internalID: -647041536761079205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_133
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 450
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cadd654c119998a0800000000000000
+      internalID: -6297843053290988864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_134
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 360
+        width: 207
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf3444467efa25740800000000000000
+      internalID: 5139363533137658875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_135
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 361
+        width: 99
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 705670473e174cb70800000000000000
+      internalID: 8918378383818581255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_136
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 434
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56435fe498332ad50800000000000000
+      internalID: 6747011856582653029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_137
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 360
+        width: 89
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f90534d7ec14c600800000000000000
+      internalID: 487546441686125043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_138
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 439
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c95c161be7303bb0800000000000000
+      internalID: -4958401706907117118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_139
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 436
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49a000b02a4eef0b0800000000000000
+      internalID: -5692861494329341292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_140
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 438
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bf20058829e0ae20800000000000000
+      internalID: 3359941682257735605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_141
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 442
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f8ef5cc9d1096ea0800000000000000
+      internalID: -5879165803607103246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_142
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 360
+        width: 93
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8fa38db5a38de860800000000000000
+      internalID: 7560844097297297293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_143
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 360
+        width: 92
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 110677fac9c4e9030800000000000000
+      internalID: 3503321795983269905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_144
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 360
+        width: 89
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff31a3f6dd5d2c2c0800000000000000
+      internalID: -4412729537839098881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_145
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 422
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da2cc4692349cb6f0800000000000000
+      internalID: -667495699766787411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_146
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 360
+        width: 86
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f19c25e696db33520800000000000000
+      internalID: 2680694463735712031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_147
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 368
+        width: 107
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb86930284d778820800000000000000
+      internalID: 2920440632104806591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_148
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 366
+        width: 106
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50dfee47845e4b1c0800000000000000
+      internalID: -4488710829219316475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_149
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 367
+        width: 109
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4793583b8d64f760800000000000000
+      internalID: 7490732524936861514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_150
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 366
+        width: 107
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a5edf01bee728cd0800000000000000
+      internalID: -2557342090325531231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_151
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 341
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a4faf718d85125d0800000000000000
+      internalID: -3089090184260946775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_152
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 341
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d5b2897eb83aa7a0800000000000000
+      internalID: -6365212732601223728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_153
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 341
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8168bf4bc56ae0790800000000000000
+      internalID: -7561923807204899304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_154
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 341
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d3eee2c99a166ac0800000000000000
+      internalID: -3862370382720867375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_155
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 341
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e69e11d9f63f7c00800000000000000
+      internalID: 900498897080588001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_156
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 341
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e23fcc7bfde37e30800000000000000
+      internalID: 4500202117059785449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_157
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 341
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dafe8956bf5acd90800000000000000
+      internalID: -7076738627668084008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_158
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 341
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22b7471eab1019870800000000000000
+      internalID: 8687727058332449570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_159
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 342
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 472612f28a9d18cc0800000000000000
+      internalID: -3710445301608127884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_160
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 342
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9c4c9cb5d3dc3f80800000000000000
+      internalID: -8125386712737362787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_161
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 342
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39ccae0e870b95680800000000000000
+      internalID: -8765781166483911533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_162
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 343
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19954c85e19df2c10800000000000000
+      internalID: 2031080681328892305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_163
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 305
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d8dfe7c446309a50800000000000000
+      internalID: 6525775529099909328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_164
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 305
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 820d6f9e630391230800000000000000
+      internalID: 3609969588725796904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_165
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 305
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07f1f5b16f3d6fb80800000000000000
+      internalID: -8361262604192112784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_166
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 305
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bb8e30868c160b30800000000000000
+      internalID: 4253118262100790192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_167
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 305
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29f9c76a4f90fc470800000000000000
+      internalID: 8416957174948601746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_168
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 305
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb5cf791c4a0f1c20800000000000000
+      internalID: 3179271183908455867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_169
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 305
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad1a20a70e16aaae0800000000000000
+      internalID: -1537308706046041638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_170
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 305
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 905cc3f24ac319970800000000000000
+      internalID: 8759849426077140233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_171
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 305
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d29a2f86361974590800000000000000
+      internalID: -7690017982563309267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_172
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 305
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4424f0cd74c7cff40800000000000000
+      internalID: 5763618271203902020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_173
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 291
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bea2b11be2f7cb480800000000000000
+      internalID: -8882084526564889877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_174
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 294
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0620ad14e867e7b70800000000000000
+      internalID: 8898680267092918880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_175
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 292
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5c5b189edce780a0800000000000000
+      internalID: -6879269465006318497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_176
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 305
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 312a65e8026e3c3c0800000000000000
+      internalID: -4340372588353641965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_177
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 305
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb7c212dacff07510800000000000000
+      internalID: 1545015918761002939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_178
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 305
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfb3a07eae2f96410800000000000000
+      internalID: 1470973844025654268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_179
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 305
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8be6e7eb8bb40c960800000000000000
+      internalID: 7620173826352901816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_180
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 305
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6cc422c79ebe0430800000000000000
+      internalID: 3751145098652732522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_181
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 208
+        width: 76
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63a4a74e676a71900800000000000000
+      internalID: 655175300375267894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_182
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 208
+        width: 64
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b518235db8599140800000000000000
+      internalID: 4726906854069245365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_183
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 211
+        width: 74
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 704ef95b7c6e800e0800000000000000
+      internalID: -2303337463979973625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_184
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 209
+        width: 70
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de9065d22754a47f0800000000000000
+      internalID: -627612841375561235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_185
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 210
+        width: 107
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff1e10d399e8527c0800000000000000
+      internalID: -4096711497218924033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_186
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 210
+        width: 99
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3af32d65dcb9c1f40800000000000000
+      internalID: 5700602534571425699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_187
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 210
+        width: 99
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80ecf4d16956deaf0800000000000000
+      internalID: -365524299335873016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_188
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 278
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d792708d42e538ba0800000000000000
+      internalID: -6087918758938596995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_189
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 282
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 601eff8fede6b68b0800000000000000
+      internalID: -5157907044283457274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_190
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 210
+        width: 95
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd96cdc2272a1aa50800000000000000
+      internalID: 6530679545926543839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_191
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 283
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a127f40aa26b97d0800000000000000
+      internalID: -2910624251797626463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_192
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 284
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c261df5aad00aa10800000000000000
+      internalID: 1918548466662990531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_193
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 277
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ba81ce5251b97f50800000000000000
+      internalID: 6879724873120320182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_194
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 284
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d28213903b8c42010800000000000000
+      internalID: 1163275275047348269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_195
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 277
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 337aa378820206e20800000000000000
+      internalID: 3341706281948456755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_196
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 284
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34a83dcc04a5bcd50800000000000000
+      internalID: 6758594900160383555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_197
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 277
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d570a858cbd91f490800000000000000
+      internalID: -7714211253689120931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_198
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 284
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e907a8bab20db9510800000000000000
+      internalID: 1557066982166786206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_199
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 276
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c69fecb22dbdc480800000000000000
+      internalID: -8877231333581023550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_200
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 210
+        width: 108
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fbd565e4bf48eb90800000000000000
+      internalID: -7212427164872483854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_201
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 264
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2461e0d2cafde79e0800000000000000
+      internalID: -1621612885223532990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_202
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 270
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53f716fdb5ed0a490800000000000000
+      internalID: -7736939673651413195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_203
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 264
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e16fdd04a8c2c0010800000000000000
+      internalID: 1156348176632772126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_204
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 269
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 701c719eaec59fde0800000000000000
+      internalID: -1298904853516926713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_205
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 264
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 615db9235dd33c920800000000000000
+      internalID: 3009316961900025110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_206
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 269
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 753ac15df094f5840800000000000000
+      internalID: 5214967225867084631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_207
+      rect:
+        serializedVersion: 2
+        x: 1453
+        y: 261
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc2337c5660eea880800000000000000
+      internalID: -8597687908361358641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_208
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 269
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f959960c3f5f46f50800000000000000
+      internalID: 6873889358528222623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_209
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 211
+        width: 109
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c6063c7a7273c790800000000000000
+      internalID: -7511033883128363327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_210
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 211
+        width: 110
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48eb2992298fc3be0800000000000000
+      internalID: -1496047669547450748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_211
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 211
+        width: 114
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6407ac92e8c0e9c0800000000000000
+      internalID: -3899896401686494101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_212
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 256
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b7b9da8f392ab6b0800000000000000
+      internalID: -5279862260249282635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_213
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 188
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b99af8d4a8fcdab20800000000000000
+      internalID: 3147399907515541915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_214
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 187
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0e93326ca0be4200800000000000000
+      internalID: 166264490687700495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_215
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 187
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99b146538465dde10800000000000000
+      internalID: 2224028659124280217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_216
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 188
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cc7e67f2abf4e7f0800000000000000
+      internalID: -584065374296834873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_217
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 187
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff9fccfe07ee9f6c0800000000000000
+      internalID: -4108991016171931137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_218
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 187
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9021ba7b39772eb0800000000000000
+      internalID: -4744690386043068260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_219
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 188
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 864069319495124f0800000000000000
+      internalID: -855304283827600280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_220
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 187
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 485b7f080c4caee10800000000000000
+      internalID: 2227809296764614020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_221
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 187
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b4e55061d9e20490800000000000000
+      internalID: -7781400120669117262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_222
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 187
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 083fcc9af13558270800000000000000
+      internalID: 8252093287684174720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_223
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 187
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a161a44a9132db270800000000000000
+      internalID: 8267803083959571994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_224
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 187
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77163bdcd9d1078c0800000000000000
+      internalID: -4003667505134214793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_225
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 187
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33ab75603f3a24c00800000000000000
+      internalID: 883448741096831539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_226
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 187
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c070427a0ed8a4c00800000000000000
+      internalID: 885676272748070668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_227
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 187
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06ba25ba32bab5d50800000000000000
+      internalID: 6727158638094494560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_228
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 188
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3294bade6ec2c91b0800000000000000
+      internalID: -5648590462287918813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_229
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 188
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f9968112da5bea30800000000000000
+      internalID: 4245586932010490357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_230
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 188
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c62da84580aa04450800000000000000
+      internalID: 6071039250450272876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_231
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 188
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 494a27112fee713b0800000000000000
+      internalID: -5541698093013883756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_232
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 188
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cc3c182330596040800000000000000
+      internalID: 4641329071628500160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_233
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 188
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed7ec4fb106405870800000000000000
+      internalID: 8669506256006604766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_234
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 188
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 593a020830116d920800000000000000
+      internalID: 3014615707303322517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_235
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 188
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bdb1f7af8f7b3a20800000000000000
+      internalID: 3043166228193590711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_236
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 40
+        width: 1468
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a7b02f284e741700800000000000000
+      internalID: 510171506293127072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_237
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 142
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 072e239d82b5652f0800000000000000
+      internalID: -984499237533064592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_238
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 142
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94dcab3fcc5fb0c80800000000000000
+      internalID: -8355314423044584119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_239
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 142
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 628a8e3e94db9cf80800000000000000
+      internalID: -8085723530913077210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_240
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 142
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a18c50700e5f8eca0800000000000000
+      internalID: -5987265362049775590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_241
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 142
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e550513834bd8b980800000000000000
+      internalID: -8522821211790178978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_242
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 142
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed04c2d4ce8af4690800000000000000
+      internalID: -7615682711999725346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_243
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 142
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a30b15a162339d00800000000000000
+      internalID: 978180939032757156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_244
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 142
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1401e21cd8948b10800000000000000
+      internalID: 1982877806926824476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_245
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 142
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2854532235e6a2f0800000000000000
+      internalID: -961829466893166546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_246
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 142
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3283bca697d774e60800000000000000
+      internalID: 7946458027954747427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_247
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 142
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37abec5096344a910800000000000000
+      internalID: 1847675865476807283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_248
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 142
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84f955eaff0fe9540800000000000000
+      internalID: 5016712015869484872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_249
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 142
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a4cd853e91174a10800000000000000
+      internalID: 1893501539533571237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_250
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 142
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 338e26c07ae485fb0800000000000000
+      internalID: -4658887335140464589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_251
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 39
+        width: 95
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff013b79bd2a1a000800000000000000
+      internalID: 45496535277048063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_252
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 39
+        width: 97
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 484c79a4f76952200800000000000000
+      internalID: 154695235670623364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_253
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 40
+        width: 96
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8f55904e2f4061f0800000000000000
+      internalID: -1053755252734074996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_254
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 17
+        width: 399
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4e567354a1794f20800000000000000
+      internalID: 3407379543671332426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_255
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 43
+        width: 81
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9de4818ee40df46d0800000000000000
+      internalID: -3003953389112897831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_256
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 43
+        width: 69
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90700fa57fe743da0800000000000000
+      internalID: -5966004005511362807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_257
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 44
+        width: 68
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f990e576c706b6090800000000000000
+      internalID: -8040226622313461345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_258
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 101
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3b595169d0295400800000000000000
+      internalID: 313317767092198202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_259
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 108
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a81a954d850d4e170800000000000000
+      internalID: 8206913500914229642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_260
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 78
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4883104fd9b6bda40800000000000000
+      internalID: 5394023304854059140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_261
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 81
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5957eef62f9c9f280800000000000000
+      internalID: -9008947536480799339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_262
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 92
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be037d43bf4f56bd0800000000000000
+      internalID: -2637432646995070741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_263
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 75
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d3833600f73dd5a0800000000000000
+      internalID: -6494973583562669099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_264
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 19
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 735940a53910db540800000000000000
+      internalID: 5025174491597411639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_265
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 19
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 590c274c365ee19c0800000000000000
+      internalID: -3954471206124339051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_266
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 19
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 257ab52304857e750800000000000000
+      internalID: 6334128433665910610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_267
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 19
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 869c3f4e79a7291c0800000000000000
+      internalID: -4498398284989871768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_268
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 19
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 531167f7719062150800000000000000
+      internalID: 5847371162714509621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_269
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 19
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf0581bea3878d270800000000000000
+      internalID: 8275496509740962044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wargreymon_270
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 19
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bbb5cad0227248e0800000000000000
+      internalID: -1710679423012455502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Wargreymon_0: 6761289367468492253
+      Wargreymon_1: 7321035604511912470
+      Wargreymon_10: 9036246143351738285
+      Wargreymon_100: -8963176899917849819
+      Wargreymon_101: -6882454304641514864
+      Wargreymon_102: 8517290489636756158
+      Wargreymon_103: 2126729878488741626
+      Wargreymon_104: -7561295337683514736
+      Wargreymon_105: -549188678673138719
+      Wargreymon_106: 2386835932677265638
+      Wargreymon_107: -4027258269061920545
+      Wargreymon_108: 2495023377978353837
+      Wargreymon_109: 8494862508049550560
+      Wargreymon_11: -2323951261732841662
+      Wargreymon_110: 2981090494854961473
+      Wargreymon_111: 5267033329496046288
+      Wargreymon_112: -3065358107818365577
+      Wargreymon_113: 8828398589562612307
+      Wargreymon_114: -791597792126670788
+      Wargreymon_115: -4532979004619775373
+      Wargreymon_116: -4520518598837914288
+      Wargreymon_117: -2698836002747745781
+      Wargreymon_118: 2112981554894412873
+      Wargreymon_119: -7808847949347315063
+      Wargreymon_12: -4065173737239007443
+      Wargreymon_120: 2573194236857976979
+      Wargreymon_121: 366327482491963517
+      Wargreymon_122: 955878477222111528
+      Wargreymon_123: -5698039031895172905
+      Wargreymon_124: -5966222075366544990
+      Wargreymon_125: -1013109027667238264
+      Wargreymon_126: -8845928292821125312
+      Wargreymon_127: -6780170727639660762
+      Wargreymon_128: -4001097710092346996
+      Wargreymon_129: -1999007577048337943
+      Wargreymon_13: 9013911764343905666
+      Wargreymon_130: 5883189005106505144
+      Wargreymon_131: 7890448553436938228
+      Wargreymon_132: -647041536761079205
+      Wargreymon_133: -6297843053290988864
+      Wargreymon_134: 5139363533137658875
+      Wargreymon_135: 8918378383818581255
+      Wargreymon_136: 6747011856582653029
+      Wargreymon_137: 487546441686125043
+      Wargreymon_138: -4958401706907117118
+      Wargreymon_139: -5692861494329341292
+      Wargreymon_14: 6856207992611303830
+      Wargreymon_140: 3359941682257735605
+      Wargreymon_141: -5879165803607103246
+      Wargreymon_142: 7560844097297297293
+      Wargreymon_143: 3503321795983269905
+      Wargreymon_144: -4412729537839098881
+      Wargreymon_145: -667495699766787411
+      Wargreymon_146: 2680694463735712031
+      Wargreymon_147: 2920440632104806591
+      Wargreymon_148: -4488710829219316475
+      Wargreymon_149: 7490732524936861514
+      Wargreymon_15: 3492542960019786913
+      Wargreymon_150: -2557342090325531231
+      Wargreymon_151: -3089090184260946775
+      Wargreymon_152: -6365212732601223728
+      Wargreymon_153: -7561923807204899304
+      Wargreymon_154: -3862370382720867375
+      Wargreymon_155: 900498897080588001
+      Wargreymon_156: 4500202117059785449
+      Wargreymon_157: -7076738627668084008
+      Wargreymon_158: 8687727058332449570
+      Wargreymon_159: -3710445301608127884
+      Wargreymon_16: -339921962760288901
+      Wargreymon_160: -8125386712737362787
+      Wargreymon_161: -8765781166483911533
+      Wargreymon_162: 2031080681328892305
+      Wargreymon_163: 6525775529099909328
+      Wargreymon_164: 3609969588725796904
+      Wargreymon_165: -8361262604192112784
+      Wargreymon_166: 4253118262100790192
+      Wargreymon_167: 8416957174948601746
+      Wargreymon_168: 3179271183908455867
+      Wargreymon_169: -1537308706046041638
+      Wargreymon_17: -8699888783598349989
+      Wargreymon_170: 8759849426077140233
+      Wargreymon_171: -7690017982563309267
+      Wargreymon_172: 5763618271203902020
+      Wargreymon_173: -8882084526564889877
+      Wargreymon_174: 8898680267092918880
+      Wargreymon_175: -6879269465006318497
+      Wargreymon_176: -4340372588353641965
+      Wargreymon_177: 1545015918761002939
+      Wargreymon_178: 1470973844025654268
+      Wargreymon_179: 7620173826352901816
+      Wargreymon_18: -4652354811076264985
+      Wargreymon_180: 3751145098652732522
+      Wargreymon_181: 655175300375267894
+      Wargreymon_182: 4726906854069245365
+      Wargreymon_183: -2303337463979973625
+      Wargreymon_184: -627612841375561235
+      Wargreymon_185: -4096711497218924033
+      Wargreymon_186: 5700602534571425699
+      Wargreymon_187: -365524299335873016
+      Wargreymon_188: -6087918758938596995
+      Wargreymon_189: -5157907044283457274
+      Wargreymon_19: 3825570648648447412
+      Wargreymon_190: 6530679545926543839
+      Wargreymon_191: -2910624251797626463
+      Wargreymon_192: 1918548466662990531
+      Wargreymon_193: 6879724873120320182
+      Wargreymon_194: 1163275275047348269
+      Wargreymon_195: 3341706281948456755
+      Wargreymon_196: 6758594900160383555
+      Wargreymon_197: -7714211253689120931
+      Wargreymon_198: 1557066982166786206
+      Wargreymon_199: -8877231333581023550
+      Wargreymon_2: 5305555606991823315
+      Wargreymon_20: -2357475956561031786
+      Wargreymon_200: -7212427164872483854
+      Wargreymon_201: -1621612885223532990
+      Wargreymon_202: -7736939673651413195
+      Wargreymon_203: 1156348176632772126
+      Wargreymon_204: -1298904853516926713
+      Wargreymon_205: 3009316961900025110
+      Wargreymon_206: 5214967225867084631
+      Wargreymon_207: -8597687908361358641
+      Wargreymon_208: 6873889358528222623
+      Wargreymon_209: -7511033883128363327
+      Wargreymon_21: 4528682697624988568
+      Wargreymon_210: -1496047669547450748
+      Wargreymon_211: -3899896401686494101
+      Wargreymon_212: -5279862260249282635
+      Wargreymon_213: 3147399907515541915
+      Wargreymon_214: 166264490687700495
+      Wargreymon_215: 2224028659124280217
+      Wargreymon_216: -584065374296834873
+      Wargreymon_217: -4108991016171931137
+      Wargreymon_218: -4744690386043068260
+      Wargreymon_219: -855304283827600280
+      Wargreymon_22: 3793266111734886848
+      Wargreymon_220: 2227809296764614020
+      Wargreymon_221: -7781400120669117262
+      Wargreymon_222: 8252093287684174720
+      Wargreymon_223: 8267803083959571994
+      Wargreymon_224: -4003667505134214793
+      Wargreymon_225: 883448741096831539
+      Wargreymon_226: 885676272748070668
+      Wargreymon_227: 6727158638094494560
+      Wargreymon_228: -5648590462287918813
+      Wargreymon_229: 4245586932010490357
+      Wargreymon_23: -2068578552036020909
+      Wargreymon_230: 6071039250450272876
+      Wargreymon_231: -5541698093013883756
+      Wargreymon_232: 4641329071628500160
+      Wargreymon_233: 8669506256006604766
+      Wargreymon_234: 3014615707303322517
+      Wargreymon_235: 3043166228193590711
+      Wargreymon_236: 510171506293127072
+      Wargreymon_237: -984499237533064592
+      Wargreymon_238: -8355314423044584119
+      Wargreymon_239: -8085723530913077210
+      Wargreymon_24: -5097992752818205652
+      Wargreymon_240: -5987265362049775590
+      Wargreymon_241: -8522821211790178978
+      Wargreymon_242: -7615682711999725346
+      Wargreymon_243: 978180939032757156
+      Wargreymon_244: 1982877806926824476
+      Wargreymon_245: -961829466893166546
+      Wargreymon_246: 7946458027954747427
+      Wargreymon_247: 1847675865476807283
+      Wargreymon_248: 5016712015869484872
+      Wargreymon_249: 1893501539533571237
+      Wargreymon_25: -519305386886646780
+      Wargreymon_250: -4658887335140464589
+      Wargreymon_251: 45496535277048063
+      Wargreymon_252: 154695235670623364
+      Wargreymon_253: -1053755252734074996
+      Wargreymon_254: 3407379543671332426
+      Wargreymon_255: -3003953389112897831
+      Wargreymon_256: -5966004005511362807
+      Wargreymon_257: -8040226622313461345
+      Wargreymon_258: 313317767092198202
+      Wargreymon_259: 8206913500914229642
+      Wargreymon_26: 3143612777754251234
+      Wargreymon_260: 5394023304854059140
+      Wargreymon_261: -9008947536480799339
+      Wargreymon_262: -2637432646995070741
+      Wargreymon_263: -6494973583562669099
+      Wargreymon_264: 5025174491597411639
+      Wargreymon_265: -3954471206124339051
+      Wargreymon_266: 6334128433665910610
+      Wargreymon_267: -4498398284989871768
+      Wargreymon_268: 5847371162714509621
+      Wargreymon_269: 8275496509740962044
+      Wargreymon_27: 5636725516585671578
+      Wargreymon_270: -1710679423012455502
+      Wargreymon_28: 5301592610624294691
+      Wargreymon_29: 7118635729930295711
+      Wargreymon_3: -2446715182955019359
+      Wargreymon_30: -4702850484827130354
+      Wargreymon_31: -1065379186425497380
+      Wargreymon_32: 7486218645043633593
+      Wargreymon_33: 8203358738938951045
+      Wargreymon_34: 2689572033789546992
+      Wargreymon_35: 820272480305368559
+      Wargreymon_36: 6455341049862017504
+      Wargreymon_37: 4310595862286829085
+      Wargreymon_38: 2344780767000936361
+      Wargreymon_39: -7922444602438643987
+      Wargreymon_4: 5112895260164064223
+      Wargreymon_40: 6109367642532596386
+      Wargreymon_41: -7053241419375252884
+      Wargreymon_42: -677426294232606185
+      Wargreymon_43: 7172359062651992665
+      Wargreymon_44: 1104300882912997004
+      Wargreymon_45: -8170277869373033865
+      Wargreymon_46: 6989780240860974955
+      Wargreymon_47: 9210992070475477323
+      Wargreymon_48: 9104660099363013599
+      Wargreymon_49: 3273466971339947950
+      Wargreymon_5: -8330565023869988179
+      Wargreymon_50: 8170432880006210748
+      Wargreymon_51: 2364115062500760466
+      Wargreymon_52: -5481387499184622183
+      Wargreymon_53: -6301455927300843639
+      Wargreymon_54: 3880311836898326406
+      Wargreymon_55: -2593435509137634439
+      Wargreymon_56: -1636558084774910832
+      Wargreymon_57: 2601770105336560392
+      Wargreymon_58: -7814876918245862028
+      Wargreymon_59: -6729093968296933728
+      Wargreymon_6: -6697955099444706647
+      Wargreymon_60: 6517295723760140556
+      Wargreymon_61: 585228660272983352
+      Wargreymon_62: -1081686350455986978
+      Wargreymon_63: -5738250154630298547
+      Wargreymon_64: -8064596213898492209
+      Wargreymon_65: 3807407603202528345
+      Wargreymon_66: -2808261740641617910
+      Wargreymon_67: -4950314162069742964
+      Wargreymon_68: -6104918191632729163
+      Wargreymon_69: -5646308802264139899
+      Wargreymon_7: -3854503641799259028
+      Wargreymon_70: 3096629012047789189
+      Wargreymon_71: 5160437118461329334
+      Wargreymon_72: 6098010387721138666
+      Wargreymon_73: 245055832765116781
+      Wargreymon_74: -2641431212888172360
+      Wargreymon_75: -2259360260585020871
+      Wargreymon_76: 488717810585266318
+      Wargreymon_77: 2896587021639217838
+      Wargreymon_78: 4602618095354570676
+      Wargreymon_79: -6099165161253864576
+      Wargreymon_8: -1295115163579154469
+      Wargreymon_80: -8691487611330459377
+      Wargreymon_81: -6655417917561964894
+      Wargreymon_82: 7960874824520389557
+      Wargreymon_83: 3583862410567295401
+      Wargreymon_84: -5601346168147385600
+      Wargreymon_85: 2579867014403141930
+      Wargreymon_86: 8031033581654972673
+      Wargreymon_87: 1754120800952296628
+      Wargreymon_88: -3492282065397502106
+      Wargreymon_89: 3001686665520370283
+      Wargreymon_9: -7449646165270720976
+      Wargreymon_90: -8584060957415451011
+      Wargreymon_91: -1488423922085538581
+      Wargreymon_92: -6889659434662700593
+      Wargreymon_93: -7150046685686736775
+      Wargreymon_94: -1398488291257968304
+      Wargreymon_95: 1454021366037432409
+      Wargreymon_96: 391875500193870326
+      Wargreymon_97: -1263360194127886830
+      Wargreymon_98: 4831178079943913821
+      Wargreymon_99: -3698326735830162258
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

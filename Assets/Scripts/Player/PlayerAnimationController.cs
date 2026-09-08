@@ -1,0 +1,84 @@
+using TMPro;
+using Unity.VisualScripting;
+using UnityEngine;
+
+[RequireComponent(
+    typeof(Animator),
+    typeof(PlayerStateController),
+    typeof(SpriteRenderer)
+)]
+public class PlayerAnimationController : MonoBehaviour
+{
+    private static readonly int JumpingHash = Animator.StringToHash("Jumping");
+    private static readonly int FlyingHash = Animator.StringToHash("Flying");
+    private static readonly int WalkingHash = Animator.StringToHash("Walking");
+    private static readonly int LandingHash = Animator.StringToHash("Landing");
+    private static readonly int ExcitedHash = Animator.StringToHash("Excite");
+    #region Constants
+    #endregion
+
+    #region Properties
+
+    #endregion
+
+    #region Fields
+    private Animator _anim;
+    private PlayerStateController _playerState;
+    private SpriteRenderer _spriteRenderer;
+    #endregion
+
+    #region Unity Callbacks
+    // Awake Method
+    private void Awake()
+    {
+        _anim = GetComponent<Animator>();
+        _playerState = GetComponent<PlayerStateController>();
+        _spriteRenderer = GetComponent<SpriteRenderer>();
+    }
+
+    // Update is called once per frame
+    private void Update()
+    {
+        _spriteRenderer.flipX = _playerState.LookRight;
+        _anim.SetBool(WalkingHash, _playerState.Walking);
+        if (_playerState.Jumping)
+        {
+            PlayJumpAnimation();
+            _playerState.Jumping = false;
+        }
+        _anim.SetBool(FlyingHash, _playerState.Flying);
+        if (_playerState.Landing)
+        {
+            PlayLandAnimation();
+            _playerState.Landing = false;
+        }
+        if (_playerState.Excited)
+        {
+            PlayExcitedAnimation();
+            _playerState.Excited = false;
+        }
+    }
+    #endregion
+
+    #region Public Methods
+
+
+    #endregion
+
+    #region Private Methods
+    private void PlayJumpAnimation()
+    {
+        _anim.SetTrigger(JumpingHash);
+    }
+
+    private void PlayLandAnimation()
+    {
+        _anim.SetTrigger(LandingHash);
+    }
+    private void PlayExcitedAnimation()
+    {
+        _anim.SetTrigger(ExcitedHash);
+    }
+
+    #endregion
+}

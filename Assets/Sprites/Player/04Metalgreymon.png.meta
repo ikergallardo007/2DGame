@@ -1,0 +1,7215 @@
+fileFormatVersion: 2
+guid: 5e4bc5f5fada8074cab2f5c9fa83e808
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4440008647118150464
+    second: Metalgreymon_0
+  - first:
+      213: 5973778708248746829
+    second: Metalgreymon_1
+  - first:
+      213: 4334238411097024789
+    second: Metalgreymon_2
+  - first:
+      213: 2973810725961863275
+    second: Metalgreymon_3
+  - first:
+      213: -2056948395434069221
+    second: Metalgreymon_4
+  - first:
+      213: -6181093491222054621
+    second: Metalgreymon_5
+  - first:
+      213: -7291321077230417823
+    second: Metalgreymon_6
+  - first:
+      213: 856948121401971960
+    second: Metalgreymon_7
+  - first:
+      213: -2699438570835475544
+    second: Metalgreymon_8
+  - first:
+      213: 5337000143496341795
+    second: Metalgreymon_9
+  - first:
+      213: 417920039597978947
+    second: Metalgreymon_10
+  - first:
+      213: -3732910670758791915
+    second: Metalgreymon_11
+  - first:
+      213: -3990351352913591534
+    second: Metalgreymon_12
+  - first:
+      213: -5680999848610533233
+    second: Metalgreymon_13
+  - first:
+      213: 2614106447641719402
+    second: Metalgreymon_14
+  - first:
+      213: 7110867422258814814
+    second: Metalgreymon_15
+  - first:
+      213: 5469986706930401324
+    second: Metalgreymon_16
+  - first:
+      213: 3510297383633022795
+    second: Metalgreymon_17
+  - first:
+      213: 691528283286285357
+    second: Metalgreymon_18
+  - first:
+      213: -2633325214818591821
+    second: Metalgreymon_19
+  - first:
+      213: -1469854285299997788
+    second: Metalgreymon_20
+  - first:
+      213: -392329567484133412
+    second: Metalgreymon_21
+  - first:
+      213: -2669830984055157458
+    second: Metalgreymon_22
+  - first:
+      213: 302680909524937780
+    second: Metalgreymon_23
+  - first:
+      213: 3089568562635650793
+    second: Metalgreymon_24
+  - first:
+      213: -8506893603613208441
+    second: Metalgreymon_25
+  - first:
+      213: -3226031155900091148
+    second: Metalgreymon_26
+  - first:
+      213: 2229684369533341040
+    second: Metalgreymon_27
+  - first:
+      213: -3484506779677356085
+    second: Metalgreymon_28
+  - first:
+      213: 2499888528776305083
+    second: Metalgreymon_29
+  - first:
+      213: 505414174599012539
+    second: Metalgreymon_30
+  - first:
+      213: 8856152285158756644
+    second: Metalgreymon_31
+  - first:
+      213: -6193071793232816410
+    second: Metalgreymon_32
+  - first:
+      213: -6585921478516504757
+    second: Metalgreymon_33
+  - first:
+      213: 4706178292586921377
+    second: Metalgreymon_34
+  - first:
+      213: 7139519229635256961
+    second: Metalgreymon_35
+  - first:
+      213: -781371380683410010
+    second: Metalgreymon_36
+  - first:
+      213: -62968296764988325
+    second: Metalgreymon_37
+  - first:
+      213: 2061356228921056368
+    second: Metalgreymon_38
+  - first:
+      213: -1284280269697099390
+    second: Metalgreymon_39
+  - first:
+      213: 1172693618713218014
+    second: Metalgreymon_40
+  - first:
+      213: 1604704331789495061
+    second: Metalgreymon_41
+  - first:
+      213: 6381301308653188350
+    second: Metalgreymon_42
+  - first:
+      213: -5981866037195246291
+    second: Metalgreymon_43
+  - first:
+      213: 4271531516333887587
+    second: Metalgreymon_44
+  - first:
+      213: 7076724164229749986
+    second: Metalgreymon_45
+  - first:
+      213: 1398945642252764870
+    second: Metalgreymon_46
+  - first:
+      213: -4474194213578268099
+    second: Metalgreymon_47
+  - first:
+      213: 3577915701687493898
+    second: Metalgreymon_48
+  - first:
+      213: 831136838133325032
+    second: Metalgreymon_49
+  - first:
+      213: 6612125821784836163
+    second: Metalgreymon_50
+  - first:
+      213: -228936284268952579
+    second: Metalgreymon_51
+  - first:
+      213: 5158056114040899050
+    second: Metalgreymon_52
+  - first:
+      213: -5775302164980139497
+    second: Metalgreymon_53
+  - first:
+      213: 4230509571682393611
+    second: Metalgreymon_54
+  - first:
+      213: -8689810346865058041
+    second: Metalgreymon_55
+  - first:
+      213: 7817257272841652453
+    second: Metalgreymon_56
+  - first:
+      213: 3151302006729652979
+    second: Metalgreymon_57
+  - first:
+      213: -666776216895733635
+    second: Metalgreymon_58
+  - first:
+      213: 7936512290820630703
+    second: Metalgreymon_59
+  - first:
+      213: 7447946369941244079
+    second: Metalgreymon_60
+  - first:
+      213: 678812488128523450
+    second: Metalgreymon_61
+  - first:
+      213: 3599409519503852865
+    second: Metalgreymon_62
+  - first:
+      213: -4275364661863182536
+    second: Metalgreymon_63
+  - first:
+      213: 5259301293097152667
+    second: Metalgreymon_64
+  - first:
+      213: -8096634254512825782
+    second: Metalgreymon_65
+  - first:
+      213: -1495320429432465492
+    second: Metalgreymon_66
+  - first:
+      213: 6345142492678039448
+    second: Metalgreymon_67
+  - first:
+      213: 1797482865851530856
+    second: Metalgreymon_68
+  - first:
+      213: -5842191361525272951
+    second: Metalgreymon_69
+  - first:
+      213: 4593942955361973037
+    second: Metalgreymon_70
+  - first:
+      213: -164940289562707404
+    second: Metalgreymon_71
+  - first:
+      213: -7501990937585126406
+    second: Metalgreymon_72
+  - first:
+      213: -9054005134308872764
+    second: Metalgreymon_73
+  - first:
+      213: -747005308454120426
+    second: Metalgreymon_74
+  - first:
+      213: 1703367647194328859
+    second: Metalgreymon_75
+  - first:
+      213: 1233940985588894742
+    second: Metalgreymon_76
+  - first:
+      213: -74258908921839788
+    second: Metalgreymon_77
+  - first:
+      213: 3914197417791575409
+    second: Metalgreymon_78
+  - first:
+      213: -1432589663890138648
+    second: Metalgreymon_79
+  - first:
+      213: -2852851226453099265
+    second: Metalgreymon_80
+  - first:
+      213: -3928998109675850194
+    second: Metalgreymon_81
+  - first:
+      213: -4930664417113234518
+    second: Metalgreymon_82
+  - first:
+      213: 4842339024646545618
+    second: Metalgreymon_83
+  - first:
+      213: -525159034099681240
+    second: Metalgreymon_84
+  - first:
+      213: 772332649825613448
+    second: Metalgreymon_85
+  - first:
+      213: -3259796473098558283
+    second: Metalgreymon_86
+  - first:
+      213: 6564517874525344020
+    second: Metalgreymon_87
+  - first:
+      213: -2841787425063369134
+    second: Metalgreymon_88
+  - first:
+      213: -5572412499724122160
+    second: Metalgreymon_89
+  - first:
+      213: 1872180028411463299
+    second: Metalgreymon_90
+  - first:
+      213: -163771565037278729
+    second: Metalgreymon_91
+  - first:
+      213: -2252268345871804946
+    second: Metalgreymon_92
+  - first:
+      213: -6168354986925584133
+    second: Metalgreymon_93
+  - first:
+      213: -364957492543704029
+    second: Metalgreymon_94
+  - first:
+      213: -8363982888493303663
+    second: Metalgreymon_95
+  - first:
+      213: -5179243238329651966
+    second: Metalgreymon_96
+  - first:
+      213: -98000517234122426
+    second: Metalgreymon_97
+  - first:
+      213: -6622276453875197858
+    second: Metalgreymon_98
+  - first:
+      213: 5432383036045718054
+    second: Metalgreymon_99
+  - first:
+      213: -8887337687028022522
+    second: Metalgreymon_100
+  - first:
+      213: -4903281553452390961
+    second: Metalgreymon_101
+  - first:
+      213: 7118759897309429468
+    second: Metalgreymon_102
+  - first:
+      213: 6024302920977270575
+    second: Metalgreymon_103
+  - first:
+      213: -5490162459265456851
+    second: Metalgreymon_104
+  - first:
+      213: -3575395514723910199
+    second: Metalgreymon_105
+  - first:
+      213: 3203554707127331531
+    second: Metalgreymon_106
+  - first:
+      213: 3238553940383427202
+    second: Metalgreymon_107
+  - first:
+      213: 8801584402822219575
+    second: Metalgreymon_108
+  - first:
+      213: 4786773106363895029
+    second: Metalgreymon_109
+  - first:
+      213: 567166258684211607
+    second: Metalgreymon_110
+  - first:
+      213: -4047511647418479127
+    second: Metalgreymon_111
+  - first:
+      213: -3762438869874952472
+    second: Metalgreymon_112
+  - first:
+      213: -42589730182421647
+    second: Metalgreymon_113
+  - first:
+      213: -7822477514789997176
+    second: Metalgreymon_114
+  - first:
+      213: 6134239530212881157
+    second: Metalgreymon_115
+  - first:
+      213: 5527907211641220697
+    second: Metalgreymon_116
+  - first:
+      213: 9123575795628584781
+    second: Metalgreymon_117
+  - first:
+      213: 6408665647529043608
+    second: Metalgreymon_118
+  - first:
+      213: 1648096542737092427
+    second: Metalgreymon_119
+  - first:
+      213: 1774280532458536076
+    second: Metalgreymon_120
+  - first:
+      213: 6222055745400311757
+    second: Metalgreymon_121
+  - first:
+      213: -7082222322981960325
+    second: Metalgreymon_122
+  - first:
+      213: 8942711716355992339
+    second: Metalgreymon_123
+  - first:
+      213: -7760237808365250762
+    second: Metalgreymon_124
+  - first:
+      213: -8270517458317921100
+    second: Metalgreymon_125
+  - first:
+      213: -5387049427670331154
+    second: Metalgreymon_126
+  - first:
+      213: -1349429267543460858
+    second: Metalgreymon_127
+  - first:
+      213: -2085591194832531970
+    second: Metalgreymon_128
+  - first:
+      213: -7515312447230087464
+    second: Metalgreymon_129
+  - first:
+      213: -8824667993363247439
+    second: Metalgreymon_130
+  - first:
+      213: -9220278719384697869
+    second: Metalgreymon_131
+  - first:
+      213: 6520399911540448511
+    second: Metalgreymon_132
+  - first:
+      213: 554088542461902088
+    second: Metalgreymon_133
+  - first:
+      213: 2387762705420525592
+    second: Metalgreymon_134
+  - first:
+      213: 1817027438980804902
+    second: Metalgreymon_135
+  - first:
+      213: 6055166921208784279
+    second: Metalgreymon_136
+  - first:
+      213: -3683825512612155621
+    second: Metalgreymon_137
+  - first:
+      213: -3984811570693845622
+    second: Metalgreymon_138
+  - first:
+      213: -4106278148766519251
+    second: Metalgreymon_139
+  - first:
+      213: 2914268480854583295
+    second: Metalgreymon_140
+  - first:
+      213: 7234553006533913221
+    second: Metalgreymon_141
+  - first:
+      213: -9080419611745729039
+    second: Metalgreymon_142
+  - first:
+      213: 2147446925330420916
+    second: Metalgreymon_143
+  - first:
+      213: -9145592684734420653
+    second: Metalgreymon_144
+  - first:
+      213: 505372955219835109
+    second: Metalgreymon_145
+  - first:
+      213: 9046813182933894124
+    second: Metalgreymon_146
+  - first:
+      213: -8642263760792643798
+    second: Metalgreymon_147
+  - first:
+      213: 3216057052208863807
+    second: Metalgreymon_148
+  - first:
+      213: 7633018355597555200
+    second: Metalgreymon_149
+  - first:
+      213: 5933128283661224176
+    second: Metalgreymon_150
+  - first:
+      213: -5610446824313667118
+    second: Metalgreymon_151
+  - first:
+      213: 5147087620323838228
+    second: Metalgreymon_152
+  - first:
+      213: 4948194975239689755
+    second: Metalgreymon_153
+  - first:
+      213: 6124937738846575159
+    second: Metalgreymon_154
+  - first:
+      213: 4196702284530430457
+    second: Metalgreymon_155
+  - first:
+      213: 7964382115527909395
+    second: Metalgreymon_156
+  - first:
+      213: 4251853117947605134
+    second: Metalgreymon_157
+  - first:
+      213: -7782813156997905397
+    second: Metalgreymon_158
+  - first:
+      213: 932278967881591126
+    second: Metalgreymon_159
+  - first:
+      213: 38904754798008649
+    second: Metalgreymon_160
+  - first:
+      213: -1423585762468969409
+    second: Metalgreymon_161
+  - first:
+      213: 8368630511674828212
+    second: Metalgreymon_162
+  - first:
+      213: -7035323906056854606
+    second: Metalgreymon_163
+  - first:
+      213: 7885616981938069254
+    second: Metalgreymon_164
+  - first:
+      213: 4822863873949061731
+    second: Metalgreymon_165
+  - first:
+      213: 370953830761461547
+    second: Metalgreymon_166
+  - first:
+      213: -8675860519571768790
+    second: Metalgreymon_167
+  - first:
+      213: -609630758742181137
+    second: Metalgreymon_168
+  - first:
+      213: -3006829996786243188
+    second: Metalgreymon_169
+  - first:
+      213: 209949955047810393
+    second: Metalgreymon_170
+  - first:
+      213: -7971037095484687820
+    second: Metalgreymon_171
+  - first:
+      213: -2351760647612541472
+    second: Metalgreymon_172
+  - first:
+      213: 8732992424288862087
+    second: Metalgreymon_173
+  - first:
+      213: -4359819573911620265
+    second: Metalgreymon_174
+  - first:
+      213: 7009069262418462373
+    second: Metalgreymon_175
+  - first:
+      213: -148282457000352673
+    second: Metalgreymon_176
+  - first:
+      213: -8775731561459504074
+    second: Metalgreymon_177
+  - first:
+      213: -6620244315252569659
+    second: Metalgreymon_178
+  - first:
+      213: -4212631863929381270
+    second: Metalgreymon_179
+  - first:
+      213: 6023960002511381063
+    second: Metalgreymon_180
+  - first:
+      213: 3823440118862605510
+    second: Metalgreymon_181
+  - first:
+      213: -7380348537625345797
+    second: Metalgreymon_182
+  - first:
+      213: -7553790588052919901
+    second: Metalgreymon_183
+  - first:
+      213: 2703744504405358231
+    second: Metalgreymon_184
+  - first:
+      213: -6049724310686016514
+    second: Metalgreymon_185
+  - first:
+      213: -3909576478565028926
+    second: Metalgreymon_186
+  - first:
+      213: 8428016884629635440
+    second: Metalgreymon_187
+  - first:
+      213: 4963803295089134630
+    second: Metalgreymon_188
+  - first:
+      213: -3564801798945407117
+    second: Metalgreymon_189
+  - first:
+      213: -1093544759796200959
+    second: Metalgreymon_190
+  - first:
+      213: 677237125878018932
+    second: Metalgreymon_191
+  - first:
+      213: 3418772729554982502
+    second: Metalgreymon_192
+  - first:
+      213: 7665661637106504646
+    second: Metalgreymon_193
+  - first:
+      213: -4759443681973953889
+    second: Metalgreymon_194
+  - first:
+      213: 4163379711169878225
+    second: Metalgreymon_195
+  - first:
+      213: 6520019531020199452
+    second: Metalgreymon_196
+  - first:
+      213: 6789864959809636259
+    second: Metalgreymon_197
+  - first:
+      213: 7336628173841275672
+    second: Metalgreymon_198
+  - first:
+      213: -6669901886098601590
+    second: Metalgreymon_199
+  - first:
+      213: -643551321144260504
+    second: Metalgreymon_200
+  - first:
+      213: -7132649880310118481
+    second: Metalgreymon_201
+  - first:
+      213: 7846177670881182862
+    second: Metalgreymon_202
+  - first:
+      213: 3198198467035623984
+    second: Metalgreymon_203
+  - first:
+      213: 2803058252363843079
+    second: Metalgreymon_204
+  - first:
+      213: 3787452328245814088
+    second: Metalgreymon_205
+  - first:
+      213: 7572125688076834915
+    second: Metalgreymon_206
+  - first:
+      213: -3476380828498195983
+    second: Metalgreymon_207
+  - first:
+      213: -3957602001203549285
+    second: Metalgreymon_208
+  - first:
+      213: -3911272112530954924
+    second: Metalgreymon_209
+  - first:
+      213: 7391958875669041529
+    second: Metalgreymon_210
+  - first:
+      213: 967585236123914155
+    second: Metalgreymon_211
+  - first:
+      213: -5261639481630493213
+    second: Metalgreymon_212
+  - first:
+      213: 5625007456099760694
+    second: Metalgreymon_213
+  - first:
+      213: 8540404443220725033
+    second: Metalgreymon_214
+  - first:
+      213: 9137846562490558627
+    second: Metalgreymon_215
+  - first:
+      213: 4816516490859584122
+    second: Metalgreymon_216
+  - first:
+      213: 9217282723162107376
+    second: Metalgreymon_217
+  - first:
+      213: -4391002509905432364
+    second: Metalgreymon_218
+  - first:
+      213: 553216089676507957
+    second: Metalgreymon_219
+  - first:
+      213: -1986751865112729140
+    second: Metalgreymon_220
+  - first:
+      213: 8355474932766328114
+    second: Metalgreymon_221
+  - first:
+      213: 8080763685712692691
+    second: Metalgreymon_222
+  - first:
+      213: -2354877762313254889
+    second: Metalgreymon_223
+  - first:
+      213: -2039293844000640460
+    second: Metalgreymon_224
+  - first:
+      213: -6531273775221761502
+    second: Metalgreymon_225
+  - first:
+      213: 8581974019970391458
+    second: Metalgreymon_226
+  - first:
+      213: 1538378675443910952
+    second: Metalgreymon_227
+  - first:
+      213: -4385362594399176284
+    second: Metalgreymon_228
+  - first:
+      213: -8852364217999634119
+    second: Metalgreymon_229
+  - first:
+      213: 4070216003307097410
+    second: Metalgreymon_230
+  - first:
+      213: -859856426913805455
+    second: Metalgreymon_231
+  - first:
+      213: -4534116771429444357
+    second: Metalgreymon_232
+  - first:
+      213: -8345767251326314241
+    second: Metalgreymon_233
+  - first:
+      213: -4063066670815819128
+    second: Metalgreymon_234
+  - first:
+      213: 1910760091199011441
+    second: Metalgreymon_235
+  - first:
+      213: -9168521285590192972
+    second: Metalgreymon_236
+  - first:
+      213: -5037125418588501815
+    second: Metalgreymon_237
+  - first:
+      213: -2926469678938500294
+    second: Metalgreymon_238
+  - first:
+      213: -8046429360245291210
+    second: Metalgreymon_239
+  - first:
+      213: -7418009430512293964
+    second: Metalgreymon_240
+  - first:
+      213: 3375343748916431730
+    second: Metalgreymon_241
+  - first:
+      213: 5417504502254532012
+    second: Metalgreymon_242
+  - first:
+      213: 4280182038846305907
+    second: Metalgreymon_243
+  - first:
+      213: -13647108843322592
+    second: Metalgreymon_244
+  - first:
+      213: -5659948136634745950
+    second: Metalgreymon_245
+  - first:
+      213: 6211340205796854103
+    second: Metalgreymon_246
+  - first:
+      213: -6798904696180680276
+    second: Metalgreymon_247
+  - first:
+      213: -4088767460598574071
+    second: Metalgreymon_248
+  - first:
+      213: -8340832530599673063
+    second: Metalgreymon_249
+  - first:
+      213: -6844237883394245395
+    second: Metalgreymon_250
+  - first:
+      213: 6142609913089883193
+    second: Metalgreymon_251
+  - first:
+      213: -1651334613950120738
+    second: Metalgreymon_252
+  - first:
+      213: -8186630764405172334
+    second: Metalgreymon_253
+  - first:
+      213: 7351581343595830838
+    second: Metalgreymon_254
+  - first:
+      213: -3056116142936218024
+    second: Metalgreymon_255
+  - first:
+      213: 7323640361360470361
+    second: Metalgreymon_256
+  - first:
+      213: -4709705455765005181
+    second: Metalgreymon_257
+  - first:
+      213: 7379701178818744574
+    second: Metalgreymon_258
+  - first:
+      213: -584266829099840888
+    second: Metalgreymon_259
+  - first:
+      213: -6418450668073717781
+    second: Metalgreymon_260
+  - first:
+      213: 7196239630645773735
+    second: Metalgreymon_261
+  - first:
+      213: 3416171377628219640
+    second: Metalgreymon_262
+  - first:
+      213: 6709138647830221354
+    second: Metalgreymon_263
+  - first:
+      213: -5647375046080766028
+    second: Metalgreymon_264
+  - first:
+      213: -5398465724392136696
+    second: Metalgreymon_265
+  - first:
+      213: 5950267519957692652
+    second: Metalgreymon_266
+  - first:
+      213: -7266586545308740970
+    second: Metalgreymon_267
+  - first:
+      213: 5042915799437294834
+    second: Metalgreymon_268
+  - first:
+      213: -4627818649815705000
+    second: Metalgreymon_269
+  - first:
+      213: -4519287762737246500
+    second: Metalgreymon_270
+  - first:
+      213: -8102736830810673967
+    second: Metalgreymon_271
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Metalgreymon_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 972
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c42cdcd8abe162c0800000000000000
+      internalID: -4440008647118150464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_1
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 972
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4b55ffa51027e250800000000000000
+      internalID: 5973778708248746829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_2
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 972
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 519aa410fde462c30800000000000000
+      internalID: 4334238411097024789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_3
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 972
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b60143e6919154920800000000000000
+      internalID: 2973810725961863275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_4
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 972
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b13b7d025504473e0800000000000000
+      internalID: -2056948395434069221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_5
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 972
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 329fa34f738583aa0800000000000000
+      internalID: -6181093491222054621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_6
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 972
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 168cc508c1600da90800000000000000
+      internalID: -7291321077230417823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_7
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 972
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f45a1fa6cd74eb00800000000000000
+      internalID: 856948121401971960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_8
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 972
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a30d5c0ceaa98ad0800000000000000
+      internalID: -2699438570835475544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_9
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 972
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 329ee479a55d01a40800000000000000
+      internalID: 5337000143496341795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_10
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 972
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34531c0df00ccc500800000000000000
+      internalID: 417920039597978947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_11
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 972
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5153823d589023cc0800000000000000
+      internalID: -3732910670758791915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_12
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 987
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2130698169c6f98c0800000000000000
+      internalID: -3990351352913591534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_13
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 987
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f807586acb80921b0800000000000000
+      internalID: -5680999848610533233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_14
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 987
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a623eb8c6fb274420800000000000000
+      internalID: 2614106447641719402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_15
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 987
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5f52acde30eea260800000000000000
+      internalID: 7110867422258814814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_16
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 941
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2002b0cdeb49eb40800000000000000
+      internalID: 5469986706930401324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_17
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 941
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4fed6f3fd417b030800000000000000
+      internalID: 3510297383633022795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_18
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 941
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2c2a6d4f4dc89900800000000000000
+      internalID: 691528283286285357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_19
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 941
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bb98a84bac847bd0800000000000000
+      internalID: -2633325214818591821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_20
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 941
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a3ab1da0570a9be0800000000000000
+      internalID: -1469854285299997788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_21
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 941
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdfb937465a2e8af0800000000000000
+      internalID: -392329567484133412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_22
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 941
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2d8f098ddad2fad0800000000000000
+      internalID: -2669830984055157458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_23
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 941
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43ca68cfea6533400800000000000000
+      internalID: 302680909524937780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_24
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 941
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e6bc1d0d3a50ea20800000000000000
+      internalID: 3089568562635650793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_25
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 941
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7809796c65171f980800000000000000
+      internalID: -8506893603613208441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_26
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 941
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f47b3681c5da33d0800000000000000
+      internalID: -3226031155900091148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_27
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 941
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07d8647ee1e61fe10800000000000000
+      internalID: 2229684369533341040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_28
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 941
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcf04ebab8b84afc0800000000000000
+      internalID: -3484506779677356085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_29
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 941
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb919c73f5361b220800000000000000
+      internalID: 2499888528776305083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_30
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 941
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb0eb659387930700800000000000000
+      internalID: 505414174599012539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_31
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 941
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 421d6a9d49f57ea70800000000000000
+      internalID: 8856152285158756644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_32
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 941
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e6dddf240acd0aa0800000000000000
+      internalID: -6193071793232816410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_33
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 876
+        width: 88
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b47886a1f4b1a94a0800000000000000
+      internalID: -6585921478516504757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_34
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 875
+        width: 88
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ad3c430934bf4140800000000000000
+      internalID: 4706178292586921377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_35
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 875
+        width: 86
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 182ea7d99eaa41360800000000000000
+      internalID: 7139519229635256961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_36
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 875
+        width: 84
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a575b08ed20825f0800000000000000
+      internalID: -781371380683410010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_37
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 875
+        width: 86
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b54263feaaa402ff0800000000000000
+      internalID: -62968296764988325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_38
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 820
+        width: 261
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07cd06491986b9c10800000000000000
+      internalID: 2061356228921056368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_39
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 851
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28959ac26e15d2ee0800000000000000
+      internalID: -1284280269697099390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_40
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 851
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edbc4cd02ae364010800000000000000
+      internalID: 1172693618713218014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_41
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 851
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51be7d1761e054610800000000000000
+      internalID: 1604704331789495061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_42
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 851
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef4320b0bbfee8850800000000000000
+      internalID: 6381301308653188350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_43
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 851
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d25f00f48842cfca0800000000000000
+      internalID: -5981866037195246291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_44
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 792
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36097f55847874b30800000000000000
+      internalID: 4271531516333887587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_45
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 792
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ec565e1223953260800000000000000
+      internalID: 7076724164229749986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_46
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 792
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c68e8256ad0a6310800000000000000
+      internalID: 1398945642252764870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_47
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 792
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d322f8b611878e1c0800000000000000
+      internalID: -4474194213578268099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_48
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 692
+        width: 94
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a052063cf5f47a130800000000000000
+      internalID: 3577915701687493898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_49
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 690
+        width: 90
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ec9dacfc8ac88b00800000000000000
+      internalID: 831136838133325032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_50
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 795
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3484ca1076df2cb50800000000000000
+      internalID: 6612125821784836163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_51
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 795
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df383f399a7a2dcf0800000000000000
+      internalID: -228936284268952579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_52
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 690
+        width: 104
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae580f805b8159740800000000000000
+      internalID: 5158056114040899050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_53
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 795
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71a70d1a7410adfa0800000000000000
+      internalID: -5775302164980139497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_54
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 782
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0ed40f8a0ac5ba30800000000000000
+      internalID: 4230509571682393611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_55
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 693
+        width: 92
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70f1895b787976780800000000000000
+      internalID: -8689810346865058041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_56
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 694
+        width: 93
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e8c091721a7c7c60800000000000000
+      internalID: 7817257272841652453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_57
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 693
+        width: 86
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fab8139a7cabbb20800000000000000
+      internalID: 3151302006729652979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_58
+      rect:
+        serializedVersion: 2
+        x: 1389
+        y: 690
+        width: 100
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d70404f30922fb6f0800000000000000
+      internalID: -666776216895733635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_59
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 689
+        width: 92
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa8a2e901e7242e60800000000000000
+      internalID: 7936512290820630703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_60
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 690
+        width: 88
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa8028633cb6c5760800000000000000
+      internalID: 7447946369941244079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_61
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 690
+        width: 90
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abceff78c50ab6900800000000000000
+      internalID: 678812488128523450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_62
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 692
+        width: 87
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 145cf2333eba3f130800000000000000
+      internalID: 3599409519503852865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_63
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 697
+        width: 94
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83f036ced7adaa4c0800000000000000
+      internalID: -4275364661863182536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_64
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 728
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b90fecd39aaccf840800000000000000
+      internalID: 5259301293097152667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_65
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 728
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4ad0871b0af2af80800000000000000
+      internalID: -8096634254512825782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_66
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 720
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca71b42fdfd8f3be0800000000000000
+      internalID: -1495320429432465492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_67
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 732
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 897af45aa797e0850800000000000000
+      internalID: 6345142492678039448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_68
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 724
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86e7eec9421f1f810800000000000000
+      internalID: 1797482865851530856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_69
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 706
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98e2e62f8ed5ceea0800000000000000
+      internalID: -5842191361525272951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_70
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 718
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2332c437c6f0cf30800000000000000
+      internalID: 4593942955361973037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_71
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 697
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43af6773ea306bdf0800000000000000
+      internalID: -164940289562707404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_72
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 694
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af3f9015df293e790800000000000000
+      internalID: -7501990937585126406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_73
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 694
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cde4feec46b95280800000000000000
+      internalID: -9054005134308872764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_74
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 719
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 614d24831aa12a5f0800000000000000
+      internalID: -747005308454120426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_75
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 694
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1f29eca9d393a710800000000000000
+      internalID: 1703367647194328859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_76
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 695
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61c42d7e9c6df1110800000000000000
+      internalID: 1233940985588894742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_77
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 708
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45f3e407aed28fef0800000000000000
+      internalID: -74258908921839788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_78
+      rect:
+        serializedVersion: 2
+        x: 1511
+        y: 708
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 175d73c20d5025630800000000000000
+      internalID: 3914197417791575409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_79
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 693
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e99ee67a4b6e1ce0800000000000000
+      internalID: -1432589663890138648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_80
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 693
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffcb932bce2a868d0800000000000000
+      internalID: -2852851226453099265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_81
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 665
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e26f69539056979c0800000000000000
+      internalID: -3928998109675850194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_82
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 665
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa3ae4f16d2c29bb0800000000000000
+      internalID: -4930664417113234518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_83
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 665
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d0a116efa1733340800000000000000
+      internalID: 4842339024646545618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_84
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 666
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 828b6e114a246b8f0800000000000000
+      internalID: -525159034099681240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_85
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 666
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 886ba49f370e7ba00800000000000000
+      internalID: 772332649825613448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_86
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 666
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b4a3ecf060e2c2d0800000000000000
+      internalID: -3259796473098558283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_87
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 666
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41119c00a3ad91b50800000000000000
+      internalID: 6564517874525344020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_88
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 666
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2560de1b461ff88d0800000000000000
+      internalID: -2841787425063369134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_89
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 666
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d74ffbfa50daa2b0800000000000000
+      internalID: -5572412499724122160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_90
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 666
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 386cb0d01d15bf910800000000000000
+      internalID: 1872180028411463299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_91
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 666
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f9a4a911aa2abdf0800000000000000
+      internalID: -163771565037278729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_92
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 666
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee554795fd55eb0e0800000000000000
+      internalID: -2252268345871804946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_93
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 621
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf09acb12d9956aa0800000000000000
+      internalID: -6168354986925584133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_94
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 621
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 324b0da18196feaf0800000000000000
+      internalID: -364957492543704029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_95
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 621
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19839ef80e92deb80800000000000000
+      internalID: -8363982888493303663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_96
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 621
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20d640e27b1af18b0800000000000000
+      internalID: -5179243238329651966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_97
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 534
+        width: 86
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 641a47e7c05d3aef0800000000000000
+      internalID: -98000517234122426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_98
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 550
+        width: 90
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e58d55ac6a2f814a0800000000000000
+      internalID: -6622276453875197858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_99
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 621
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 622fc5bd693b36b40800000000000000
+      internalID: 5432383036045718054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_100
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 621
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 603c0c5f575d9a480800000000000000
+      internalID: -8887337687028022522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_101
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 621
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc5aeb4e76b04fbb0800000000000000
+      internalID: -4903281553452390961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_102
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 621
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdebc68e86aeac260800000000000000
+      internalID: 7118759897309429468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_103
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 522
+        width: 93
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f27c238a69f9a9350800000000000000
+      internalID: 6024302920977270575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_104
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 618
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d252c48d4560fc3b0800000000000000
+      internalID: -5490162459265456851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_105
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 618
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cd3b5df8b4a16ec0800000000000000
+      internalID: -3575395514723910199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_106
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 618
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcaead07800557c20800000000000000
+      internalID: 3203554707127331531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_107
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 618
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28aee7276a7a1fc20800000000000000
+      internalID: 3238553940383427202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_108
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 522
+        width: 91
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73746dea162852a70800000000000000
+      internalID: 8801584402822219575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_109
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 521
+        width: 35
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fc863167c80e6240800000000000000
+      internalID: 4786773106363895029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_110
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 523
+        width: 20
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 791b57115bafed700800000000000000
+      internalID: 567166258684211607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_111
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 522
+        width: 61
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ed8d5fe99954d7c0800000000000000
+      internalID: -4047511647418479127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_112
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 521
+        width: 97
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e63bf738c129cbc0800000000000000
+      internalID: -3762438869874952472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_113
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 518
+        width: 93
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 173a565bdd0b86ff0800000000000000
+      internalID: -42589730182421647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_114
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 519
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8853673452af07390800000000000000
+      internalID: -7822477514789997176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_115
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 520
+        width: 89
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5037f752a52312550800000000000000
+      internalID: 6134239530212881157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_116
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 519
+        width: 84
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95ee135225217bc40800000000000000
+      internalID: 5527907211641220697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_117
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 499
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4f2bcbe8d37d9e70800000000000000
+      internalID: 9123575795628584781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_118
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 500
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 896a73da37720f850800000000000000
+      internalID: 6408665647529043608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_119
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 499
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4fc469d2173fd610800000000000000
+      internalID: 1648096542737092427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_120
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 499
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8cf4156eb28f9810800000000000000
+      internalID: 1774280532458536076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_121
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 499
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcf834d0cbe295650800000000000000
+      internalID: 6222055745400311757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_122
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 499
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b75815a0254e6bd90800000000000000
+      internalID: -7082222322981960325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_123
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 499
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31b6f1eece4ea1c70800000000000000
+      internalID: 8942711716355992339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_124
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 498
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63755db24d81e4490800000000000000
+      internalID: -7760237808365250762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_125
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 498
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b43b44d038393d80800000000000000
+      internalID: -8270517458317921100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_126
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 468
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee01d3c561b5d35b0800000000000000
+      internalID: -5387049427670331154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_127
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 468
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6047e821b3dd54de0800000000000000
+      internalID: -1349429267543460858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_128
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 468
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efd0355bbdd7e03e0800000000000000
+      internalID: -2085591194832531970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_129
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 468
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8de67c6a52f34b790800000000000000
+      internalID: -7515312447230087464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_130
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 468
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1be03d2173b788580800000000000000
+      internalID: -8824667993363247439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_131
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 468
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f34bf81b5dfa0080800000000000000
+      internalID: -9220278719384697869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_132
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 468
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffc5bd84c2d1d7a50800000000000000
+      internalID: 6520399911540448511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_133
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 468
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80d3e8bf79480b700800000000000000
+      internalID: 554088542461902088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_134
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 468
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81024889789032120800000000000000
+      internalID: 2387762705420525592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_135
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 375
+        width: 78
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 621b69724d0673910800000000000000
+      internalID: 1817027438980804902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_136
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 465
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7956852bb36480450800000000000000
+      internalID: 6055166921208784279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_137
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 465
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1f2b3ac63c60ecc0800000000000000
+      internalID: -3683825512612155621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_138
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 465
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8d4de72dfa13b8c0800000000000000
+      internalID: -3984811570693845622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_139
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 372
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d20b2d997c19307c0800000000000000
+      internalID: -4106278148766519251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_140
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 372
+        width: 97
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff7647d2ebf817820800000000000000
+      internalID: 2914268480854583295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_141
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 372
+        width: 99
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58a203f01ab466460800000000000000
+      internalID: 7234553006533913221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_142
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 372
+        width: 98
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f5c766297edbf180800000000000000
+      internalID: -9080419611745729039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_143
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 374
+        width: 99
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b41356d9934dcd10800000000000000
+      internalID: 2147446925330420916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_144
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 447
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3596efd98e3541180800000000000000
+      internalID: -9145592684734420653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_145
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 374
+        width: 81
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e8b7f27602730700800000000000000
+      internalID: 505372955219835109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_146
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 380
+        width: 116
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce3881668acbc8d70800000000000000
+      internalID: 9046813182933894124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_147
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 432
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2719b2f5e2801880800000000000000
+      internalID: -8642263760792643798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_148
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 438
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3a9c4e79dab1ac20800000000000000
+      internalID: 3216057052208863807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_149
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 384
+        width: 116
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 006bd61c0cdede960800000000000000
+      internalID: 7633018355597555200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_150
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 390
+        width: 80
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f8437a2db4b65250800000000000000
+      internalID: 5933128283661224176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_151
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 406
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d1c095b650b322b0800000000000000
+      internalID: -5610446824313667118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_152
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 380
+        width: 117
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41986359be02e6740800000000000000
+      internalID: 5147087620323838228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_153
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 382
+        width: 107
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b16d8820d158ba440800000000000000
+      internalID: 4948194975239689755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_154
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 352
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73a95531c66200550800000000000000
+      internalID: 6124937738846575159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_155
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 352
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f1b1812e7ead3a30800000000000000
+      internalID: 4196702284530430457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_156
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 352
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 310e383465b278e60800000000000000
+      internalID: 7964382115527909395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_157
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 352
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e80776c22ed910b30800000000000000
+      internalID: 4251853117947605134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_158
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 352
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0447e73ba4edf390800000000000000
+      internalID: -7782813156997905397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_159
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 352
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 659662828ce10fc00800000000000000
+      internalID: 932278967881591126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_160
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 352
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9491fc91ba73a8000800000000000000
+      internalID: 38904754798008649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_161
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 352
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f34cbb0aa486e3ce0800000000000000
+      internalID: -1423585762468969409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_162
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 354
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b5afd88c19532470800000000000000
+      internalID: 8368630511674828212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_163
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 354
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b3eaa3ae228d5e90800000000000000
+      internalID: -7035323906056854606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_164
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 354
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60fd4338dd65f6d60800000000000000
+      internalID: 7885616981938069254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_165
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 354
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3625cc604214ee240800000000000000
+      internalID: 4822863873949061731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_166
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 317
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b277b9e2b84e52500800000000000000
+      internalID: 370953830761461547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_167
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 317
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2ab61af2d6299780800000000000000
+      internalID: -8675860519571768790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_168
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 317
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fea350d0e082a87f0800000000000000
+      internalID: -609630758742181137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_169
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 317
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c89219d7c089546d0800000000000000
+      internalID: -3006829996786243188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_170
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 317
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 955eb3b2f54e9e200800000000000000
+      internalID: 209949955047810393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_171
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 317
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43a7c287eff216190800000000000000
+      internalID: -7971037095484687820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_172
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 317
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e5df42b62edc5fd0800000000000000
+      internalID: -2351760647612541472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_173
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 317
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78f3aeb2752d13970800000000000000
+      internalID: 8732992424288862087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_174
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 317
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 755f334623fce73c0800000000000000
+      internalID: -4359819573911620265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_175
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 317
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a6cf88cb57354160800000000000000
+      internalID: 7009069262418462373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_176
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 306
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f54621814e131fdf0800000000000000
+      internalID: -148282457000352673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_177
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 305
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63ca50304a6563680800000000000000
+      internalID: -8775731561459504074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_178
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 303
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c9421feeda2024a0800000000000000
+      internalID: -6620244315252569659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_179
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 317
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6e5ff4a3a9b985c0800000000000000
+      internalID: -4212631863929381270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_180
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 317
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7422adab4b7699350800000000000000
+      internalID: 6023960002511381063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_181
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 317
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cc68c8d7869f0530800000000000000
+      internalID: 3823440118862605510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_182
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 317
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf084489b1cb39990800000000000000
+      internalID: -7380348537625345797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_183
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 317
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a9aa6b5b7b8b2790800000000000000
+      internalID: -7553790588052919901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_184
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 223
+        width: 80
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 796fe7c3d41a58520800000000000000
+      internalID: 2703744504405358231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_185
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 222
+        width: 78
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efbd380dacf0b0ca0800000000000000
+      internalID: -6049724310686016514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_186
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 224
+        width: 74
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cba8e418e46eb9c0800000000000000
+      internalID: -3909576478565028926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_187
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 221
+        width: 84
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0710859f3b456f470800000000000000
+      internalID: 8428016884629635440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_188
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 224
+        width: 97
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62c83ba2cc8f2e440800000000000000
+      internalID: 4963803295089134630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_189
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 285
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37f7f27a6a7478ec0800000000000000
+      internalID: -3564801798945407117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_190
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 223
+        width: 100
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10a8b56b5d2f2d0f0800000000000000
+      internalID: -1093544759796200959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_191
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 298
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4737aace397066900800000000000000
+      internalID: 677237125878018932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_192
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 223
+        width: 104
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 666dae02fabe17f20800000000000000
+      internalID: 3418772729554982502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_193
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 302
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c3921005a6e16a60800000000000000
+      internalID: 7665661637106504646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_194
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 293
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9a1777103f03fdb0800000000000000
+      internalID: -4759443681973953889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_195
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 222
+        width: 97
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d8595de9cb47c930800000000000000
+      internalID: 4163379711169878225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_196
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 291
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c16611b0833cb7a50800000000000000
+      internalID: 6520019531020199452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_197
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 294
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a7435ae4327a3e50800000000000000
+      internalID: 6789864959809636259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_198
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 290
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81b9ee6f370f0d560800000000000000
+      internalID: 7336628173841275672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_199
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 295
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a898260c29fbf63a0800000000000000
+      internalID: -6669901886098601590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_200
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 290
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 868867cab75a117f0800000000000000
+      internalID: -643551321144260504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_201
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 297
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa702e869bcb30d90800000000000000
+      internalID: -7132649880310118481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_202
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 294
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e848975550933ec60800000000000000
+      internalID: 7846177670881182862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_203
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 282
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0327bdc9f88426c20800000000000000
+      internalID: 3198198467035623984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_204
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 284
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 706cfd811a676e620800000000000000
+      internalID: 2803058252363843079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_205
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 224
+        width: 102
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84361d463dbbf8430800000000000000
+      internalID: 3787452328245814088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_206
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 224
+        width: 105
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3681e68c138951960800000000000000
+      internalID: 7572125688076834915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_207
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 224
+        width: 105
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f9036d1e0a61cfc0800000000000000
+      internalID: -3476380828498195983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_208
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 287
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9b23ebb2f5c319c0800000000000000
+      internalID: -3957602001203549285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_209
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 275
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45563b88cbe58b9c0800000000000000
+      internalID: -3911272112530954924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_210
+      rect:
+        serializedVersion: 2
+        x: 1465
+        y: 282
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9719c82ee63859660800000000000000
+      internalID: 7391958875669041529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_211
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 264
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baf041155ad8d6d00800000000000000
+      internalID: 967585236123914155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_212
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 224
+        width: 101
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e57e31d4c6eaf6b0800000000000000
+      internalID: -5261639481630493213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_213
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 270
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63affbf8a7a001e40800000000000000
+      internalID: 5625007456099760694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_214
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 267
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92dc654979c958670800000000000000
+      internalID: 8540404443220725033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_215
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 201
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a82641c80720de70800000000000000
+      internalID: 9137846562490558627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_216
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 201
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7a1f7cba34b7d240800000000000000
+      internalID: 4816516490859584122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_217
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 201
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fd2c6c2dcd5aef70800000000000000
+      internalID: 9217282723162107376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_218
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 201
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d0fc355b760013c0800000000000000
+      internalID: -4391002509905432364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_219
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 201
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53be23d3a1b6da700800000000000000
+      internalID: 553216089676507957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_220
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 201
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc96c1774b3ad64e0800000000000000
+      internalID: -1986751865112729140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_221
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 201
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 235c731ae2c94f370800000000000000
+      internalID: 8355474932766328114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_222
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 201
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d508c822c3a42070800000000000000
+      internalID: 8080763685712692691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_223
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 201
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7180adfd62bc15fd0800000000000000
+      internalID: -2354877762313254889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_224
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 201
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43273b3bd09f2b3e0800000000000000
+      internalID: -2039293844000640460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_225
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 201
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22a15190b114c55a0800000000000000
+      internalID: -6531273775221761502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_226
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 201
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ad57f3e6eb491770800000000000000
+      internalID: 8581974019970391458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_227
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 201
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 829cedf214b695510800000000000000
+      internalID: 1538378675443910952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_228
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 201
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a93d8d74ff0423c0800000000000000
+      internalID: -4385362594399176284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_229
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 201
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 931d0c345a5162580800000000000000
+      internalID: -8852364217999634119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_230
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 201
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24dca3cd3ef4c7830800000000000000
+      internalID: 4070216003307097410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_231
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 201
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17b47fba22d2114f0800000000000000
+      internalID: -859856426913805455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_232
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 201
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf49ec4b1d49311c0800000000000000
+      internalID: -4534116771429444357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_233
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 201
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff85b9617e0ed2c80800000000000000
+      internalID: -8345767251326314241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_234
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 201
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88a4b43d3661d97c0800000000000000
+      internalID: -4063066670815819128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_235
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 201
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17af8e6ed22648a10800000000000000
+      internalID: 1910760091199011441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_236
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 45
+        width: 1477
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bce9c8b77ed2c080800000000000000
+      internalID: -9168521285590192972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_237
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 153
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c801ff9e19881ab0800000000000000
+      internalID: -5037125418588501815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_238
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 153
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a335be405571367d0800000000000000
+      internalID: -2926469678938500294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_239
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 153
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6374e40f027555090800000000000000
+      internalID: -8046429360245291210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_240
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 154
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b721d9a9bfed0990800000000000000
+      internalID: -7418009430512293964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_241
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 153
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27bcffc9141a7de20800000000000000
+      internalID: 3375343748916431730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_242
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 154
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca5f5f144a7de2b40800000000000000
+      internalID: 5417504502254532012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_243
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 153
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 376f07f03e2466b30800000000000000
+      internalID: 4280182038846305907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_244
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 153
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 023ce2dd6048fcff0800000000000000
+      internalID: -13647108843322592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_245
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 154
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ab70cc4823d371b0800000000000000
+      internalID: -5659948136634745950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_246
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 154
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7598f91120d133650800000000000000
+      internalID: 6211340205796854103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_247
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 153
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca95a62733075a1a0800000000000000
+      internalID: -6798904696180680276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_248
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 153
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90498d568a7c147c0800000000000000
+      internalID: -4088767460598574071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_249
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 153
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 913859a41096f3c80800000000000000
+      internalID: -8340832530599673063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_250
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 153
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: decb30a48e16401a0800000000000000
+      internalID: -6844237883394245395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_251
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 49
+        width: 96
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93cf387cb2fee3550800000000000000
+      internalID: 6142609913089883193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_252
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 44
+        width: 91
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edc3232fae74519e0800000000000000
+      internalID: -1651334613950120738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_253
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 25
+        width: 389
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2975854c1be336e80800000000000000
+      internalID: -8186630764405172334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_254
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 47
+        width: 78
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63e1b6a1840160660800000000000000
+      internalID: 7351581343595830838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_255
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 47
+        width: 82
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85623fb5f8e7695d0800000000000000
+      internalID: -3056116142936218024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_256
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 52
+        width: 81
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 951ba993b1cc2a560800000000000000
+      internalID: 7323640361360470361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_257
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 44
+        width: 94
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38c586057d3c3aeb0800000000000000
+      internalID: -4709705455765005181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_258
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 96
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef0d5007f17f96660800000000000000
+      internalID: 7379701178818744574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_259
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 102
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88ac57d1a6444e7f0800000000000000
+      internalID: -584266829099840888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_260
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 109
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: befe811bf151de6a0800000000000000
+      internalID: -6418450668073717781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_261
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 80
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a5ca3711dd2ed360800000000000000
+      internalID: 7196239630645773735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_262
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 81
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f8036fa4cda86f20800000000000000
+      internalID: 3416171377628219640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_263
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 85
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a22d3ccbd06ab1d50800000000000000
+      internalID: 6709138647830221354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_264
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 45
+        width: 12
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bf53f0115e70a1b0800000000000000
+      internalID: -5647375046080766028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_265
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 20
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8002c75a60cc415b0800000000000000
+      internalID: -5398465724392136696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_266
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 20
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce07f9598c8939250800000000000000
+      internalID: 5950267519957692652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_267
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 20
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6925d3d7906e72b90800000000000000
+      internalID: -7266586545308740970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_268
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 20
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fc3aa973390cf540800000000000000
+      internalID: 5042915799437294834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_269
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 20
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85a9ecc057fa6cfb0800000000000000
+      internalID: -4627818649815705000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_270
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 20
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdec64859b34841c0800000000000000
+      internalID: -4519287762737246500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metalgreymon_271
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 20
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dc2e0358cb4d8f80800000000000000
+      internalID: -8102736830810673967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Metalgreymon_0: -4440008647118150464
+      Metalgreymon_1: 5973778708248746829
+      Metalgreymon_10: 417920039597978947
+      Metalgreymon_100: -8887337687028022522
+      Metalgreymon_101: -4903281553452390961
+      Metalgreymon_102: 7118759897309429468
+      Metalgreymon_103: 6024302920977270575
+      Metalgreymon_104: -5490162459265456851
+      Metalgreymon_105: -3575395514723910199
+      Metalgreymon_106: 3203554707127331531
+      Metalgreymon_107: 3238553940383427202
+      Metalgreymon_108: 8801584402822219575
+      Metalgreymon_109: 4786773106363895029
+      Metalgreymon_11: -3732910670758791915
+      Metalgreymon_110: 567166258684211607
+      Metalgreymon_111: -4047511647418479127
+      Metalgreymon_112: -3762438869874952472
+      Metalgreymon_113: -42589730182421647
+      Metalgreymon_114: -7822477514789997176
+      Metalgreymon_115: 6134239530212881157
+      Metalgreymon_116: 5527907211641220697
+      Metalgreymon_117: 9123575795628584781
+      Metalgreymon_118: 6408665647529043608
+      Metalgreymon_119: 1648096542737092427
+      Metalgreymon_12: -3990351352913591534
+      Metalgreymon_120: 1774280532458536076
+      Metalgreymon_121: 6222055745400311757
+      Metalgreymon_122: -7082222322981960325
+      Metalgreymon_123: 8942711716355992339
+      Metalgreymon_124: -7760237808365250762
+      Metalgreymon_125: -8270517458317921100
+      Metalgreymon_126: -5387049427670331154
+      Metalgreymon_127: -1349429267543460858
+      Metalgreymon_128: -2085591194832531970
+      Metalgreymon_129: -7515312447230087464
+      Metalgreymon_13: -5680999848610533233
+      Metalgreymon_130: -8824667993363247439
+      Metalgreymon_131: -9220278719384697869
+      Metalgreymon_132: 6520399911540448511
+      Metalgreymon_133: 554088542461902088
+      Metalgreymon_134: 2387762705420525592
+      Metalgreymon_135: 1817027438980804902
+      Metalgreymon_136: 6055166921208784279
+      Metalgreymon_137: -3683825512612155621
+      Metalgreymon_138: -3984811570693845622
+      Metalgreymon_139: -4106278148766519251
+      Metalgreymon_14: 2614106447641719402
+      Metalgreymon_140: 2914268480854583295
+      Metalgreymon_141: 7234553006533913221
+      Metalgreymon_142: -9080419611745729039
+      Metalgreymon_143: 2147446925330420916
+      Metalgreymon_144: -9145592684734420653
+      Metalgreymon_145: 505372955219835109
+      Metalgreymon_146: 9046813182933894124
+      Metalgreymon_147: -8642263760792643798
+      Metalgreymon_148: 3216057052208863807
+      Metalgreymon_149: 7633018355597555200
+      Metalgreymon_15: 7110867422258814814
+      Metalgreymon_150: 5933128283661224176
+      Metalgreymon_151: -5610446824313667118
+      Metalgreymon_152: 5147087620323838228
+      Metalgreymon_153: 4948194975239689755
+      Metalgreymon_154: 6124937738846575159
+      Metalgreymon_155: 4196702284530430457
+      Metalgreymon_156: 7964382115527909395
+      Metalgreymon_157: 4251853117947605134
+      Metalgreymon_158: -7782813156997905397
+      Metalgreymon_159: 932278967881591126
+      Metalgreymon_16: 5469986706930401324
+      Metalgreymon_160: 38904754798008649
+      Metalgreymon_161: -1423585762468969409
+      Metalgreymon_162: 8368630511674828212
+      Metalgreymon_163: -7035323906056854606
+      Metalgreymon_164: 7885616981938069254
+      Metalgreymon_165: 4822863873949061731
+      Metalgreymon_166: 370953830761461547
+      Metalgreymon_167: -8675860519571768790
+      Metalgreymon_168: -609630758742181137
+      Metalgreymon_169: -3006829996786243188
+      Metalgreymon_17: 3510297383633022795
+      Metalgreymon_170: 209949955047810393
+      Metalgreymon_171: -7971037095484687820
+      Metalgreymon_172: -2351760647612541472
+      Metalgreymon_173: 8732992424288862087
+      Metalgreymon_174: -4359819573911620265
+      Metalgreymon_175: 7009069262418462373
+      Metalgreymon_176: -148282457000352673
+      Metalgreymon_177: -8775731561459504074
+      Metalgreymon_178: -6620244315252569659
+      Metalgreymon_179: -4212631863929381270
+      Metalgreymon_18: 691528283286285357
+      Metalgreymon_180: 6023960002511381063
+      Metalgreymon_181: 3823440118862605510
+      Metalgreymon_182: -7380348537625345797
+      Metalgreymon_183: -7553790588052919901
+      Metalgreymon_184: 2703744504405358231
+      Metalgreymon_185: -6049724310686016514
+      Metalgreymon_186: -3909576478565028926
+      Metalgreymon_187: 8428016884629635440
+      Metalgreymon_188: 4963803295089134630
+      Metalgreymon_189: -3564801798945407117
+      Metalgreymon_19: -2633325214818591821
+      Metalgreymon_190: -1093544759796200959
+      Metalgreymon_191: 677237125878018932
+      Metalgreymon_192: 3418772729554982502
+      Metalgreymon_193: 7665661637106504646
+      Metalgreymon_194: -4759443681973953889
+      Metalgreymon_195: 4163379711169878225
+      Metalgreymon_196: 6520019531020199452
+      Metalgreymon_197: 6789864959809636259
+      Metalgreymon_198: 7336628173841275672
+      Metalgreymon_199: -6669901886098601590
+      Metalgreymon_2: 4334238411097024789
+      Metalgreymon_20: -1469854285299997788
+      Metalgreymon_200: -643551321144260504
+      Metalgreymon_201: -7132649880310118481
+      Metalgreymon_202: 7846177670881182862
+      Metalgreymon_203: 3198198467035623984
+      Metalgreymon_204: 2803058252363843079
+      Metalgreymon_205: 3787452328245814088
+      Metalgreymon_206: 7572125688076834915
+      Metalgreymon_207: -3476380828498195983
+      Metalgreymon_208: -3957602001203549285
+      Metalgreymon_209: -3911272112530954924
+      Metalgreymon_21: -392329567484133412
+      Metalgreymon_210: 7391958875669041529
+      Metalgreymon_211: 967585236123914155
+      Metalgreymon_212: -5261639481630493213
+      Metalgreymon_213: 5625007456099760694
+      Metalgreymon_214: 8540404443220725033
+      Metalgreymon_215: 9137846562490558627
+      Metalgreymon_216: 4816516490859584122
+      Metalgreymon_217: 9217282723162107376
+      Metalgreymon_218: -4391002509905432364
+      Metalgreymon_219: 553216089676507957
+      Metalgreymon_22: -2669830984055157458
+      Metalgreymon_220: -1986751865112729140
+      Metalgreymon_221: 8355474932766328114
+      Metalgreymon_222: 8080763685712692691
+      Metalgreymon_223: -2354877762313254889
+      Metalgreymon_224: -2039293844000640460
+      Metalgreymon_225: -6531273775221761502
+      Metalgreymon_226: 8581974019970391458
+      Metalgreymon_227: 1538378675443910952
+      Metalgreymon_228: -4385362594399176284
+      Metalgreymon_229: -8852364217999634119
+      Metalgreymon_23: 302680909524937780
+      Metalgreymon_230: 4070216003307097410
+      Metalgreymon_231: -859856426913805455
+      Metalgreymon_232: -4534116771429444357
+      Metalgreymon_233: -8345767251326314241
+      Metalgreymon_234: -4063066670815819128
+      Metalgreymon_235: 1910760091199011441
+      Metalgreymon_236: -9168521285590192972
+      Metalgreymon_237: -5037125418588501815
+      Metalgreymon_238: -2926469678938500294
+      Metalgreymon_239: -8046429360245291210
+      Metalgreymon_24: 3089568562635650793
+      Metalgreymon_240: -7418009430512293964
+      Metalgreymon_241: 3375343748916431730
+      Metalgreymon_242: 5417504502254532012
+      Metalgreymon_243: 4280182038846305907
+      Metalgreymon_244: -13647108843322592
+      Metalgreymon_245: -5659948136634745950
+      Metalgreymon_246: 6211340205796854103
+      Metalgreymon_247: -6798904696180680276
+      Metalgreymon_248: -4088767460598574071
+      Metalgreymon_249: -8340832530599673063
+      Metalgreymon_25: -8506893603613208441
+      Metalgreymon_250: -6844237883394245395
+      Metalgreymon_251: 6142609913089883193
+      Metalgreymon_252: -1651334613950120738
+      Metalgreymon_253: -8186630764405172334
+      Metalgreymon_254: 7351581343595830838
+      Metalgreymon_255: -3056116142936218024
+      Metalgreymon_256: 7323640361360470361
+      Metalgreymon_257: -4709705455765005181
+      Metalgreymon_258: 7379701178818744574
+      Metalgreymon_259: -584266829099840888
+      Metalgreymon_26: -3226031155900091148
+      Metalgreymon_260: -6418450668073717781
+      Metalgreymon_261: 7196239630645773735
+      Metalgreymon_262: 3416171377628219640
+      Metalgreymon_263: 6709138647830221354
+      Metalgreymon_264: -5647375046080766028
+      Metalgreymon_265: -5398465724392136696
+      Metalgreymon_266: 5950267519957692652
+      Metalgreymon_267: -7266586545308740970
+      Metalgreymon_268: 5042915799437294834
+      Metalgreymon_269: -4627818649815705000
+      Metalgreymon_27: 2229684369533341040
+      Metalgreymon_270: -4519287762737246500
+      Metalgreymon_271: -8102736830810673967
+      Metalgreymon_28: -3484506779677356085
+      Metalgreymon_29: 2499888528776305083
+      Metalgreymon_3: 2973810725961863275
+      Metalgreymon_30: 505414174599012539
+      Metalgreymon_31: 8856152285158756644
+      Metalgreymon_32: -6193071793232816410
+      Metalgreymon_33: -6585921478516504757
+      Metalgreymon_34: 4706178292586921377
+      Metalgreymon_35: 7139519229635256961
+      Metalgreymon_36: -781371380683410010
+      Metalgreymon_37: -62968296764988325
+      Metalgreymon_38: 2061356228921056368
+      Metalgreymon_39: -1284280269697099390
+      Metalgreymon_4: -2056948395434069221
+      Metalgreymon_40: 1172693618713218014
+      Metalgreymon_41: 1604704331789495061
+      Metalgreymon_42: 6381301308653188350
+      Metalgreymon_43: -5981866037195246291
+      Metalgreymon_44: 4271531516333887587
+      Metalgreymon_45: 7076724164229749986
+      Metalgreymon_46: 1398945642252764870
+      Metalgreymon_47: -4474194213578268099
+      Metalgreymon_48: 3577915701687493898
+      Metalgreymon_49: 831136838133325032
+      Metalgreymon_5: -6181093491222054621
+      Metalgreymon_50: 6612125821784836163
+      Metalgreymon_51: -228936284268952579
+      Metalgreymon_52: 5158056114040899050
+      Metalgreymon_53: -5775302164980139497
+      Metalgreymon_54: 4230509571682393611
+      Metalgreymon_55: -8689810346865058041
+      Metalgreymon_56: 7817257272841652453
+      Metalgreymon_57: 3151302006729652979
+      Metalgreymon_58: -666776216895733635
+      Metalgreymon_59: 7936512290820630703
+      Metalgreymon_6: -7291321077230417823
+      Metalgreymon_60: 7447946369941244079
+      Metalgreymon_61: 678812488128523450
+      Metalgreymon_62: 3599409519503852865
+      Metalgreymon_63: -4275364661863182536
+      Metalgreymon_64: 5259301293097152667
+      Metalgreymon_65: -8096634254512825782
+      Metalgreymon_66: -1495320429432465492
+      Metalgreymon_67: 6345142492678039448
+      Metalgreymon_68: 1797482865851530856
+      Metalgreymon_69: -5842191361525272951
+      Metalgreymon_7: 856948121401971960
+      Metalgreymon_70: 4593942955361973037
+      Metalgreymon_71: -164940289562707404
+      Metalgreymon_72: -7501990937585126406
+      Metalgreymon_73: -9054005134308872764
+      Metalgreymon_74: -747005308454120426
+      Metalgreymon_75: 1703367647194328859
+      Metalgreymon_76: 1233940985588894742
+      Metalgreymon_77: -74258908921839788
+      Metalgreymon_78: 3914197417791575409
+      Metalgreymon_79: -1432589663890138648
+      Metalgreymon_8: -2699438570835475544
+      Metalgreymon_80: -2852851226453099265
+      Metalgreymon_81: -3928998109675850194
+      Metalgreymon_82: -4930664417113234518
+      Metalgreymon_83: 4842339024646545618
+      Metalgreymon_84: -525159034099681240
+      Metalgreymon_85: 772332649825613448
+      Metalgreymon_86: -3259796473098558283
+      Metalgreymon_87: 6564517874525344020
+      Metalgreymon_88: -2841787425063369134
+      Metalgreymon_89: -5572412499724122160
+      Metalgreymon_9: 5337000143496341795
+      Metalgreymon_90: 1872180028411463299
+      Metalgreymon_91: -163771565037278729
+      Metalgreymon_92: -2252268345871804946
+      Metalgreymon_93: -6168354986925584133
+      Metalgreymon_94: -364957492543704029
+      Metalgreymon_95: -8363982888493303663
+      Metalgreymon_96: -5179243238329651966
+      Metalgreymon_97: -98000517234122426
+      Metalgreymon_98: -6622276453875197858
+      Metalgreymon_99: 5432383036045718054
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

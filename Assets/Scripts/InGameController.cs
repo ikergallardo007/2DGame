@@ -22,7 +22,6 @@ public class InGameController : MonoBehaviour
     {
         if(_escapeAction.triggered)
         {
-            print("Escape!");
             SceneManager.LoadScene("MainMenu");
         }
     }

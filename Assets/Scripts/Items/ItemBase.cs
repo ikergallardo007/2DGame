@@ -35,7 +35,7 @@ public abstract class ItemBase : MonoBehaviour, IRecolectable
     private void OnTriggerEnter2D(Collider2D collision)
     {
         if (collision.gameObject.CompareTag("ObjectDestroyer"))
-            Recolected();
+            Destroy(gameObject);
     }
     #endregion
 

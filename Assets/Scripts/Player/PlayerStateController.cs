@@ -63,6 +63,11 @@ public class PlayerStateController : MonoBehaviour
         get => _damaged;
         set => _damaged = value;
     }
+    public bool Charging
+    {
+        get => _charging;
+        set => _charging = value;
+    }
 
     public bool HasDigivice
     {
@@ -84,6 +89,7 @@ public class PlayerStateController : MonoBehaviour
     [SerializeField] private bool _excited = false;
     [SerializeField] private bool _invulnerable = false;
     [SerializeField] private bool _damaged = false;
+    [SerializeField] private bool _charging = false;
     [SerializeField] private bool _hasDigivice = false;
     private float _invulnerableTime = 0;
     private float _invulnerableTotal = -1f;
@@ -157,6 +163,7 @@ public class PlayerStateController : MonoBehaviour
         {
             OnAir = true;
             Grounded = false;
+            _charging = false;
         }
     }
     #endregion

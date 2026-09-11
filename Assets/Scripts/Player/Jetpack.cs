@@ -2,7 +2,7 @@ using System;
 using UnityEngine;
 
 [RequireComponent(
-    typeof(Transform), 
+    typeof(Transform),
     typeof(Rigidbody2D),
     typeof(PlayerStateController)
  )]
@@ -62,11 +62,19 @@ public class Jetpack : MonoBehaviour
         {
             _energyRegenerationTime = 0;
         }
-        if(_playerState.Grounded)
+        if (_playerState.Grounded)
         {
             _energyRegenerationTime += Time.deltaTime;
-            if (_energyRegenerationTime > _energyRegenerationDelay)
+            if ((_energyRegenerationTime > _energyRegenerationDelay) && 
+                (Energy < _maxEnergy))
+            {
+                _playerState.Charging = true;
                 Regenerate();
+            }
+            else
+            {
+                _playerState.Charging = false;
+            }
         }
     }
 

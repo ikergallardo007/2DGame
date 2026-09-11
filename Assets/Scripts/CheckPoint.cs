@@ -1,13 +1,13 @@
 using UnityEngine;
 
-public class ObjectChecker : MonoBehaviour
+public class CheckPoint : MonoBehaviour
 {
     #region Properties
 
     #endregion
 
     #region Fields
-    [SerializeField] private Rigidbody2D _checkPointRigidBody;
+    [SerializeField] private Collider2D _wallCollider;
     #endregion
 
     #region Unity Callbacks
@@ -20,13 +20,13 @@ public class ObjectChecker : MonoBehaviour
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     private void Start()
     {
-        
+
     }
 
     // Update is called once per frame
     private void Update()
     {
-        
+
     }
 
     private void OnTriggerEnter2D(Collider2D collision)
@@ -34,13 +34,11 @@ public class ObjectChecker : MonoBehaviour
         if (collision.CompareTag("Player"))
         {
             PlayerStateController player = collision.GetComponent<PlayerStateController>();
+
             if (player != null && player.HasDigivice)
             {
-                Debug.Log("El jugador ha llegado con el Digivice!");
-
-                _checkPointRigidBody.simulated = false;
+                _wallCollider.enabled = false;
             }
-
         }
     }
 
@@ -48,7 +46,7 @@ public class ObjectChecker : MonoBehaviour
     {
         if (collision.CompareTag("Player"))
         {
-            _checkPointRigidBody.simulated = true;
+            _wallCollider.enabled = true;
         }
     }
     #endregion

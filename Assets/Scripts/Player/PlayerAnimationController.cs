@@ -16,6 +16,7 @@ public class PlayerAnimationController : MonoBehaviour
     private static readonly int LandingHash = Animator.StringToHash("Landing");
     private static readonly int ExcitedHash = Animator.StringToHash("Excite");
     private static readonly int DamagedHash = Animator.StringToHash("Damaged");
+    private static readonly int RightAuraHash = Animator.StringToHash("Right");
     #region Constants
     #endregion
 
@@ -24,7 +25,9 @@ public class PlayerAnimationController : MonoBehaviour
     #endregion
 
     #region Fields
+    [SerializeField] private GameObject _aura;
     private Animator _anim;
+    private Animator _auraAnim;
     private PlayerStateController _playerState;
     private SpriteRenderer _spriteRenderer;
     #endregion
@@ -36,6 +39,7 @@ public class PlayerAnimationController : MonoBehaviour
         _anim = GetComponent<Animator>();
         _playerState = GetComponent<PlayerStateController>();
         _spriteRenderer = GetComponent<SpriteRenderer>();
+        _auraAnim = _aura.GetComponent<Animator>();
     }
 
     // Update is called once per frame
@@ -63,6 +67,17 @@ public class PlayerAnimationController : MonoBehaviour
         {
             PlayDamagedAnimation();
             _playerState.Damaged = false;
+        }
+        if (!_aura.activeSelf)
+        {
+            _aura.SetActive(_playerState.Charging);
+            _auraAnim.enabled = _playerState.Charging;
+        }
+        else
+        {
+            _auraAnim.enabled = _playerState.Charging;
+            _aura.SetActive(_playerState.Charging);
+            _auraAnim.SetBool(RightAuraHash, _playerState.LookRight);
         }
     }
 

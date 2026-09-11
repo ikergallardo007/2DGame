@@ -58,6 +58,17 @@ public class PlayerStateController : MonoBehaviour
         get => _invulnerable;
         set => _invulnerable = value;
     }
+    public bool Damaged
+    {
+        get => _damaged;
+        set => _damaged = value;
+    }
+
+    public bool HasDigivice
+    {
+        get => _hasDigivice;
+        set => _hasDigivice = value;
+    }
 
     #endregion
 
@@ -72,6 +83,8 @@ public class PlayerStateController : MonoBehaviour
     [SerializeField] private bool _emptyTank = false;
     [SerializeField] private bool _excited = false;
     [SerializeField] private bool _invulnerable = false;
+    [SerializeField] private bool _damaged = false;
+    [SerializeField] private bool _hasDigivice = false;
     private float _invulnerableTime = 0;
     private float _invulnerableTotal = -1f;
     private Jetpack _jetpack;
@@ -119,6 +132,7 @@ public class PlayerStateController : MonoBehaviour
     {
         if (collision.gameObject.CompareTag("ObjectDestroyer") ||
             collision.gameObject.CompareTag("Platform"))
+
         {
             Flying = false;
             OnAir = false;

@@ -73,6 +73,9 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents:
     - targetCorrespondingSourceObject: {fileID: 8958420148017820776, guid: fed279d0906c865469cd8f3aafe3ad60, type: 3}
+      insertIndex: 1
+      addedObject: {fileID: 4938980468465393486}
+    - targetCorrespondingSourceObject: {fileID: 8958420148017820776, guid: fed279d0906c865469cd8f3aafe3ad60, type: 3}
       insertIndex: -1
       addedObject: {fileID: 5534882411009294693}
   m_SourcePrefab: {fileID: 100100000, guid: fed279d0906c865469cd8f3aafe3ad60, type: 3}
@@ -81,6 +84,19 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 8958420148017820776, guid: fed279d0906c865469cd8f3aafe3ad60, type: 3}
   m_PrefabInstance: {fileID: 7605919575917406813}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &4938980468465393486
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1576000553948995125}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0c56fa3340b169b43a46a6cb7eb78b90, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::ItemDigivice
+  _particles: {fileID: 1449676196005313029, guid: cdfac8efbe1ef914da45d4d85f5608c2, type: 3}
 --- !u!61 &5534882411009294693
 BoxCollider2D:
   m_ObjectHideFlags: 0

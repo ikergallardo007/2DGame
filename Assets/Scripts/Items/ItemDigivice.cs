@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class ItemDigivice : MonoBehaviour
+public class ItemDigivice : ItemBase
 {
     #region Properties
 
@@ -31,7 +31,15 @@ public class ItemDigivice : MonoBehaviour
     #endregion
 
     #region Public Methods
+    protected override void ApplyEffect(GameObject player)
+    {
+        PlayerStateController state = player.GetComponent<PlayerStateController>();
 
+        if (state == null)
+            return;
+        state.Excited = true;
+        state.HasDigivice = true;
+    }
     #endregion
 
     #region Private Methods

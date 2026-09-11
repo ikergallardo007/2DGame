@@ -34,11 +34,17 @@ public class ItemCowardlyEmblem : ItemBase
     #region Public Methods
     protected override void ApplyEffect(GameObject player)
     {
+        PlayerStateController playerState = player.GetComponent<PlayerStateController>();
+
+        if (playerState == null)
+            return;
+
         Jetpack playerJetpack = player.GetComponent<Jetpack>();
 
         if (playerJetpack == null)
             return;
 
+        playerState.Damaged = true;
         playerJetpack.Energy = 0;
     }
     #endregion

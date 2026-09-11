@@ -1,3 +1,4 @@
+using System;
 using TMPro;
 using Unity.VisualScripting;
 using UnityEngine;
@@ -14,6 +15,7 @@ public class PlayerAnimationController : MonoBehaviour
     private static readonly int WalkingHash = Animator.StringToHash("Walking");
     private static readonly int LandingHash = Animator.StringToHash("Landing");
     private static readonly int ExcitedHash = Animator.StringToHash("Excite");
+    private static readonly int DamagedHash = Animator.StringToHash("Damaged");
     #region Constants
     #endregion
 
@@ -57,7 +59,13 @@ public class PlayerAnimationController : MonoBehaviour
             PlayExcitedAnimation();
             _playerState.Excited = false;
         }
+        if (_playerState.Damaged)
+        {
+            PlayDamagedAnimation();
+            _playerState.Damaged = false;
+        }
     }
+
     #endregion
 
     #region Public Methods
@@ -78,6 +86,10 @@ public class PlayerAnimationController : MonoBehaviour
     private void PlayExcitedAnimation()
     {
         _anim.SetTrigger(ExcitedHash);
+    }
+    private void PlayDamagedAnimation()
+    {
+        _anim.SetTrigger(DamagedHash);
     }
 
     #endregion

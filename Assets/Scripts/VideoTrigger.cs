@@ -41,6 +41,8 @@ public class VideoTrigger : MonoBehaviour
             return;
 
         _hasPlayed = true;
+        PlayerStateController state = collision.GetComponent<PlayerStateController>();
+        state.HasDigivice = false;
         PlayVideo();
     }
     #endregion

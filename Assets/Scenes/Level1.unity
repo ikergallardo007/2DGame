@@ -503,6 +503,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::VideoTrigger
   _videoPlayer: {fileID: 533227223}
   _videoImage: {fileID: 1217977641}
+  _digievolucion: {fileID: 1007686057}
 --- !u!4 &438999982
 Transform:
   m_ObjectHideFlags: 0
@@ -512,7 +513,7 @@ Transform:
   m_GameObject: {fileID: 438999979}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 55, z: 0}
+  m_LocalPosition: {x: 0, y: 5, z: 0}
   m_LocalScale: {x: 20, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -621,7 +622,7 @@ Transform:
   m_GameObject: {fileID: 525298027}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 6.3, z: -10}
+  m_LocalPosition: {x: 0, y: 2.4999998, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -744,6 +745,17 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a436c6a26e752c24e9c2c8aa21df8d60, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Jetpack
+--- !u!114 &1007686057 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 3504551803338024015, guid: 9173a9aabe7ec5d4693a06a98946d785, type: 3}
+  m_PrefabInstance: {fileID: 305346770535325643}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1799b8cf696384f4594d60667d14fa8b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::DigievolutionController
 --- !u!1 &1045638756
 GameObject:
   m_ObjectHideFlags: 0
@@ -1781,7 +1793,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1395585342580261870, guid: 42b3b18b912881f44af9c942a3836641, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 6.3
+      value: 2.4999998
       objectReference: {fileID: 0}
     - target: {fileID: 1395585342580261870, guid: 42b3b18b912881f44af9c942a3836641, type: 3}
       propertyPath: m_LocalPosition.z

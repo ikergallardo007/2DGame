@@ -828,447 +828,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Agumon_0
-      rect:
-        serializedVersion: 2
-        x: 33
-        y: 964
-        width: 31
-        height: 33
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 797610f7aacfbfc80800000000000000
-      internalID: -8287752880039827561
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_1
-      rect:
-        serializedVersion: 2
-        x: 66
-        y: 964
-        width: 28
-        height: 34
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 321a03f063d1d5120800000000000000
-      internalID: 2404109894105997603
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_2
-      rect:
-        serializedVersion: 2
-        x: 97
-        y: 963
-        width: 28
-        height: 34
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c7174e859622d3160800000000000000
-      internalID: 7006794431116636540
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_3
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 964
-        width: 35
-        height: 33
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 89440210501ae9040800000000000000
-      internalID: 4656336107613471896
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_4
-      rect:
-        serializedVersion: 2
-        x: 165
-        y: 963
-        width: 33
-        height: 34
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 80fc55c56262cf3d0800000000000000
-      internalID: -3171618091375931640
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_5
-      rect:
-        serializedVersion: 2
-        x: 197
-        y: 963
-        width: 34
-        height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4c55df2dc9a86b220800000000000000
-      internalID: 2501339049210238404
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_6
-      rect:
-        serializedVersion: 2
-        x: 370
-        y: 961
-        width: 21
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: bcfe6e68118c6f2c0800000000000000
-      internalID: -4398108008477429813
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_7
-      rect:
-        serializedVersion: 2
-        x: 391
-        y: 961
-        width: 23
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 144e2a8d068f66d40800000000000000
-      internalID: 5577418283380040769
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_8
-      rect:
-        serializedVersion: 2
-        x: 34
-        y: 935
-        width: 13
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b8f7b51c368de2f70800000000000000
-      internalID: 9164500214702899083
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_9
-      rect:
-        serializedVersion: 2
-        x: 47
-        y: 935
-        width: 13
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d5d2fcbb482806d40800000000000000
-      internalID: 5575599845282884957
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_10
-      rect:
-        serializedVersion: 2
-        x: 59
-        y: 934
-        width: 22
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1d15c88a2c5db6760800000000000000
-      internalID: 7452285040442757585
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_11
-      rect:
-        serializedVersion: 2
-        x: 79
-        y: 935
-        width: 13
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 26f5f40c58ab80670800000000000000
-      internalID: 8505252979909025634
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_12
-      rect:
-        serializedVersion: 2
-        x: 91
-        y: 934
-        width: 13
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4ff0df868c1aa80c0800000000000000
-      internalID: -4572664589514371084
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_13
-      rect:
-        serializedVersion: 2
-        x: 110
-        y: 935
-        width: 13
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4e69610da2d34ad60800000000000000
-      internalID: 7900506900403754724
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_14
-      rect:
-        serializedVersion: 2
-        x: 121
-        y: 934
-        width: 67
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 34cbad4ab29ea8f60800000000000000
-      internalID: 8037492858654735427
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_15
-      rect:
-        serializedVersion: 2
-        x: 193
-        y: 934
-        width: 29
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b8540621f266185b0800000000000000
-      internalID: -5367896928491125365
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_16
-      rect:
-        serializedVersion: 2
-        x: 221
-        y: 934
-        width: 8
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7643ee6a31ce97240800000000000000
-      internalID: 4790119247834395751
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_17
-      rect:
-        serializedVersion: 2
-        x: 228
-        y: 935
-        width: 26
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2a5529245345c0520800000000000000
-      internalID: 2669601266850747810
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_18
-      rect:
-        serializedVersion: 2
-        x: 259
-        y: 935
-        width: 14
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0c0305b1594d42240800000000000000
-      internalID: 4766168042538283200
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_19
-      rect:
-        serializedVersion: 2
-        x: 272
-        y: 934
-        width: 13
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8c04f7d4c54a57c20800000000000000
-      internalID: 3203647426288107720
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_20
+      name: Agumon_01
       rect:
         serializedVersion: 2
         x: 369
@@ -1276,7 +836,7 @@ TextureImporter:
         width: 75
         height: 92
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1290,7 +850,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Agumon_21
+      name: Agumon_02
       rect:
         serializedVersion: 2
         x: 477
@@ -1298,7 +858,7 @@ TextureImporter:
         width: 79
         height: 93
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1312,7 +872,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Agumon_22
+      name: Agumon_03
       rect:
         serializedVersion: 2
         x: 590
@@ -1320,7 +880,7 @@ TextureImporter:
         width: 79
         height: 92
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1334,7 +894,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Agumon_23
+      name: Agumon_04
       rect:
         serializedVersion: 2
         x: 702
@@ -1342,7 +902,7 @@ TextureImporter:
         width: 78
         height: 92
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1356,7 +916,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Agumon_24
+      name: Agumon_05
       rect:
         serializedVersion: 2
         x: 813
@@ -1364,7 +924,7 @@ TextureImporter:
         width: 78
         height: 92
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1378,315 +938,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Agumon_25
-      rect:
-        serializedVersion: 2
-        x: 31
-        y: 808
-        width: 287
-        height: 112
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 46d443caef4dd8f80800000000000000
-      internalID: -8102585964293763740
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_26
-      rect:
-        serializedVersion: 2
-        x: 437
-        y: 862
-        width: 8
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 90aae457148bebda0800000000000000
-      internalID: -5927097468292519415
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_27
-      rect:
-        serializedVersion: 2
-        x: 406
-        y: 829
-        width: 7
-        height: 15
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a303970f72a0c6e90800000000000000
-      internalID: -7031233751577710534
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_28
-      rect:
-        serializedVersion: 2
-        x: 516
-        y: 829
-        width: 10
-        height: 15
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: afb2fe202e4a8dea0800000000000000
-      internalID: -5847742825521796102
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_29
-      rect:
-        serializedVersion: 2
-        x: 626
-        y: 829
-        width: 12
-        height: 15
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 310e0ec133f6a9d10800000000000000
-      internalID: 2133139638831865875
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_30
-      rect:
-        serializedVersion: 2
-        x: 738
-        y: 830
-        width: 11
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: da6d7279939320d40800000000000000
-      internalID: 5549060610385761965
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_31
-      rect:
-        serializedVersion: 2
-        x: 849
-        y: 829
-        width: 10
-        height: 15
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1e9082959b47d2400800000000000000
-      internalID: 301025089517259233
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_32
-      rect:
-        serializedVersion: 2
-        x: 36
-        y: 777
-        width: 19
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: caa9535a99511ef20800000000000000
-      internalID: 3450062539188443820
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_33
-      rect:
-        serializedVersion: 2
-        x: 55
-        y: 777
-        width: 14
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3fdce24f0c54a0c10800000000000000
-      internalID: 2020504077861834227
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_34
-      rect:
-        serializedVersion: 2
-        x: 68
-        y: 777
-        width: 12
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: be152982cb508e920800000000000000
-      internalID: 3019669855844585963
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_35
-      rect:
-        serializedVersion: 2
-        x: 79
-        y: 777
-        width: 15
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ab411bac2c553bf70800000000000000
-      internalID: 9201792758760674490
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_36
-      rect:
-        serializedVersion: 2
-        x: 785
-        y: 778
-        width: 13
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e37b1797da9cc6d70800000000000000
-      internalID: 9037820299129763646
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_37
-      rect:
-        serializedVersion: 2
-        x: 798
-        y: 779
-        width: 14
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0281c72cca0c15cf0800000000000000
-      internalID: -265219054808328160
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_38
-      rect:
-        serializedVersion: 2
-        x: 810
-        y: 778
-        width: 15
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9e8eb68971b254800800000000000000
-      internalID: 595929906037909737
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_39
+      name: Agumon_Walk_01
       rect:
         serializedVersion: 2
         x: 39
@@ -1694,7 +946,7 @@ TextureImporter:
         width: 77
         height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1708,7 +960,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Agumon_40
+      name: Agumon_Walk_02
       rect:
         serializedVersion: 2
         x: 161
@@ -1716,7 +968,7 @@ TextureImporter:
         width: 79
         height: 79
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1730,7 +982,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Agumon_41
+      name: Agumon_Walk_03
       rect:
         serializedVersion: 2
         x: 279
@@ -1738,7 +990,7 @@ TextureImporter:
         width: 78
         height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1752,7 +1004,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Agumon_42
+      name: Agumon_Walk_04
       rect:
         serializedVersion: 2
         x: 395
@@ -1760,7 +1012,7 @@ TextureImporter:
         width: 78
         height: 78
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1774,7 +1026,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Agumon_43
+      name: Agumon_Walk_05
       rect:
         serializedVersion: 2
         x: 510
@@ -1782,7 +1034,7 @@ TextureImporter:
         width: 78
         height: 79
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1796,7 +1048,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Agumon_44
+      name: Agumon_Walk_06
       rect:
         serializedVersion: 2
         x: 626
@@ -1804,7 +1056,7 @@ TextureImporter:
         width: 81
         height: 78
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1818,710 +1070,6 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Agumon_45
-      rect:
-        serializedVersion: 2
-        x: 787
-        y: 691
-        width: 91
-        height: 80
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2e607212e62bc33e0800000000000000
-      internalID: -2072585542424918302
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_46
-      rect:
-        serializedVersion: 2
-        x: 898
-        y: 686
-        width: 100
-        height: 88
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6717f6a31c3dba730800000000000000
-      internalID: 4011532719966089590
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_47
-      rect:
-        serializedVersion: 2
-        x: 1014
-        y: 690
-        width: 100
-        height: 83
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0c36e0b592a6abe70800000000000000
-      internalID: 9131727920300975040
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_48
-      rect:
-        serializedVersion: 2
-        x: 1128
-        y: 686
-        width: 104
-        height: 87
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a0ebf2fdc365285a0800000000000000
-      internalID: -6520554491036582390
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_49
-      rect:
-        serializedVersion: 2
-        x: 1243
-        y: 686
-        width: 96
-        height: 85
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 10b6be02fb97e8730800000000000000
-      internalID: 4003270980576963329
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_50
-      rect:
-        serializedVersion: 2
-        x: 1337
-        y: 716
-        width: 11
-        height: 10
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 71a60d3b6608bb460800000000000000
-      internalID: 7258536403029486103
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_51
-      rect:
-        serializedVersion: 2
-        x: 1360
-        y: 696
-        width: 13
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9247c92f3a435c3c0800000000000000
-      internalID: -4340004787146951639
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_52
-      rect:
-        serializedVersion: 2
-        x: 1365
-        y: 697
-        width: 81
-        height: 78
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 78042f7dac1ed0e30800000000000000
-      internalID: 4471478266371391623
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_53
-      rect:
-        serializedVersion: 2
-        x: 1449
-        y: 717
-        width: 12
-        height: 11
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3a581ef924e5347d0800000000000000
-      internalID: -2935398891872221789
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_54
-      rect:
-        serializedVersion: 2
-        x: 585
-        y: 691
-        width: 6
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 602806bb06ba35270800000000000000
-      internalID: 8238116575339643398
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_55
-      rect:
-        serializedVersion: 2
-        x: 823
-        y: 686
-        width: 24
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4cdc3e4111be173a0800000000000000
-      internalID: -6669291114561548860
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_56
-      rect:
-        serializedVersion: 2
-        x: 850
-        y: 687
-        width: 14
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7db398bdc4fe52000800000000000000
-      internalID: 10677687518051287
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_57
-      rect:
-        serializedVersion: 2
-        x: 1032
-        y: 686
-        width: 44
-        height: 10
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e509df21f1329e6a0800000000000000
-      internalID: -6419561177470365602
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_58
-      rect:
-        serializedVersion: 2
-        x: 1075
-        y: 688
-        width: 9
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1d8304347008db030800000000000000
-      internalID: 3512104053100263633
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_59
-      rect:
-        serializedVersion: 2
-        x: 1327
-        y: 694
-        width: 25
-        height: 21
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: bf85589310bcbbde0800000000000000
-      internalID: -1316235259955291909
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_60
-      rect:
-        serializedVersion: 2
-        x: 1379
-        y: 688
-        width: 13
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2a4cad8a6592350c0800000000000000
-      internalID: -4588278143183567710
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_61
-      rect:
-        serializedVersion: 2
-        x: 1392
-        y: 686
-        width: 46
-        height: 10
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a72871bb937530bf0800000000000000
-      internalID: -359347639795875206
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_62
-      rect:
-        serializedVersion: 2
-        x: 1440
-        y: 694
-        width: 26
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: be93277644af4e9b0800000000000000
-      internalID: -5051637710302594581
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_63
-      rect:
-        serializedVersion: 2
-        x: 808
-        y: 687
-        width: 14
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 713fc4379c493c040800000000000000
-      internalID: 4666737231829725975
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_64
-      rect:
-        serializedVersion: 2
-        x: 82
-        y: 663
-        width: 7
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 13b656b959fb36830800000000000000
-      internalID: 4063301938096466737
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_65
-      rect:
-        serializedVersion: 2
-        x: 200
-        y: 663
-        width: 10
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3356cd9440fe729f0800000000000000
-      internalID: -493162832475691725
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_66
-      rect:
-        serializedVersion: 2
-        x: 317
-        y: 663
-        width: 11
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3c467016efdd24b10800000000000000
-      internalID: 1964376472106263747
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_67
-      rect:
-        serializedVersion: 2
-        x: 434
-        y: 663
-        width: 11
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ea28c29d17e3835f0800000000000000
-      internalID: -776802277025611090
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_68
-      rect:
-        serializedVersion: 2
-        x: 551
-        y: 663
-        width: 10
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c078e6a1196f110a0800000000000000
-      internalID: -6912472849962858740
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_69
-      rect:
-        serializedVersion: 2
-        x: 666
-        y: 663
-        width: 12
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 47ca15bd406d626e0800000000000000
-      internalID: -1862566079523345292
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_70
-      rect:
-        serializedVersion: 2
-        x: 831
-        y: 663
-        width: 7
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 77b6db576765bdbf0800000000000000
-      internalID: -298549883508528265
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_71
-      rect:
-        serializedVersion: 2
-        x: 940
-        y: 663
-        width: 11
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 44a274df3a89f3f20800000000000000
-      internalID: 3404607673411775044
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_72
-      rect:
-        serializedVersion: 2
-        x: 1055
-        y: 663
-        width: 10
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2699af9f36c417cc0800000000000000
-      internalID: -3715104225324525214
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_73
-      rect:
-        serializedVersion: 2
-        x: 1171
-        y: 663
-        width: 11
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0814891e4b4e3d980800000000000000
-      internalID: -8515211004897377920
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_74
-      rect:
-        serializedVersion: 2
-        x: 1289
-        y: 663
-        width: 10
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7881874841c0da680800000000000000
-      internalID: -8742318019394922361
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_75
-      rect:
-        serializedVersion: 2
-        x: 1405
-        y: 663
-        width: 11
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4272f42fecd4a73a0800000000000000
-      internalID: -6666930747144722652
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_76
-      rect:
-        serializedVersion: 2
-        x: 34
-        y: 607
-        width: 54
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0f325877faf7cf410800000000000000
-      internalID: 1512223966490862576
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: Agumon_77
       rect:
         serializedVersion: 2
@@ -2530,7 +1078,7 @@ TextureImporter:
         width: 90
         height: 81
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2544,116 +1092,6 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Agumon_78
-      rect:
-        serializedVersion: 2
-        x: 620
-        y: 608
-        width: 12
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 03034b0eb7adb5370800000000000000
-      internalID: 8312477762828120112
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_79
-      rect:
-        serializedVersion: 2
-        x: 631
-        y: 608
-        width: 14
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e82dde8ddeb78b5b0800000000000000
-      internalID: -5352391895652904306
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_80
-      rect:
-        serializedVersion: 2
-        x: 643
-        y: 607
-        width: 25
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: dff08490275b054e0800000000000000
-      internalID: -1994895133538512899
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_81
-      rect:
-        serializedVersion: 2
-        x: 1039
-        y: 607
-        width: 25
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c714f0e0e5ddd66a0800000000000000
-      internalID: -6454259294919507588
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_82
-      rect:
-        serializedVersion: 2
-        x: 1063
-        y: 607
-        width: 28
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 71aa188853b05e7c0800000000000000
-      internalID: -4042812765943780841
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: Agumon_83
       rect:
         serializedVersion: 2
@@ -2662,7 +1100,7 @@ TextureImporter:
         width: 80
         height: 68
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2684,7 +1122,7 @@ TextureImporter:
         width: 89
         height: 71
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2698,28 +1136,6 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Agumon_85
-      rect:
-        serializedVersion: 2
-        x: 303
-        y: 515
-        width: 56
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 56e2e7aec6f95b6a0800000000000000
-      internalID: -6434061202489463195
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: Agumon_86
       rect:
         serializedVersion: 2
@@ -2728,7 +1144,7 @@ TextureImporter:
         width: 81
         height: 68
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2750,7 +1166,7 @@ TextureImporter:
         width: 81
         height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2772,7 +1188,7 @@ TextureImporter:
         width: 80
         height: 83
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2794,7 +1210,7 @@ TextureImporter:
         width: 79
         height: 73
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2816,7 +1232,7 @@ TextureImporter:
         width: 79
         height: 65
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2838,7 +1254,7 @@ TextureImporter:
         width: 76
         height: 83
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2852,490 +1268,6 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Agumon_92
-      rect:
-        serializedVersion: 2
-        x: 181
-        y: 512
-        width: 58
-        height: 10
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 02432d04ea1d2a8b0800000000000000
-      internalID: -5142317278161652704
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_93
-      rect:
-        serializedVersion: 2
-        x: 81
-        y: 490
-        width: 9
-        height: 15
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: db5a85a50074c2fd0800000000000000
-      internalID: -2365437637435021891
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_94
-      rect:
-        serializedVersion: 2
-        x: 203
-        y: 490
-        width: 10
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a77153836ae4bdac0800000000000000
-      internalID: -3829380582333933702
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_95
-      rect:
-        serializedVersion: 2
-        x: 324
-        y: 490
-        width: 10
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6a552a8cbd4f67ac0800000000000000
-      internalID: -3857626805995154010
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_96
-      rect:
-        serializedVersion: 2
-        x: 443
-        y: 491
-        width: 12
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: effda97bbc5c2c4e0800000000000000
-      internalID: -1962789008830701570
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_97
-      rect:
-        serializedVersion: 2
-        x: 660
-        y: 490
-        width: 8
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5ff57d2e7582c3370800000000000000
-      internalID: 8303556170897383413
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_98
-      rect:
-        serializedVersion: 2
-        x: 777
-        y: 490
-        width: 12
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 25434b8cd6a9283f0800000000000000
-      internalID: -899987179211312046
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_99
-      rect:
-        serializedVersion: 2
-        x: 895
-        y: 490
-        width: 12
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9e21f9bc9247e40c0800000000000000
-      internalID: -4589603247385275671
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_100
-      rect:
-        serializedVersion: 2
-        x: 1095
-        y: 490
-        width: 9
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: fe4bc9e3744a63210800000000000000
-      internalID: 1312416967325168879
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_101
-      rect:
-        serializedVersion: 2
-        x: 1218
-        y: 490
-        width: 12
-        height: 15
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: cae21900a2142a2a0800000000000000
-      internalID: -6727743244684153172
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_102
-      rect:
-        serializedVersion: 2
-        x: 35
-        y: 450
-        width: 13
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a780ff1ea3c187500800000000000000
-      internalID: 394096006620186746
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_103
-      rect:
-        serializedVersion: 2
-        x: 46
-        y: 451
-        width: 14
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 22fb4192038eb40c0800000000000000
-      internalID: -4590320101628788958
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_104
-      rect:
-        serializedVersion: 2
-        x: 59
-        y: 450
-        width: 38
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 032c29d369a2ac330800000000000000
-      internalID: 3731842065996366384
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_105
-      rect:
-        serializedVersion: 2
-        x: 96
-        y: 450
-        width: 15
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 511c0339c15834e50800000000000000
-      internalID: 6792419020779864341
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_106
-      rect:
-        serializedVersion: 2
-        x: 636
-        y: 450
-        width: 39
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4ca0d2fa0fed91660800000000000000
-      internalID: 7357156591598897860
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_107
-      rect:
-        serializedVersion: 2
-        x: 674
-        y: 451
-        width: 13
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ac982bd5bf9e73c00800000000000000
-      internalID: 880429517992266186
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_108
-      rect:
-        serializedVersion: 2
-        x: 852
-        y: 440
-        width: 11
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a79cc7233dd322870800000000000000
-      internalID: 8656549411053947258
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_109
-      rect:
-        serializedVersion: 2
-        x: 1017
-        y: 450
-        width: 14
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ce0ad4cf3ef94bb50800000000000000
-      internalID: 6608082354798698732
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_110
-      rect:
-        serializedVersion: 2
-        x: 1030
-        y: 450
-        width: 21
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3e97e678a03489f60800000000000000
-      internalID: 8041250847170918883
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_111
-      rect:
-        serializedVersion: 2
-        x: 158
-        y: 370
-        width: 89
-        height: 69
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b6a6ef03ce05ba1b0800000000000000
-      internalID: -5644328732614301077
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_112
-      rect:
-        serializedVersion: 2
-        x: 373
-        y: 370
-        width: 101
-        height: 73
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a252bee3e0e9c1310800000000000000
-      internalID: 1377149370090857770
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_113
-      rect:
-        serializedVersion: 2
-        x: 502
-        y: 370
-        width: 88
-        height: 69
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: fa1479140f81e9010800000000000000
-      internalID: 1197421971098780079
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: Agumon_114
       rect:
         serializedVersion: 2
@@ -3344,7 +1276,7 @@ TextureImporter:
         width: 81
         height: 72
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3358,28 +1290,6 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Agumon_115
-      rect:
-        serializedVersion: 2
-        x: 746
-        y: 439
-        width: 8
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d5ec070671629b3d0800000000000000
-      internalID: -3190476979171176867
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: Agumon_116
       rect:
         serializedVersion: 2
@@ -3388,7 +1298,7 @@ TextureImporter:
         width: 77
         height: 72
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3410,7 +1320,7 @@ TextureImporter:
         width: 66
         height: 79
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3424,72 +1334,6 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Agumon_118
-      rect:
-        serializedVersion: 2
-        x: 35
-        y: 371
-        width: 94
-        height: 65
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: cb66800813c22f230800000000000000
-      internalID: 3671045237373429436
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_119
-      rect:
-        serializedVersion: 2
-        x: 261
-        y: 377
-        width: 76
-        height: 36
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a7547d8e9478ed700800000000000000
-      internalID: 567039354604045690
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_120
-      rect:
-        serializedVersion: 2
-        x: 331
-        y: 401
-        width: 8
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4690d1fe6aedcb5e0800000000000000
-      internalID: -1892392934844855964
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: Agumon_121
       rect:
         serializedVersion: 2
@@ -3498,7 +1342,7 @@ TextureImporter:
         width: 91
         height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3520,7 +1364,7 @@ TextureImporter:
         width: 91
         height: 44
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3542,7 +1386,7 @@ TextureImporter:
         width: 91
         height: 41
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3564,7 +1408,7 @@ TextureImporter:
         width: 80
         height: 36
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3578,446 +1422,6 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Agumon_125
-      rect:
-        serializedVersion: 2
-        x: 331
-        y: 382
-        width: 8
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4fbb71d59aec2c570800000000000000
-      internalID: 8485571874726067188
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_126
-      rect:
-        serializedVersion: 2
-        x: 341
-        y: 387
-        width: 16
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5a5cd09bbb9ff9430800000000000000
-      internalID: 3792023995928135077
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_127
-      rect:
-        serializedVersion: 2
-        x: 82
-        y: 346
-        width: 7
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 54aa10f7ea4774a80800000000000000
-      internalID: -8482683080325092795
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_128
-      rect:
-        serializedVersion: 2
-        x: 197
-        y: 346
-        width: 11
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3989e73f2696e6b80800000000000000
-      internalID: -8399660381286524781
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_129
-      rect:
-        serializedVersion: 2
-        x: 312
-        y: 346
-        width: 10
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0b1c080fdaf464610800000000000000
-      internalID: 1605057925687067056
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_130
-      rect:
-        serializedVersion: 2
-        x: 426
-        y: 346
-        width: 12
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b61630f6bb4adb860800000000000000
-      internalID: 7547369675471151467
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_131
-      rect:
-        serializedVersion: 2
-        x: 542
-        y: 346
-        width: 9
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a32adb25d15b70ca0800000000000000
-      internalID: -6050668436802133446
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_132
-      rect:
-        serializedVersion: 2
-        x: 677
-        y: 346
-        width: 7
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 01357c9e5c1a490f0800000000000000
-      internalID: -1111085336650886384
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_133
-      rect:
-        serializedVersion: 2
-        x: 781
-        y: 346
-        width: 12
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 789bc0d5842916390800000000000000
-      internalID: -7826813837896795769
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_134
-      rect:
-        serializedVersion: 2
-        x: 889
-        y: 346
-        width: 11
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b0b80972457448280800000000000000
-      internalID: -9042023725086504181
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_135
-      rect:
-        serializedVersion: 2
-        x: 1051
-        y: 346
-        width: 7
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d860755dd2b9b3ee0800000000000000
-      internalID: -1280259047901690227
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_136
-      rect:
-        serializedVersion: 2
-        x: 1176
-        y: 346
-        width: 10
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d72364cef2f44c7a0800000000000000
-      internalID: -6357869706694217091
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_137
-      rect:
-        serializedVersion: 2
-        x: 1302
-        y: 346
-        width: 10
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 32d62d1a895df77b0800000000000000
-      internalID: -5224222191199818461
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_138
-      rect:
-        serializedVersion: 2
-        x: 1421
-        y: 346
-        width: 10
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5ea5518ba66626400800000000000000
-      internalID: 315927532410329829
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_139
-      rect:
-        serializedVersion: 2
-        x: 34
-        y: 303
-        width: 39
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 079d7a69834c148c0800000000000000
-      internalID: -4016713645312976528
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_140
-      rect:
-        serializedVersion: 2
-        x: 72
-        y: 302
-        width: 15
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0e30e236adc607f80800000000000000
-      internalID: -8110863243671632928
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_141
-      rect:
-        serializedVersion: 2
-        x: 522
-        y: 303
-        width: 12
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 950e331fbaeaf1610800000000000000
-      internalID: 1594184846621794393
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_142
-      rect:
-        serializedVersion: 2
-        x: 533
-        y: 302
-        width: 26
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 75241eac2df866c80800000000000000
-      internalID: -8329812325265489321
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_143
-      rect:
-        serializedVersion: 2
-        x: 557
-        y: 303
-        width: 20
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 08f85d0b3c44ed300800000000000000
-      internalID: 278735834219646848
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_144
-      rect:
-        serializedVersion: 2
-        x: 577
-        y: 302
-        width: 24
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d6361c6c98691ec10800000000000000
-      internalID: 2081110021311128429
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: Agumon_145
       rect:
         serializedVersion: 2
@@ -4026,7 +1430,7 @@ TextureImporter:
         width: 11
         height: 15
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4048,7 +1452,7 @@ TextureImporter:
         width: 11
         height: 15
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4070,7 +1474,7 @@ TextureImporter:
         width: 11
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4084,138 +1488,6 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Agumon_148
-      rect:
-        serializedVersion: 2
-        x: 963
-        y: 302
-        width: 47
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 06ce5919e5a519b60800000000000000
-      internalID: 7751075795897281632
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_149
-      rect:
-        serializedVersion: 2
-        x: 1009
-        y: 303
-        width: 13
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3da6ef01f5fc203e0800000000000000
-      internalID: -2088879269932537133
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_150
-      rect:
-        serializedVersion: 2
-        x: 47
-        y: 214
-        width: 73
-        height: 78
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6a293b6ae04fcf930800000000000000
-      internalID: 4178482898056483494
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_151
-      rect:
-        serializedVersion: 2
-        x: 161
-        y: 214
-        width: 76
-        height: 77
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 11e57bf7edbf451f0800000000000000
-      internalID: -1056943079481188847
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_152
-      rect:
-        serializedVersion: 2
-        x: 272
-        y: 215
-        width: 70
-        height: 79
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: dcf2d6492d4d79700800000000000000
-      internalID: 547139880647208909
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_153
-      rect:
-        serializedVersion: 2
-        x: 378
-        y: 213
-        width: 78
-        height: 78
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 49bb11e1b4fb11370800000000000000
-      internalID: 8291618718313724820
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: Agumon_154
       rect:
         serializedVersion: 2
@@ -4224,7 +1496,7 @@ TextureImporter:
         width: 81
         height: 74
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4246,7 +1518,7 @@ TextureImporter:
         width: 14
         height: 13
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4268,7 +1540,7 @@ TextureImporter:
         width: 6
         height: 6
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4282,72 +1554,6 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Agumon_157
-      rect:
-        serializedVersion: 2
-        x: 1058
-        y: 277
-        width: 11
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 10ad184a3d978dd00800000000000000
-      internalID: 997681267367598593
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_158
-      rect:
-        serializedVersion: 2
-        x: 1179
-        y: 276
-        width: 13
-        height: 15
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 60128355b54e001c0800000000000000
-      internalID: -4539377343466561274
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_159
-      rect:
-        serializedVersion: 2
-        x: 1305
-        y: 277
-        width: 12
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2f43ef42707172790800000000000000
-      internalID: -7555044530437868302
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: Agumon_160
       rect:
         serializedVersion: 2
@@ -4356,7 +1562,7 @@ TextureImporter:
         width: 17
         height: 21
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4378,7 +1584,7 @@ TextureImporter:
         width: 81
         height: 66
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4400,7 +1606,7 @@ TextureImporter:
         width: 15
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4422,7 +1628,7 @@ TextureImporter:
         width: 66
         height: 69
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4444,7 +1650,7 @@ TextureImporter:
         width: 11
         height: 9
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4466,7 +1672,7 @@ TextureImporter:
         width: 13
         height: 13
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4488,7 +1694,7 @@ TextureImporter:
         width: 81
         height: 65
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4510,7 +1716,7 @@ TextureImporter:
         width: 16
         height: 15
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4532,7 +1738,7 @@ TextureImporter:
         width: 17
         height: 15
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4546,94 +1752,6 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Agumon_169
-      rect:
-        serializedVersion: 2
-        x: 1046
-        y: 270
-        width: 12
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d76c0986bd31b6160800000000000000
-      internalID: 7019726277260134013
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_170
-      rect:
-        serializedVersion: 2
-        x: 1169
-        y: 270
-        width: 12
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 311d57b08144cbde0800000000000000
-      internalID: -1316102121036852973
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_171
-      rect:
-        serializedVersion: 2
-        x: 1293
-        y: 270
-        width: 12
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3d3aab520054a22e0800000000000000
-      internalID: -2149830005180685357
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_172
-      rect:
-        serializedVersion: 2
-        x: 1435
-        y: 268
-        width: 12
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0dd8ef8fb1d63d020800000000000000
-      internalID: 2365354196208618960
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: Agumon_173
       rect:
         serializedVersion: 2
@@ -4642,7 +1760,7 @@ TextureImporter:
         width: 12
         height: 9
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4664,7 +1782,7 @@ TextureImporter:
         width: 81
         height: 56
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4678,28 +1796,6 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Agumon_175
-      rect:
-        serializedVersion: 2
-        x: 1037
-        y: 265
-        width: 10
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3bfdb0b59db038290800000000000000
-      internalID: -7889449094059663437
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: Agumon_176
       rect:
         serializedVersion: 2
@@ -4708,7 +1804,7 @@ TextureImporter:
         width: 81
         height: 57
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4722,28 +1818,6 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Agumon_177
-      rect:
-        serializedVersion: 2
-        x: 1160
-        y: 264
-        width: 9
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 80f2566c20de4a7f0800000000000000
-      internalID: -602095853986566392
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: Agumon_178
       rect:
         serializedVersion: 2
@@ -4752,7 +1826,7 @@ TextureImporter:
         width: 82
         height: 55
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4766,72 +1840,6 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Agumon_179
-      rect:
-        serializedVersion: 2
-        x: 1284
-        y: 264
-        width: 10
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 863b58c2f0b2ef490800000000000000
-      internalID: -7710678167840246936
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_180
-      rect:
-        serializedVersion: 2
-        x: 1413
-        y: 257
-        width: 10
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a75e0a32c72b81310800000000000000
-      internalID: 1376045932405122426
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_181
-      rect:
-        serializedVersion: 2
-        x: 1423
-        y: 262
-        width: 12
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6128725ace65bb830800000000000000
-      internalID: 4087956661151957526
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: Agumon_182
       rect:
         serializedVersion: 2
@@ -4840,7 +1848,7 @@ TextureImporter:
         width: 85
         height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4854,644 +1862,6 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Agumon_183
-      rect:
-        serializedVersion: 2
-        x: 60
-        y: 191
-        width: 10
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0cb5f49c6da5cac50800000000000000
-      internalID: 6677812226030525376
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_184
-      rect:
-        serializedVersion: 2
-        x: 69
-        y: 191
-        width: 11
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 88041a18efba937d0800000000000000
-      internalID: -2938128172297666424
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_185
-      rect:
-        serializedVersion: 2
-        x: 78
-        y: 190
-        width: 31
-        height: 15
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3868245dc540ad640800000000000000
-      internalID: 5105397924339287683
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_186
-      rect:
-        serializedVersion: 2
-        x: 181
-        y: 190
-        width: 26
-        height: 15
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0ea63529ad428b270800000000000000
-      internalID: 8266397637214956256
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_187
-      rect:
-        serializedVersion: 2
-        x: 206
-        y: 191
-        width: 10
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f03782c737ebbd0a0800000000000000
-      internalID: -6855676604527906033
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_188
-      rect:
-        serializedVersion: 2
-        x: 291
-        y: 190
-        width: 39
-        height: 15
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2fe8efe179fcd5480800000000000000
-      internalID: -8908736239901962510
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_189
-      rect:
-        serializedVersion: 2
-        x: 404
-        y: 190
-        width: 26
-        height: 15
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b0ac9c471d85c39f0800000000000000
-      internalID: -487417003032065525
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_190
-      rect:
-        serializedVersion: 2
-        x: 429
-        y: 191
-        width: 12
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 196e2542255fdd400800000000000000
-      internalID: 350706079150302865
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_191
-      rect:
-        serializedVersion: 2
-        x: 439
-        y: 191
-        width: 10
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6dfba08c4598c1a20800000000000000
-      internalID: 3034451246167277526
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_192
-      rect:
-        serializedVersion: 2
-        x: 566
-        y: 191
-        width: 8
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 458c5008ee1c08ae0800000000000000
-      internalID: -1549025041721210796
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_193
-      rect:
-        serializedVersion: 2
-        x: 672
-        y: 191
-        width: 11
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: bd98c37987824f150800000000000000
-      internalID: 5905389509788076507
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_194
-      rect:
-        serializedVersion: 2
-        x: 778
-        y: 191
-        width: 11
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7c07a1a4584e14850800000000000000
-      internalID: 6359615409948881095
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_195
-      rect:
-        serializedVersion: 2
-        x: 883
-        y: 191
-        width: 11
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f9d519a9cb4223770800000000000000
-      internalID: 8588967831814626719
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_196
-      rect:
-        serializedVersion: 2
-        x: 1015
-        y: 191
-        width: 8
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0357b931312e0e080800000000000000
-      internalID: -9160073070510377680
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_197
-      rect:
-        serializedVersion: 2
-        x: 1137
-        y: 190
-        width: 10
-        height: 15
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e0279ba3249a51a60800000000000000
-      internalID: 7644202044449452558
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_198
-      rect:
-        serializedVersion: 2
-        x: 1261
-        y: 191
-        width: 10
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 723f08a641c8f9e30800000000000000
-      internalID: 4512479370962596647
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_199
-      rect:
-        serializedVersion: 2
-        x: 1385
-        y: 191
-        width: 12
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7a2cc60965a6cc360800000000000000
-      internalID: 7191239625026618023
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_200
-      rect:
-        serializedVersion: 2
-        x: 31
-        y: 76
-        width: 1449
-        height: 103
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a239764d1c502da40800000000000000
-      internalID: 5391378033966289706
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_201
-      rect:
-        serializedVersion: 2
-        x: 37
-        y: 138
-        width: 14
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: eb319162acd378b20800000000000000
-      internalID: 3136543603918705598
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_202
-      rect:
-        serializedVersion: 2
-        x: 50
-        y: 138
-        width: 14
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1bc63b19f25244b30800000000000000
-      internalID: 4270579232892218545
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_203
-      rect:
-        serializedVersion: 2
-        x: 63
-        y: 138
-        width: 16
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c28719a7aa8a70f30800000000000000
-      internalID: 4541784199380695084
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_204
-      rect:
-        serializedVersion: 2
-        x: 78
-        y: 138
-        width: 16
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b6db8937cc3b59dc0800000000000000
-      internalID: -3632799833710346901
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_205
-      rect:
-        serializedVersion: 2
-        x: 97
-        y: 138
-        width: 28
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7e36c9c43bc6af000800000000000000
-      internalID: 70488261517927399
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_206
-      rect:
-        serializedVersion: 2
-        x: 131
-        y: 138
-        width: 21
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6068c6821022edc90800000000000000
-      internalID: -7143234570594515450
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_207
-      rect:
-        serializedVersion: 2
-        x: 152
-        y: 138
-        width: 14
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e2fea6be7dd0b0010800000000000000
-      internalID: 1156032950369447726
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_208
-      rect:
-        serializedVersion: 2
-        x: 165
-        y: 138
-        width: 25
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2f9ecd93c478b51b0800000000000000
-      internalID: -5666786944657593870
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_209
-      rect:
-        serializedVersion: 2
-        x: 190
-        y: 138
-        width: 15
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 45124b27e2a6e5380800000000000000
-      internalID: -8980623859204742828
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_210
-      rect:
-        serializedVersion: 2
-        x: 204
-        y: 138
-        width: 15
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: dade551af18f49ba0800000000000000
-      internalID: -6082964381936259667
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_211
-      rect:
-        serializedVersion: 2
-        x: 218
-        y: 138
-        width: 9
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 600d03950d20018a0800000000000000
-      internalID: -6336561581837463546
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: Agumon_212
       rect:
         serializedVersion: 2
@@ -5500,7 +1870,7 @@ TextureImporter:
         width: 76
         height: 90
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5522,7 +1892,7 @@ TextureImporter:
         width: 73
         height: 93
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5536,28 +1906,6 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Agumon_214
-      rect:
-        serializedVersion: 2
-        x: 1009
-        y: 23
-        width: 360
-        height: 127
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 83b1cf65a31742000800000000000000
-      internalID: 10257594542988088
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: Agumon_215
       rect:
         serializedVersion: 2
@@ -5566,7 +1914,7 @@ TextureImporter:
         width: 60
         height: 69
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5588,7 +1936,7 @@ TextureImporter:
         width: 72
         height: 67
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5610,7 +1958,7 @@ TextureImporter:
         width: 79
         height: 78
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5624,28 +1972,6 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Agumon_218
-      rect:
-        serializedVersion: 2
-        x: 813
-        y: 118
-        width: 12
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ed73691d09937ecd0800000000000000
-      internalID: -2528989371590887458
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: Agumon_219
       rect:
         serializedVersion: 2
@@ -5654,7 +1980,7 @@ TextureImporter:
         width: 67
         height: 61
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5668,138 +1994,6 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Agumon_220
-      rect:
-        serializedVersion: 2
-        x: 541
-        y: 96
-        width: 11
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 84f9d09bded82dc30800000000000000
-      internalID: 4382721439536357192
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_221
-      rect:
-        serializedVersion: 2
-        x: 674
-        y: 105
-        width: 12
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7f40e731df91f6360800000000000000
-      internalID: 7164974106914194679
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_222
-      rect:
-        serializedVersion: 2
-        x: 152
-        y: 77
-        width: 12
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 99c369bbc1ddad780800000000000000
-      internalID: -8657364218190349159
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_223
-      rect:
-        serializedVersion: 2
-        x: 273
-        y: 83
-        width: 11
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8d2b37bcb6a2aeda0800000000000000
-      internalID: -5914868518134500648
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_224
-      rect:
-        serializedVersion: 2
-        x: 404
-        y: 89
-        width: 12
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1e1d0f275df392780800000000000000
-      internalID: -8707358218555174431
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_225
-      rect:
-        serializedVersion: 2
-        x: 617
-        y: 61
-        width: 6
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f471cae1466b3a5c0800000000000000
-      internalID: -4205317085906331825
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: Agumon_226
       rect:
         serializedVersion: 2
@@ -5808,7 +2002,7 @@ TextureImporter:
         width: 26
         height: 6
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5830,7 +2024,7 @@ TextureImporter:
         width: 24
         height: 6
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5843,165 +2037,11 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
-    - serializedVersion: 2
-      name: Agumon_228
-      rect:
-        serializedVersion: 2
-        x: 89
-        y: 25
-        width: 7
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e964be5ffbc680b90800000000000000
-      internalID: -7275445626296645986
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_229
-      rect:
-        serializedVersion: 2
-        x: 211
-        y: 24
-        width: 11
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f2e1b1a118f394d60800000000000000
-      internalID: 7874895247155338799
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_230
-      rect:
-        serializedVersion: 2
-        x: 336
-        y: 24
-        width: 10
-        height: 15
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ff2740acc6189e770800000000000000
-      internalID: 8640579664332747519
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_231
-      rect:
-        serializedVersion: 2
-        x: 469
-        y: 25
-        width: 11
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b34b2bd1c57ad3b50800000000000000
-      internalID: 6574595045107872827
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_232
-      rect:
-        serializedVersion: 2
-        x: 605
-        y: 24
-        width: 11
-        height: 15
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ad8b2070592926120800000000000000
-      internalID: 2405646319734667482
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_233
-      rect:
-        serializedVersion: 2
-        x: 739
-        y: 24
-        width: 11
-        height: 15
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a15b8722b767c8b00800000000000000
-      internalID: 832170302388090138
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Agumon_234
-      rect:
-        serializedVersion: 2
-        x: 883
-        y: 24
-        width: 11
-        height: 15
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: bc7c219b6968c9030800000000000000
-      internalID: 3502822592095635403
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 27f76381f9b4f344c80b284eeec43297
     internalID: 0
     vertices: []
     indices: 
@@ -6011,7 +2051,12 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Agumon_0: -8287752880039827561
+      02Agumon_0: 1012308109
+      Agumon_01: -8639984313751548351
+      Agumon_02: 7158399114540883656
+      Agumon_03: -1571056721148130170
+      Agumon_04: 7706008823153459119
+      Agumon_05: -8405910799120617899
       Agumon_1: 2404109894105997603
       Agumon_10: 7452285040442757585
       Agumon_100: 1312416967325168879
@@ -6123,8 +2168,6 @@ TextureImporter:
       Agumon_197: 7644202044449452558
       Agumon_198: 4512479370962596647
       Agumon_199: 7191239625026618023
-      Agumon_2: 7006794431116636540
-      Agumon_20: -8639984313751548351
       Agumon_200: 5391378033966289706
       Agumon_201: 3136543603918705598
       Agumon_202: 4270579232892218545
@@ -6135,7 +2178,6 @@ TextureImporter:
       Agumon_207: 1156032950369447726
       Agumon_208: -5666786944657593870
       Agumon_209: -8980623859204742828
-      Agumon_21: 7158399114540883656
       Agumon_210: -6082964381936259667
       Agumon_211: -6336561581837463546
       Agumon_212: 1313480550253885055
@@ -6146,7 +2188,6 @@ TextureImporter:
       Agumon_217: 4231515151214770888
       Agumon_218: -2528989371590887458
       Agumon_219: 7439527794761821444
-      Agumon_22: -1571056721148130170
       Agumon_220: 4382721439536357192
       Agumon_221: 7164974106914194679
       Agumon_222: -8657364218190349159
@@ -6157,19 +2198,16 @@ TextureImporter:
       Agumon_227: 2339082498054860462
       Agumon_228: -7275445626296645986
       Agumon_229: 7874895247155338799
-      Agumon_23: 7706008823153459119
       Agumon_230: 8640579664332747519
       Agumon_231: 6574595045107872827
       Agumon_232: 2405646319734667482
       Agumon_233: 832170302388090138
       Agumon_234: 3502822592095635403
-      Agumon_24: -8405910799120617899
       Agumon_25: -8102585964293763740
       Agumon_26: -5927097468292519415
       Agumon_27: -7031233751577710534
       Agumon_28: -5847742825521796102
       Agumon_29: 2133139638831865875
-      Agumon_3: 4656336107613471896
       Agumon_30: 5549060610385761965
       Agumon_31: 301025089517259233
       Agumon_32: 3450062539188443820
@@ -6179,13 +2217,7 @@ TextureImporter:
       Agumon_36: 9037820299129763646
       Agumon_37: -265219054808328160
       Agumon_38: 595929906037909737
-      Agumon_39: -3190926071482322835
       Agumon_4: -3171618091375931640
-      Agumon_40: 3706671899836137032
-      Agumon_41: -4280480316361396747
-      Agumon_42: 5862898976491931132
-      Agumon_43: -1391330240200805170
-      Agumon_44: -3977021584010201800
       Agumon_45: -2072585542424918302
       Agumon_46: 4011532719966089590
       Agumon_47: 9131727920300975040
@@ -6246,6 +2278,12 @@ TextureImporter:
       Agumon_97: 8303556170897383413
       Agumon_98: -899987179211312046
       Agumon_99: -4589603247385275671
+      Agumon_Walk_01: -3190926071482322835
+      Agumon_Walk_02: 3706671899836137032
+      Agumon_Walk_03: -4280480316361396747
+      Agumon_Walk_04: 5862898976491931132
+      Agumon_Walk_05: -1391330240200805170
+      Agumon_Walk_06: -3977021584010201800
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

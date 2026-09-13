@@ -137,6 +137,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 5952573055321008248}
+  - component: {fileID: 3504551803338024015}
   - component: {fileID: 1387145436277013754}
   - component: {fileID: 5527000424510590802}
   - component: {fileID: 3548923720021280534}
@@ -170,6 +171,20 @@ Transform:
   - {fileID: 6835515847707600929}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3504551803338024015
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3149421786500660738}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1799b8cf696384f4594d60667d14fa8b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::DigievolutionController
+  _spriteRenderer: {fileID: 5887227519072409958}
+  _agumonSprite: {fileID: -8639984313751548351, guid: b20b22ab3bbb5864bacf550b8c5bf5d2, type: 3}
 --- !u!114 &1387145436277013754
 MonoBehaviour:
   m_ObjectHideFlags: 0

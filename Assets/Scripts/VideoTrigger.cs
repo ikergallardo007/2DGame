@@ -10,6 +10,7 @@ public class VideoTrigger : MonoBehaviour
     #region Fields
     [SerializeField] private VideoPlayer _videoPlayer;
     [SerializeField] private GameObject _videoImage;
+    [SerializeField] private DigievolutionController _digievolucion;
     private bool _hasPlayed = false;
     #endregion
 
@@ -71,6 +72,8 @@ public class VideoTrigger : MonoBehaviour
     {
         // Dejar de escuchar el evento
         _videoPlayer.loopPointReached -= OnVideoFinished;
+
+        _digievolucion.ChangeToAgumon();
 
         // Ocultar el video
         _videoImage.SetActive(false);

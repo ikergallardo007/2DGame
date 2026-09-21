@@ -17,6 +17,7 @@ public class PlayerAnimationController : MonoBehaviour
     private static readonly int ExcitedHash = Animator.StringToHash("Excite");
     private static readonly int DamagedHash = Animator.StringToHash("Damaged");
     private static readonly int RightAuraHash = Animator.StringToHash("Right");
+    private static readonly int DigimonHash = Animator.StringToHash("Digimon");
     #region Constants
     #endregion
 
@@ -45,8 +46,12 @@ public class PlayerAnimationController : MonoBehaviour
     // Update is called once per frame
     private void Update()
     {
-        _spriteRenderer.flipX = _playerState.LookRight;
+        if (_playerState.DigimonIndex == 1)
+            _spriteRenderer.flipX = !_playerState.LookRight;
+        else
+            _spriteRenderer.flipX = _playerState.LookRight;
         _anim.SetBool(WalkingHash, _playerState.Walking);
+        _anim.SetInteger(DigimonHash, _playerState.DigimonIndex);
         if (_playerState.Jumping)
         {
             PlayJumpAnimation();

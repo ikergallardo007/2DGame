@@ -503,7 +503,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::VideoTrigger
   _videoPlayer: {fileID: 533227223}
   _videoImage: {fileID: 1217977641}
-  _digievolucion: {fileID: 1007686057}
+  _playerState: {fileID: 1007686058}
 --- !u!4 &438999982
 Transform:
   m_ObjectHideFlags: 0
@@ -745,17 +745,17 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a436c6a26e752c24e9c2c8aa21df8d60, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Jetpack
---- !u!114 &1007686057 stripped
+--- !u!114 &1007686058 stripped
 MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 3504551803338024015, guid: 9173a9aabe7ec5d4693a06a98946d785, type: 3}
+  m_CorrespondingSourceObject: {fileID: 5527000424510590802, guid: 9173a9aabe7ec5d4693a06a98946d785, type: 3}
   m_PrefabInstance: {fileID: 305346770535325643}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 1799b8cf696384f4594d60667d14fa8b, type: 3}
+  m_Script: {fileID: 11500000, guid: 6f03c516bdd77c342b1f7bd2a84aaf17, type: 3}
   m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::DigievolutionController
+  m_EditorClassIdentifier: Assembly-CSharp::PlayerStateController
 --- !u!1 &1045638756
 GameObject:
   m_ObjectHideFlags: 0
@@ -1619,7 +1619,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3149421786500660738, guid: 9173a9aabe7ec5d4693a06a98946d785, type: 3}
       propertyPath: m_Name
-      value: PlayerKoromon
+      value: Player
       objectReference: {fileID: 0}
     - target: {fileID: 4808172542059824242, guid: 9173a9aabe7ec5d4693a06a98946d785, type: 3}
       propertyPath: _flyDelay
@@ -1713,7 +1713,8 @@ PrefabInstance:
       propertyPath: _jumpForce
       value: 100
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 3504551803338024015, guid: 9173a9aabe7ec5d4693a06a98946d785, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []

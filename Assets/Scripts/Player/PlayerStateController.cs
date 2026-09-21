@@ -74,10 +74,16 @@ public class PlayerStateController : MonoBehaviour
         get => _hasDigivice;
         set => _hasDigivice = value;
     }
+    public int DigimonIndex
+    {
+        get => _digimonIndex;
+        set => _digimonIndex = value;
+    }
 
     #endregion
 
     #region Fields
+    [SerializeField] private int _digimonIndex = 0;
     [SerializeField] private bool _flying = false;
     [SerializeField] private bool _onAir = false;
     [SerializeField] private bool _grounded = true;

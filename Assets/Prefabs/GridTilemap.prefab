@@ -180,7 +180,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5745987507250268115}
   - component: {fileID: 4988333966765081727}
-  m_Layer: 10
+  m_Layer: 11
   m_Name: Wall
   m_TagString: ObjectDestroyer
   m_Icon: {fileID: 0}

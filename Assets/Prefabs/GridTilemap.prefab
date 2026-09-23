@@ -182,7 +182,7 @@ GameObject:
   - component: {fileID: 4988333966765081727}
   m_Layer: 10
   m_Name: Wall
-  m_TagString: Untagged
+  m_TagString: ObjectDestroyer
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -353,7 +353,7 @@ GameObject:
   - component: {fileID: 6701858162895987338}
   m_Layer: 10
   m_Name: CheckPoint1
-  m_TagString: Untagged
+  m_TagString: ObjectDestroyer
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

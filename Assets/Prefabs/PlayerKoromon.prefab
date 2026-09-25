@@ -183,9 +183,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Jetpack
   _energy: 0
-  _maxEnergy: 0
-  _energyFlyingRatio: 0
-  _energyRegenerationRatio: 0
+  _maxEnergy: 80
+  _energyFlyingRatio: 2
+  _energyRegenerationRatio: 0.5
   _energyRegenerationDelay: 0.5
 --- !u!114 &5527000424510590802
 MonoBehaviour:
@@ -202,7 +202,7 @@ MonoBehaviour:
   _digimonIndex: 0
   _flying: 0
   _onAir: 0
-  _grounded: 0
+  _grounded: 1
   _landing: 0
   _walking: 0
   _jumping: 0
@@ -238,10 +238,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 132df636129b37745aee5a12d293d580, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlayerMovement
-  _horizontalForce: 200
-  _jumpForce: 500
+  _horizontalForce: 10
+  _jumpForce: 100
   _flyForce: 15
-  _flyDelay: 0.3
+  _flyDelay: 0.2
 --- !u!212 &5887227519072409958
 SpriteRenderer:
   serializedVersion: 3
@@ -291,9 +291,9 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 1
   m_MaskInteraction: 0
-  m_Sprite: {fileID: -8639984313751548351, guid: b20b22ab3bbb5864bacf550b8c5bf5d2, type: 3}
+  m_Sprite: {fileID: -1139862635, guid: ae8786d2a27ee5c459427f85b6281f1a, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_FlipX: 1
+  m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
   m_Size: {x: 0.87, y: 0.85}
@@ -337,7 +337,7 @@ Rigidbody2D:
   m_UseFullKinematicContacts: 0
   m_UseAutoMass: 0
   m_Mass: 0.5
-  m_LinearDamping: 200
+  m_LinearDamping: 1
   m_AngularDamping: 0.05
   m_GravityScale: 1
   m_Material: {fileID: 0}
@@ -413,8 +413,8 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_ActionEvents: []
-  m_NeverAutoSwitchControlSchemes: 0
-  m_DefaultControlScheme: Keyboard&Mouse
+  m_NeverAutoSwitchControlSchemes: 1
+  m_DefaultControlScheme: 
   m_DefaultActionMap: Player
   m_SplitScreenIndex: -1
   m_Camera: {fileID: 0}

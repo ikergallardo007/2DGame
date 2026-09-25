@@ -1,6 +1,3 @@
-using System;
-using TMPro;
-using Unity.VisualScripting;
 using UnityEngine;
 
 [RequireComponent(
@@ -73,16 +70,17 @@ public class PlayerAnimationController : MonoBehaviour
             PlayDamagedAnimation();
             _playerState.Damaged = false;
         }
-        if (!_aura.activeSelf)
+        if(_aura.activeSelf != _playerState.Charging)
         {
             _aura.SetActive(_playerState.Charging);
-            _auraAnim.enabled = _playerState.Charging;
         }
-        else
+
+        _auraAnim.enabled = _playerState.Charging;
+
+        if (_playerState.Charging)
         {
-            _auraAnim.enabled = _playerState.Charging;
-            _aura.SetActive(_playerState.Charging);
             _auraAnim.SetBool(RightAuraHash, _playerState.LookRight);
+            _auraAnim.SetInteger(DigimonHash, _playerState.DigimonIndex);
         }
     }
 

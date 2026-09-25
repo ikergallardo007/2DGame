@@ -144,10 +144,6 @@ public class PlayerStateController : MonoBehaviour
     {
         if (collision.gameObject.CompareTag("ObjectDestroyer") ||
             collision.gameObject.CompareTag("Platform"))
-            if (collision.gameObject.CompareTag("ObjectDestroyer"))
-            {
-                Debug.Log("Print ObjectDestroyer!");
-            }
         {
             Flying = false;
             OnAir = false;

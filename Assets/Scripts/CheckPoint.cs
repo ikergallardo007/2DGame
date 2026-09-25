@@ -46,7 +46,6 @@ public class CheckPoint : MonoBehaviour
     {
         if (collision.CompareTag("Player"))
         {
-            Debug.Log("Player Exited!");
             _wallCollider.enabled = true;
         }
     }

@@ -74,6 +74,11 @@ public class PlayerStateController : MonoBehaviour
         get => _hasDigivice;
         set => _hasDigivice = value;
     }
+    public bool HasCourageEmblem
+    {
+        get => _hasCourageEmblem;
+        set => _hasCourageEmblem = value;
+    }
     public int DigimonIndex
     {
         get => _digimonIndex;
@@ -97,6 +102,7 @@ public class PlayerStateController : MonoBehaviour
     [SerializeField] private bool _damaged = false;
     [SerializeField] private bool _charging = false;
     [SerializeField] private bool _hasDigivice = false;
+    [SerializeField] private bool _hasCourageEmblem = false;
     private float _invulnerableTime = 0;
     private float _invulnerableTotal = -1f;
     private Jetpack _jetpack;

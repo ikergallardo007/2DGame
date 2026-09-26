@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 7940690830741171096}
   - component: {fileID: 5549295868883860976}
   m_Layer: 0
-  m_Name: DigiMeat Particle System 1
+  m_Name: DigiMeat Particle System
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

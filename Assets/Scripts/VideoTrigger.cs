@@ -61,8 +61,6 @@ public class VideoTrigger : MonoBehaviour
         // Pausar el juego
         Time.timeScale = 0f;
 
-        // 
-
         // Reproducir el video
         _videoPlayer.Play();
 

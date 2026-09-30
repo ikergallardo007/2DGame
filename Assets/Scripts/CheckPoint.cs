@@ -35,9 +35,42 @@ public class CheckPoint : MonoBehaviour
         {
             PlayerStateController player = collision.GetComponent<PlayerStateController>();
 
-            if (player != null && player.HasDigivice)
+            if (player == null)
+                return;
+
+            switch (player.DigimonIndex)
             {
-                _wallCollider.enabled = false;
+                case 0:
+                    {
+                        if (player.HasDigivice)
+                            _wallCollider.enabled = false;
+                        break;
+                    }
+                case 1:
+                    {
+                        if (player.HasCourageEmblem)
+                            _wallCollider.enabled = false;
+                        break;
+                    }
+                case 2:
+                    {
+                        if (player.HasCourageCircuit)
+                            _wallCollider.enabled = false;
+                        break;
+                    }
+                case 3:
+                    {
+                        if (player.HasCourageDigivice)
+                            _wallCollider.enabled = false;
+                        break;
+                    }
+                case 4:
+                    {
+                        if (player.HasDigivice && player.HasCourageEmblem
+                            && player.HasCourageCircuit && player.HasCourageDigivice)
+                            _wallCollider.enabled = false;
+                        break;
+                    }
             }
         }
     }

@@ -30,7 +30,7 @@ public class UIController : MonoBehaviour
     // Update is called once per frame
     private void Update()
     {
-        _energySlider.value = _jetpack.Energy;
+        _energySlider.value = 100 * _jetpack.Energy / _jetpack.MaxEnergy;
         _text.text = ((int)_jetpack.transform.position.y).ToString();
     }
     #endregion

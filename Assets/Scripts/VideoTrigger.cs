@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.UI;
 using UnityEngine.Video;
 
 public class VideoTrigger : MonoBehaviour
@@ -11,6 +12,11 @@ public class VideoTrigger : MonoBehaviour
     [SerializeField] private VideoPlayer _videoPlayer;
     [SerializeField] private GameObject _videoImage;
     [SerializeField] private PlayerStateController _playerState;
+
+    [SerializeField] private VideoClip _clip;
+    [SerializeField] private RenderTexture _renderTexture;
+    [SerializeField] private Jetpack _jetpack;
+    private RawImage _rawImage;
     private bool _hasPlayed = false;
     #endregion
 
@@ -18,19 +24,19 @@ public class VideoTrigger : MonoBehaviour
     // Awake Method
     private void Awake()
     {
-
+        _rawImage = _videoImage.GetComponent<RawImage>();
     }
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     private void Start()
     {
-        
+
     }
 
     // Update is called once per frame
     private void Update()
     {
-        
+
     }
 
     private void OnTriggerEnter2D(Collider2D collision)
@@ -41,9 +47,49 @@ public class VideoTrigger : MonoBehaviour
         if (!collision.CompareTag("Player"))
             return;
 
-        _hasPlayed = true;
         PlayerStateController state = collision.GetComponent<PlayerStateController>();
-        state.HasDigivice = false;
+
+        switch (state.DigimonIndex)
+        {
+            case 0:
+                {
+                    Debug.Log("Koromon Digievolution");
+                    state.HasDigivice = false;
+                    _jetpack.UpdateMaxEnergy(100f);
+                    break;
+                }
+            case 1:
+                {
+                    Debug.Log("Agumon Digievolution");
+                    state.HasCourageEmblem = false;
+                    _jetpack.UpdateMaxEnergy(130f);
+                    break;
+                }
+            case 2:
+                {
+                    state.HasCourageCircuit = false;
+                    _jetpack.UpdateMaxEnergy(180f);
+                    break;
+                }
+            case 3:
+                {
+                    state.HasCourageDigivice = false;
+                    _jetpack.UpdateMaxEnergy(250f);
+                    break;
+                }
+            case 4:
+                {
+                    state.HasDigivice = false;
+                    state.HasCourageEmblem = false;
+                    state.HasCourageCircuit = false;
+                    state.HasCourageDigivice = false;
+                    break;
+                }
+        }
+        _videoPlayer.clip = _clip;
+        _videoPlayer.targetTexture = _renderTexture;
+        _rawImage.texture = _renderTexture;
+        _hasPlayed = true;
         PlayVideo();
     }
     #endregion

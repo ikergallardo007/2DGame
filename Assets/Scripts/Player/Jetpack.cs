@@ -20,6 +20,17 @@ public class Jetpack : MonoBehaviour
             _energy = Mathf.Clamp(value, 0, _maxEnergy);
         }
     }
+    public float MaxEnergy
+    {
+        get
+        {
+            return _maxEnergy;
+        }
+        set
+        {
+            _maxEnergy = value;
+        }
+    }
     public enum Direction
     {
         Left,
@@ -104,6 +115,11 @@ public class Jetpack : MonoBehaviour
         {
             Energy -= _energyFlyingRatio;
         }
+    }
+    public void UpdateMaxEnergy(float newEnergy)
+    {
+        Debug.Log("Updating max energy...");
+        _maxEnergy = newEnergy;
     }
 
     #endregion

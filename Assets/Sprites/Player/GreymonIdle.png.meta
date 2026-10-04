@@ -1,0 +1,522 @@
+fileFormatVersion: 2
+guid: 85f55182bd715da4a97d6d2051968d7b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1176933738733323884
+    second: GreymonIdle (1)_0
+  - first:
+      213: -2651936591216977764
+    second: GreymonIdle (1)_1
+  - first:
+      213: -4410837587709140664
+    second: GreymonIdle (1)_2
+  - first:
+      213: -7911950238223118181
+    second: GreymonIdle (1)_3
+  - first:
+      213: 1984075506689082324
+    second: GreymonIdle (1)_4
+  - first:
+      213: 6328017427513069567
+    second: GreymonIdle (1)_5
+  - first:
+      213: 9113698618603357878
+    second: GreymonIdle (1)_6
+  - first:
+      213: 1202154073511466139
+    second: GreymonIdle (1)_7
+  - first:
+      213: -2212550465533328570
+    second: GreymonIdle (1)_8
+  - first:
+      213: 6382181402575268301
+    second: GreymonIdle (1)_9
+  - first:
+      213: -7273066394652443808
+    second: GreymonIdle (1)_10
+  - first:
+      213: -7662472745536291544
+    second: GreymonIdle (1)_11
+  - first:
+      213: 4492895150940251541
+    second: GreymonIdle (1)_12
+  - first:
+      213: -7776345316950368544
+    second: GreymonIdle (1)_13
+  - first:
+      213: 2343327425604446617
+    second: GreymonIdle (1)_14
+  - first:
+      213: 3982097514816068757
+    second: GreymonIdle (1)_15
+  - first:
+      213: -8463032455081697955
+    second: GreymonIdle (1)_16
+  - first:
+      213: 5505983631621510409
+    second: GreymonIdle (1)_17
+  - first:
+      213: -5222757812092333680
+    second: GreymonIdle (1)_18
+  - first:
+      213: 1401098171234947331
+    second: GreymonIdle (1)_19
+  - first:
+      213: 4822639592338574121
+    second: GreymonIdle (1)_20
+  - first:
+      213: 1399467184766146293
+    second: GreymonIdle (1)_21
+  - first:
+      213: -2819365180510716884
+    second: GreymonIdle (1)_22
+  - first:
+      213: 447753994389445573
+    second: GreymonIdle (1)_23
+  - first:
+      213: 766005854185649939
+    second: GreymonIdle (1)_24
+  - first:
+      213: -1153549605633294829
+    second: GreymonIdle (1)_25
+  - first:
+      213: 8928126591061024890
+    second: GreymonIdle (1)_26
+  - first:
+      213: 3766840126463303597
+    second: GreymonIdle (1)_27
+  - first:
+      213: -2849523608397993637
+    second: GreymonIdle (1)_28
+  - first:
+      213: -4328454413805135659
+    second: GreymonIdle (1)_29
+  - first:
+      213: -6887948969141631576
+    second: GreymonIdle (1)_30
+  - first:
+      213: -2898346390670408325
+    second: GreymonIdle (1)_31
+  - first:
+      213: 6540694403000979370
+    second: GreymonIdle (1)_32
+  - first:
+      213: -6571458996484217956
+    second: GreymonIdle (1)_33
+  - first:
+      213: -4604087786621781396
+    second: GreymonIdle (1)_34
+  - first:
+      213: 8687223841350612653
+    second: GreymonIdle (1)_35
+  - first:
+      213: 2414798356607317529
+    second: GreymonIdle (1)_36
+  - first:
+      213: 2252706945795123412
+    second: GreymonIdle (1)_37
+  - first:
+      213: 600404805955809753
+    second: GreymonIdle (1)_38
+  - first:
+      213: 2597771284652338491
+    second: GreymonIdle (1)_39
+  - first:
+      213: -3890372693428296688
+    second: GreymonIdle (1)_40
+  - first:
+      213: 423133623128848235
+    second: GreymonIdle (1)_41
+  - first:
+      213: 5270201546022535644
+    second: GreymonIdle (1)_42
+  - first:
+      213: -1853438034160877003
+    second: GreymonIdle (1)_43
+  - first:
+      213: 9106115871325980699
+    second: GreymonIdle (1)_44
+  - first:
+      213: -381017402810175842
+    second: GreymonIdle (1)_45
+  - first:
+      213: 249320058393172130
+    second: GreymonIdle (1)_46
+  - first:
+      213: -2336417088911745950
+    second: GreymonIdle (1)_47
+  - first:
+      213: 7082034667503493579
+    second: GreymonIdle (1)_48
+  - first:
+      213: 4004309143754177730
+    second: GreymonIdle (1)_49
+  - first:
+      213: 3362097579660009596
+    second: GreymonIdle (1)_50
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GreymonIdle_01
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 530
+        width: 164
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da6f10c8e083f8870800000000000000
+      internalID: 8687223841350612653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreymonIdle_02
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 530
+        width: 160
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 916b6c9af46138120800000000000000
+      internalID: 2414798356607317529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreymonIdle_03
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 530
+        width: 165
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d86c272809334f10800000000000000
+      internalID: 2252706945795123412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreymonIdle_04
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 532
+        width: 156
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d1fe6c6df0155800800000000000000
+      internalID: 600404805955809753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreymonIdle_05
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 532
+        width: 164
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3da96548332d0420800000000000000
+      internalID: 2597771284652338491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreymonIdle_06
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 532
+        width: 166
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 014a35cb5ae920ac0800000000000000
+      internalID: -3890372693428296688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreymonIdle_07
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 532
+        width: 175
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b677e13d9c54fd500800000000000000
+      internalID: 423133623128848235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreymonIdle_08
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 532
+        width: 158
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd143652264832940800000000000000
+      internalID: 5270201546022535644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 2e362146027b9964bbcb612a581875a3
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      GreymonIdle (1)_0: -1176933738733323884
+      GreymonIdle (1)_1: -2651936591216977764
+      GreymonIdle (1)_10: -7273066394652443808
+      GreymonIdle (1)_11: -7662472745536291544
+      GreymonIdle (1)_12: 4492895150940251541
+      GreymonIdle (1)_13: -7776345316950368544
+      GreymonIdle (1)_14: 2343327425604446617
+      GreymonIdle (1)_15: 3982097514816068757
+      GreymonIdle (1)_16: -8463032455081697955
+      GreymonIdle (1)_17: 5505983631621510409
+      GreymonIdle (1)_18: -5222757812092333680
+      GreymonIdle (1)_19: 1401098171234947331
+      GreymonIdle (1)_2: -4410837587709140664
+      GreymonIdle (1)_20: 4822639592338574121
+      GreymonIdle (1)_21: 1399467184766146293
+      GreymonIdle (1)_22: -2819365180510716884
+      GreymonIdle (1)_23: 447753994389445573
+      GreymonIdle (1)_24: 766005854185649939
+      GreymonIdle (1)_25: -1153549605633294829
+      GreymonIdle (1)_26: 8928126591061024890
+      GreymonIdle (1)_27: 3766840126463303597
+      GreymonIdle (1)_28: -2849523608397993637
+      GreymonIdle (1)_29: -4328454413805135659
+      GreymonIdle (1)_30: -6887948969141631576
+      GreymonIdle (1)_31: -2898346390670408325
+      GreymonIdle (1)_32: 6540694403000979370
+      GreymonIdle (1)_33: -6571458996484217956
+      GreymonIdle (1)_34: -4604087786621781396
+      GreymonIdle (1)_4: 1984075506689082324
+      GreymonIdle (1)_43: -1853438034160877003
+      GreymonIdle (1)_44: 9106115871325980699
+      GreymonIdle (1)_45: -381017402810175842
+      GreymonIdle (1)_46: 249320058393172130
+      GreymonIdle (1)_47: -2336417088911745950
+      GreymonIdle (1)_48: 7082034667503493579
+      GreymonIdle (1)_49: 4004309143754177730
+      GreymonIdle (1)_5: 6328017427513069567
+      GreymonIdle (1)_50: 3362097579660009596
+      GreymonIdle (1)_6: 9113698618603357878
+      GreymonIdle (1)_7: 1202154073511466139
+      GreymonIdle (1)_8: -2212550465533328570
+      GreymonIdle (1)_9: 6382181402575268301
+      GreymonIdle_01: 8687223841350612653
+      GreymonIdle_02: 2414798356607317529
+      GreymonIdle_03: 2252706945795123412
+      GreymonIdle_04: 600404805955809753
+      GreymonIdle_05: 2597771284652338491
+      GreymonIdle_06: -3890372693428296688
+      GreymonIdle_07: 423133623128848235
+      GreymonIdle_08: 5270201546022535644
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

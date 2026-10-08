@@ -1,0 +1,406 @@
+fileFormatVersion: 2
+guid: 1be0f563c4dc365499cfaf7011f577c0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6182888077877097663
+    second: GreymonExcited_0
+  - first:
+      213: -1978212826670514478
+    second: GreymonExcited_1
+  - first:
+      213: 4417937231241293428
+    second: GreymonExcited_2
+  - first:
+      213: 1005396773687284094
+    second: GreymonExcited_3
+  - first:
+      213: 8607694287851789493
+    second: GreymonExcited_4
+  - first:
+      213: 3396252698194146214
+    second: GreymonExcited_5
+  - first:
+      213: -2220295649081538303
+    second: GreymonExcited_6
+  - first:
+      213: -6799291717530399142
+    second: GreymonExcited_7
+  - first:
+      213: -7291376432700016470
+    second: GreymonExcited_8
+  - first:
+      213: -232204367157081340
+    second: GreymonExcited_9
+  - first:
+      213: -5995051643161216468
+    second: GreymonExcited_10
+  - first:
+      213: -6118721702865782969
+    second: GreymonExcited_11
+  - first:
+      213: -3896547194022323003
+    second: GreymonExcited_12
+  - first:
+      213: 6917063363289088619
+    second: GreymonExcited_13
+  - first:
+      213: 3532310840825148269
+    second: GreymonExcited_14
+  - first:
+      213: -6294918995830608923
+    second: GreymonExcited_15
+  - first:
+      213: 8505318398125439084
+    second: GreymonExcited_16
+  - first:
+      213: 5425865151418346746
+    second: GreymonExcited_17
+  - first:
+      213: -4522533667615454466
+    second: GreymonExcited_18
+  - first:
+      213: -5658362472776491301
+    second: GreymonExcited_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 150
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GreymonExcited_01
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 241
+        width: 248
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14b43203d08f13aa0800000000000000
+      internalID: -6182888077877097663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreymonExcited_02
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 240
+        width: 235
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ba6cfb7ca8fee448bdb564a5b36ce23
+      internalID: 952647800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreymonExcited_03
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 248
+        width: 231
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91ea3cce9d2285f4dacaad9f60046df2
+      internalID: -1248091061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreymonExcited_04
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 247
+        width: 236
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0de8535240bae14e91c987d9037046d
+      internalID: -1241620172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreymonExcited_05
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 239
+        width: 230
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90905449fe61422419d1cafca82d22b6
+      internalID: 1734736365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreymonExcited_06
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 234
+        width: 236
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40fa284ad88d7d648ba353545e8eb386
+      internalID: 1944966620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreymonExcited_07
+      rect:
+        serializedVersion: 2
+        x: 1508
+        y: 227
+        width: 236
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bbe47179a485f3459bb9f5bac643346
+      internalID: -407965091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreymonExcited_08
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 231
+        width: 227
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b33dacaad5b2d9b48a43cecf3bb48ff4
+      internalID: 1135652697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 70d9ed5aa1ca02246a4ce4baeef67896
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      GreymonExcited_01: -6182888077877097663
+      GreymonExcited_02: 952647800
+      GreymonExcited_03: -1248091061
+      GreymonExcited_04: -1241620172
+      GreymonExcited_05: 1734736365
+      GreymonExcited_06: 1944966620
+      GreymonExcited_07: -407965091
+      GreymonExcited_08: 1135652697
+      GreymonExcited_1: -1978212826670514478
+      GreymonExcited_10: -5995051643161216468
+      GreymonExcited_11: -6118721702865782969
+      GreymonExcited_12: -3896547194022323003
+      GreymonExcited_13: 6917063363289088619
+      GreymonExcited_14: 3532310840825148269
+      GreymonExcited_15: -6294918995830608923
+      GreymonExcited_16: 8505318398125439084
+      GreymonExcited_17: 5425865151418346746
+      GreymonExcited_18: -4522533667615454466
+      GreymonExcited_19: -5658362472776491301
+      GreymonExcited_2: 4417937231241293428
+      GreymonExcited_3: 1005396773687284094
+      GreymonExcited_4: 8607694287851789493
+      GreymonExcited_5: 3396252698194146214
+      GreymonExcited_6: -2220295649081538303
+      GreymonExcited_7: -6799291717530399142
+      GreymonExcited_8: -7291376432700016470
+      GreymonExcited_9: -232204367157081340
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

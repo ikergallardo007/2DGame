@@ -1,0 +1,496 @@
+fileFormatVersion: 2
+guid: f33550403750f6b43917fb139f0ca796
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8691070995616020245
+    second: GreymonDamage_0
+  - first:
+      213: 5281446115089022719
+    second: GreymonDamage_1
+  - first:
+      213: 6369317148249775908
+    second: GreymonDamage_2
+  - first:
+      213: -1792827669250273250
+    second: GreymonDamage_3
+  - first:
+      213: -6735591987106704221
+    second: GreymonDamage_4
+  - first:
+      213: 7180751096737843993
+    second: GreymonDamage_5
+  - first:
+      213: -464995847568183195
+    second: GreymonDamage_6
+  - first:
+      213: 1898592660075198272
+    second: GreymonDamage_7
+  - first:
+      213: -3470644857105764725
+    second: GreymonDamage_8
+  - first:
+      213: -6199851524731474156
+    second: GreymonDamage_9
+  - first:
+      213: 8863932182632637908
+    second: GreymonDamage_10
+  - first:
+      213: 2082880117415674489
+    second: GreymonDamage_11
+  - first:
+      213: -948554069841908063
+    second: GreymonDamage_12
+  - first:
+      213: 1546673621804445892
+    second: GreymonDamage_13
+  - first:
+      213: 3407137780952300441
+    second: GreymonDamage_14
+  - first:
+      213: 3860581444835521932
+    second: GreymonDamage_15
+  - first:
+      213: -5573565721868617391
+    second: GreymonDamage_16
+  - first:
+      213: -3586134210080144866
+    second: GreymonDamage_17
+  - first:
+      213: 4979073008328281011
+    second: GreymonDamage_18
+  - first:
+      213: -4824072316146732851
+    second: GreymonDamage_19
+  - first:
+      213: 4786002861020374830
+    second: GreymonDamage_20
+  - first:
+      213: -2077846505122235644
+    second: GreymonDamage_21
+  - first:
+      213: -4093161577527966211
+    second: GreymonDamage_22
+  - first:
+      213: -5713622248935840205
+    second: GreymonDamage_23
+  - first:
+      213: 7509789540404399836
+    second: GreymonDamage_24
+  - first:
+      213: -1981189027420298034
+    second: GreymonDamage_25
+  - first:
+      213: 8922534579733329823
+    second: GreymonDamage_26
+  - first:
+      213: -1279400566682338796
+    second: GreymonDamage_27
+  - first:
+      213: 7349500910719064191
+    second: GreymonDamage_28
+  - first:
+      213: -3437230358896741148
+    second: GreymonDamage_29
+  - first:
+      213: 7057557303463865938
+    second: GreymonDamage_30
+  - first:
+      213: 3424123410241851287
+    second: GreymonDamage_31
+  - first:
+      213: -1612236211779072436
+    second: GreymonDamage_32
+  - first:
+      213: 3458265700530819128
+    second: GreymonDamage_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 150
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GreymonDamage_9
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 819
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41f6730f2e3b5f9a0800000000000000
+      internalID: -6199851524731474156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreymonDamage_11
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 786
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97209446e60e7ec10800000000000000
+      internalID: 2082880117415674489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreymonDamage_01
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 338
+        width: 199
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ae62d0691f06d2f0800000000000000
+      internalID: -948554069841908063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreymonDamage_07
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 336
+        width: 206
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1593ab78187b6a2b0800000000000000
+      internalID: -5573565721868617391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreymonDamage_08
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 328
+        width: 188
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e120c43afed7b3ec0800000000000000
+      internalID: -3586134210080144866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreymonDamage_02
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 335
+        width: 215
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bb84245588391540800000000000000
+      internalID: 4979073008328281011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreymonDamage_06
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 339
+        width: 201
+        height: 231
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40bf66ccc910a23e0800000000000000
+      internalID: -2077846505122235644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreymonDamage_03
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 337
+        width: 194
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df50b235b3b2237c0800000000000000
+      internalID: -4093161577527966211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreymonDamage_05
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 337
+        width: 184
+        height: 189
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 336296f26d225b0b0800000000000000
+      internalID: -5713622248935840205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreymonDamage_04
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 338
+        width: 215
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec426bb83176184e0800000000000000
+      internalID: -1981189027420298034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: faa27a076b8a8704eb6332f3877f7cea
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      GreymonDamage_01: -948554069841908063
+      GreymonDamage_02: 4979073008328281011
+      GreymonDamage_03: -4093161577527966211
+      GreymonDamage_04: -1981189027420298034
+      GreymonDamage_05: -5713622248935840205
+      GreymonDamage_06: -2077846505122235644
+      GreymonDamage_07: -5573565721868617391
+      GreymonDamage_08: -3586134210080144866
+      GreymonDamage_10: 8863932182632637908
+      GreymonDamage_11: 2082880117415674489
+      GreymonDamage_13: 1546673621804445892
+      GreymonDamage_14: 3407137780952300441
+      GreymonDamage_15: 3860581444835521932
+      GreymonDamage_19: -4824072316146732851
+      GreymonDamage_20: 4786002861020374830
+      GreymonDamage_24: 7509789540404399836
+      GreymonDamage_26: 8922534579733329823
+      GreymonDamage_27: -1279400566682338796
+      GreymonDamage_28: 7349500910719064191
+      GreymonDamage_29: -3437230358896741148
+      GreymonDamage_3: -1792827669250273250
+      GreymonDamage_30: 7057557303463865938
+      GreymonDamage_31: 3424123410241851287
+      GreymonDamage_32: -1612236211779072436
+      GreymonDamage_33: 3458265700530819128
+      GreymonDamage_4: -6735591987106704221
+      GreymonDamage_5: 7180751096737843993
+      GreymonDamage_6: -464995847568183195
+      GreymonDamage_7: 1898592660075198272
+      GreymonDamage_8: -3470644857105764725
+      GreymonDamage_9: -6199851524731474156
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

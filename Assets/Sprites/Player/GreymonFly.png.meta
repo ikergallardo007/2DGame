@@ -1,0 +1,436 @@
+fileFormatVersion: 2
+guid: 94c524f753a57a44385b6eccb363a460
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5911261606833085493
+    second: GreymonFly_0
+  - first:
+      213: 6900208505679232181
+    second: GreymonFly_1
+  - first:
+      213: 2206353097674664665
+    second: GreymonFly_2
+  - first:
+      213: -654011163308010629
+    second: GreymonFly_3
+  - first:
+      213: -1408965900999602768
+    second: GreymonFly_4
+  - first:
+      213: 1504841405457261207
+    second: GreymonFly_5
+  - first:
+      213: -461299212174840892
+    second: GreymonFly_6
+  - first:
+      213: -5356298445447506326
+    second: GreymonFly_7
+  - first:
+      213: -2093510412267819174
+    second: GreymonFly_8
+  - first:
+      213: 7326769791445462940
+    second: GreymonFly_9
+  - first:
+      213: 165921690959916842
+    second: GreymonFly_10
+  - first:
+      213: -5451739151757366235
+    second: GreymonFly_11
+  - first:
+      213: -9077620435748841248
+    second: GreymonFly_12
+  - first:
+      213: 518454199309874018
+    second: GreymonFly_13
+  - first:
+      213: 325670453407035582
+    second: GreymonFly_14
+  - first:
+      213: 7127715673483613963
+    second: GreymonFly_15
+  - first:
+      213: 879093133913905942
+    second: GreymonFly_16
+  - first:
+      213: -7288453315230187902
+    second: GreymonFly_17
+  - first:
+      213: 6583097386446116467
+    second: GreymonFly_18
+  - first:
+      213: -5807638663711015140
+    second: GreymonFly_19
+  - first:
+      213: -288418634842403557
+    second: GreymonFly_20
+  - first:
+      213: -4446110715698607596
+    second: GreymonFly_21
+  - first:
+      213: -1068637882238392814
+    second: GreymonFly_22
+  - first:
+      213: -2903209030483250974
+    second: GreymonFly_23
+  - first:
+      213: -4655123121511551372
+    second: GreymonFly_24
+  - first:
+      213: -2929202170123761586
+    second: GreymonFly_25
+  - first:
+      213: 4812600584421890630
+    second: GreymonFly_26
+  - first:
+      213: -868644799960288080
+    second: GreymonFly_27
+  - first:
+      213: 2406212968934588938
+    second: GreymonFly_28
+  - first:
+      213: 6502311745943257314
+    second: GreymonFly_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 150
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GreymonFly_01
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 252
+        width: 197
+        height: 236
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb0ba294d83058400800000000000000
+      internalID: 325670453407035582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreymonFly_02
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 293
+        width: 190
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0799f904abbae260800000000000000
+      internalID: 7127715673483613963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreymonFly_03
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 345
+        width: 196
+        height: 228
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61b5c633c8a233c00800000000000000
+      internalID: 879093133913905942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreymonFly_04
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 404
+        width: 196
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28ebfaf53563ada90800000000000000
+      internalID: -7288453315230187902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreymonFly_05
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 448
+        width: 191
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3765ce8b13cdb5b50800000000000000
+      internalID: 6583097386446116467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreymonFly_06
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 367
+        width: 201
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1f3ea1d76f176fa0800000000000000
+      internalID: -5807638663711015140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreymonFly_07
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 296
+        width: 195
+        height: 242
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1d8d9b97c45ffbf0800000000000000
+      internalID: -288418634842403557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreymonFly_08
+      rect:
+        serializedVersion: 2
+        x: 1570
+        y: 252
+        width: 192
+        height: 239
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41a0abe4cdd3c42c0800000000000000
+      internalID: -4446110715698607596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 11038a5f443f7db4a859f3416f906714
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      GreymonFly_01: 325670453407035582
+      GreymonFly_02: 7127715673483613963
+      GreymonFly_03: 879093133913905942
+      GreymonFly_04: -7288453315230187902
+      GreymonFly_05: 6583097386446116467
+      GreymonFly_06: -5807638663711015140
+      GreymonFly_07: -288418634842403557
+      GreymonFly_08: -4446110715698607596
+      GreymonFly_10: 165921690959916842
+      GreymonFly_11: -5451739151757366235
+      GreymonFly_12: -9077620435748841248
+      GreymonFly_13: 518454199309874018
+      GreymonFly_22: -1068637882238392814
+      GreymonFly_23: -2903209030483250974
+      GreymonFly_24: -4655123121511551372
+      GreymonFly_25: -2929202170123761586
+      GreymonFly_26: 4812600584421890630
+      GreymonFly_27: -868644799960288080
+      GreymonFly_28: 2406212968934588938
+      GreymonFly_29: 6502311745943257314
+      GreymonFly_3: -654011163308010629
+      GreymonFly_4: -1408965900999602768
+      GreymonFly_5: 1504841405457261207
+      GreymonFly_6: -461299212174840892
+      GreymonFly_7: -5356298445447506326
+      GreymonFly_8: -2093510412267819174
+      GreymonFly_9: 7326769791445462940
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

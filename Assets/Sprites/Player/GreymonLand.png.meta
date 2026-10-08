@@ -1,0 +1,426 @@
+fileFormatVersion: 2
+guid: 3e0c349e4cd9554498aaece148499c36
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1015193336288647147
+    second: GreymonLand_0
+  - first:
+      213: -7990131147456532477
+    second: GreymonLand_1
+  - first:
+      213: 1654661882855068576
+    second: GreymonLand_2
+  - first:
+      213: -5408259716618748320
+    second: GreymonLand_3
+  - first:
+      213: -7436914145801858442
+    second: GreymonLand_4
+  - first:
+      213: 8307950123510393692
+    second: GreymonLand_5
+  - first:
+      213: 185838183043519492
+    second: GreymonLand_6
+  - first:
+      213: -5587533015380112566
+    second: GreymonLand_7
+  - first:
+      213: -1683674601713287686
+    second: GreymonLand_8
+  - first:
+      213: 5265446793796098830
+    second: GreymonLand_9
+  - first:
+      213: 656870631069679419
+    second: GreymonLand_10
+  - first:
+      213: -2012585810596915683
+    second: GreymonLand_11
+  - first:
+      213: -2383078606284565548
+    second: GreymonLand_12
+  - first:
+      213: 1497097936168845378
+    second: GreymonLand_13
+  - first:
+      213: 2831013774462870485
+    second: GreymonLand_14
+  - first:
+      213: -4926277139776133786
+    second: GreymonLand_15
+  - first:
+      213: -5544651502070219811
+    second: GreymonLand_16
+  - first:
+      213: 3346301207223625922
+    second: GreymonLand_17
+  - first:
+      213: -2888313148274078804
+    second: GreymonLand_18
+  - first:
+      213: 6795280776338433402
+    second: GreymonLand_19
+  - first:
+      213: 8874516276766325971
+    second: GreymonLand_20
+  - first:
+      213: -7266824479690217771
+    second: GreymonLand_21
+  - first:
+      213: 3779650747632413793
+    second: GreymonLand_22
+  - first:
+      213: 1185416270371295641
+    second: GreymonLand_23
+  - first:
+      213: -3788914781345589655
+    second: GreymonLand_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 150
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GreymonLand_01
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 370
+        width: 215
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 068b79cc5b84ee34c8b3db9cf6fca0cf
+      internalID: 1149322070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreymonLand_02
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 315
+        width: 221
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abd6f4fbfea48ae45bdded0d289a1d35
+      internalID: -1122722082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreymonLand_03
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 293
+        width: 227
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a86da9f85c3d364eb1b7bad37030141
+      internalID: 1485941744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreymonLand_04
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 284
+        width: 230
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 088abb7e43da48849b1586ba0d9d1c0a
+      internalID: 1781641129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreymonLand_05
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 284
+        width: 241
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d5122db7127edf49a18aa41bc9fba15
+      internalID: -2073600084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreymonLand_06
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 288
+        width: 237
+        height: 199
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56e733c02e09eab489180c328316d537
+      internalID: -1506888245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreymonLand_07
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 285
+        width: 206
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68bfe2214d929a44fa5a6705224bbc75
+      internalID: 224551547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreymonLand_08
+      rect:
+        serializedVersion: 2
+        x: 1749
+        y: 284
+        width: 195
+        height: 211
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7f7f4080d63b4142b3c220df206c08b
+      internalID: 805943559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 753b236f9caf45d41b517a1cafbd9aa4
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      GreymonLand_01: 1015193336288647147
+      GreymonLand_02: -1122722082
+      GreymonLand_03: 1485941744
+      GreymonLand_04: 1781641129
+      GreymonLand_05: -2073600084
+      GreymonLand_06: -1506888245
+      GreymonLand_07: 224551547
+      GreymonLand_08: 805943559
+      GreymonLand_1: -7990131147456532477
+      GreymonLand_10: 656870631069679419
+      GreymonLand_11: -2012585810596915683
+      GreymonLand_12: -2383078606284565548
+      GreymonLand_13: 1497097936168845378
+      GreymonLand_14: 2831013774462870485
+      GreymonLand_15: -4926277139776133786
+      GreymonLand_16: -5544651502070219811
+      GreymonLand_17: 3346301207223625922
+      GreymonLand_18: -2888313148274078804
+      GreymonLand_19: 6795280776338433402
+      GreymonLand_2: 1654661882855068576
+      GreymonLand_20: 8874516276766325971
+      GreymonLand_21: -7266824479690217771
+      GreymonLand_22: 3779650747632413793
+      GreymonLand_23: 1185416270371295641
+      GreymonLand_24: -3788914781345589655
+      GreymonLand_3: -5408259716618748320
+      GreymonLand_4: -7436914145801858442
+      GreymonLand_5: 8307950123510393692
+      GreymonLand_6: 185838183043519492
+      GreymonLand_7: -5587533015380112566
+      GreymonLand_8: -1683674601713287686
+      GreymonLand_9: 5265446793796098830
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

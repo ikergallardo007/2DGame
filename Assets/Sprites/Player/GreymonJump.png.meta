@@ -1,0 +1,397 @@
+fileFormatVersion: 2
+guid: abacc11d1c232fd469ef97537b631220
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2355606945236330177
+    second: GreymonJump_0
+  - first:
+      213: 7519873448466837663
+    second: GreymonJump_1
+  - first:
+      213: 3513685063858861689
+    second: GreymonJump_2
+  - first:
+      213: 15388535562981769
+    second: GreymonJump_3
+  - first:
+      213: 6111969809579289165
+    second: GreymonJump_4
+  - first:
+      213: -3650549722867455813
+    second: GreymonJump_5
+  - first:
+      213: -3608406298270409730
+    second: GreymonJump_6
+  - first:
+      213: 6644766790446948037
+    second: GreymonJump_7
+  - first:
+      213: 8610257192453303492
+    second: GreymonJump_8
+  - first:
+      213: -6439193554788579047
+    second: GreymonJump_9
+  - first:
+      213: 9035023167901817740
+    second: GreymonJump_10
+  - first:
+      213: 8593068280914107350
+    second: GreymonJump_11
+  - first:
+      213: 5698590937166763900
+    second: GreymonJump_12
+  - first:
+      213: -6186698852644052285
+    second: GreymonJump_13
+  - first:
+      213: 3808364450994157852
+    second: GreymonJump_14
+  - first:
+      213: -3055253892886958371
+    second: GreymonJump_15
+  - first:
+      213: 5715205473017290793
+    second: GreymonJump_16
+  - first:
+      213: 436859042892039085
+    second: GreymonJump_17
+  - first:
+      213: 2205007049451765109
+    second: GreymonJump_18
+  - first:
+      213: -4578634334574001807
+    second: GreymonJump_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 150
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GreymonJump_01
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 210
+        width: 210
+        height: 196
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4aa2e1c82412d450800000000000000
+      internalID: 6111969809579289165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreymonJump_02
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 222
+        width: 214
+        height: 219
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb8a5955e54a65dc0800000000000000
+      internalID: -3650549722867455813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreymonJump_03
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 282
+        width: 208
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efb5f42079d5cedc0800000000000000
+      internalID: -3608406298270409730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreymonJump_04
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 363
+        width: 203
+        height: 207
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ce17efb034f63c50800000000000000
+      internalID: 6644766790446948037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreymonJump_05
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 322
+        width: 202
+        height: 206
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cc6ee42c47cd7770800000000000000
+      internalID: 8610257192453303492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreymonJump_06
+      rect:
+        serializedVersion: 2
+        x: 1355
+        y: 243
+        width: 207
+        height: 207
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91987d6049363a6a0800000000000000
+      internalID: -6439193554788579047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreymonJump_07
+      rect:
+        serializedVersion: 2
+        x: 1637
+        y: 213
+        width: 208
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8b563c93b9d26d70800000000000000
+      internalID: 9035023167901817740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreymonJump_08
+      rect:
+        serializedVersion: 2
+        x: 1929
+        y: 211
+        width: 203
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dbdf8ec216b04770800000000000000
+      internalID: 8593068280914107350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 4f86ee07e14cf534cb6e7b87bb230e8d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      GreymonJump_01: 6111969809579289165
+      GreymonJump_02: -3650549722867455813
+      GreymonJump_03: -3608406298270409730
+      GreymonJump_04: 6644766790446948037
+      GreymonJump_05: 8610257192453303492
+      GreymonJump_06: -6439193554788579047
+      GreymonJump_07: 9035023167901817740
+      GreymonJump_08: 8593068280914107350
+      GreymonJump_12: 5698590937166763900
+      GreymonJump_13: -6186698852644052285
+      GreymonJump_14: 3808364450994157852
+      GreymonJump_15: -3055253892886958371
+      GreymonJump_16: 5715205473017290793
+      GreymonJump_17: 436859042892039085
+      GreymonJump_18: 2205007049451765109
+      GreymonJump_19: -4578634334574001807
+      GreymonJump_2: 3513685063858861689
+      GreymonJump_3: 15388535562981769
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

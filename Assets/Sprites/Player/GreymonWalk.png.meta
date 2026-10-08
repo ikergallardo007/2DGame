@@ -1,0 +1,397 @@
+fileFormatVersion: 2
+guid: e5052db79f184584e965682af435dc60
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6873459901411586118
+    second: GreymonWalk_0
+  - first:
+      213: 7470705356565605112
+    second: GreymonWalk_1
+  - first:
+      213: 432755503725403955
+    second: GreymonWalk_2
+  - first:
+      213: -4935054840513486502
+    second: GreymonWalk_3
+  - first:
+      213: -3816186444410925189
+    second: GreymonWalk_4
+  - first:
+      213: 1473727136343537150
+    second: GreymonWalk_5
+  - first:
+      213: 130075179557961476
+    second: GreymonWalk_6
+  - first:
+      213: 4772193353075118608
+    second: GreymonWalk_7
+  - first:
+      213: -6452968575504150899
+    second: GreymonWalk_8
+  - first:
+      213: 1362775295436406369
+    second: GreymonWalk_9
+  - first:
+      213: 5786522911495080802
+    second: GreymonWalk_10
+  - first:
+      213: -284038870955921598
+    second: GreymonWalk_11
+  - first:
+      213: -6233363234634694073
+    second: GreymonWalk_12
+  - first:
+      213: -1107157775018172029
+    second: GreymonWalk_13
+  - first:
+      213: -9110570948590729930
+    second: GreymonWalk_14
+  - first:
+      213: -1795664800609591800
+    second: GreymonWalk_15
+  - first:
+      213: -2866497883940716371
+    second: GreymonWalk_16
+  - first:
+      213: -6928053825330732022
+    second: GreymonWalk_17
+  - first:
+      213: -7104269496906116181
+    second: GreymonWalk_18
+  - first:
+      213: -6761529356318668656
+    second: GreymonWalk_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 150
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GreymonWalk_01
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 258
+        width: 231
+        height: 223
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7fc938d5ae2a0bc0800000000000000
+      internalID: -3816186444410925189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreymonWalk_02
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 252
+        width: 235
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef53c99b50bb37410800000000000000
+      internalID: 1473727136343537150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreymonWalk_03
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 249
+        width: 241
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40fb5a7cfae1ec100800000000000000
+      internalID: 130075179557961476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreymonWalk_04
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 249
+        width: 229
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 012d589029c3a3240800000000000000
+      internalID: 4772193353075118608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreymonWalk_05
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 257
+        width: 219
+        height: 219
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8e015615437276a0800000000000000
+      internalID: -6452968575504150899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreymonWalk_06
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 253
+        width: 229
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16e3a2139ec89e210800000000000000
+      internalID: 1362775295436406369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreymonWalk_07
+      rect:
+        serializedVersion: 2
+        x: 1655
+        y: 248
+        width: 228
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26bc2500eebdd4050800000000000000
+      internalID: 5786522911495080802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreymonWalk_08
+      rect:
+        serializedVersion: 2
+        x: 1918
+        y: 247
+        width: 216
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24fe44ad624ee0cf0800000000000000
+      internalID: -284038870955921598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 8be533213fda7b146b38aacf7e02c50f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      GreymonWalk_01: -3816186444410925189
+      GreymonWalk_02: 1473727136343537150
+      GreymonWalk_03: 130075179557961476
+      GreymonWalk_04: 4772193353075118608
+      GreymonWalk_05: -6452968575504150899
+      GreymonWalk_06: 1362775295436406369
+      GreymonWalk_07: 5786522911495080802
+      GreymonWalk_08: -284038870955921598
+      GreymonWalk_12: -6233363234634694073
+      GreymonWalk_13: -1107157775018172029
+      GreymonWalk_14: -9110570948590729930
+      GreymonWalk_15: -1795664800609591800
+      GreymonWalk_16: -2866497883940716371
+      GreymonWalk_17: -6928053825330732022
+      GreymonWalk_18: -7104269496906116181
+      GreymonWalk_19: -6761529356318668656
+      GreymonWalk_2: 432755503725403955
+      GreymonWalk_3: -4935054840513486502
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

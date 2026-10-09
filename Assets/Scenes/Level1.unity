@@ -2185,9 +2185,25 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1615997826272607339, guid: 9173a9aabe7ec5d4693a06a98946d785, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1615997826272607339, guid: 9173a9aabe7ec5d4693a06a98946d785, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: 93db54e5ad6a7f44ca3712f5bfaeb407, type: 2}
+    - target: {fileID: 1615997826272607339, guid: 9173a9aabe7ec5d4693a06a98946d785, type: 3}
+      propertyPath: m_AnimatePhysics
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3149421786500660738, guid: 9173a9aabe7ec5d4693a06a98946d785, type: 3}
       propertyPath: m_Name
       value: Player
+      objectReference: {fileID: 0}
+    - target: {fileID: 3548923720021280534, guid: 9173a9aabe7ec5d4693a06a98946d785, type: 3}
+      propertyPath: m_Enabled
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5887227519072409958, guid: 9173a9aabe7ec5d4693a06a98946d785, type: 3}
       propertyPath: m_FlipX

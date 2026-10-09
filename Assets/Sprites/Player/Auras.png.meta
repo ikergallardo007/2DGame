@@ -799,35 +799,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Auras_100
+      name: GreymonAura_08
       rect:
         serializedVersion: 2
-        x: 934
-        y: 584
-        width: 6
-        height: 7
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1d46f731d03b973e0800000000000000
-      internalID: -2055414886174858031
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Auras_101
-      rect:
-        serializedVersion: 2
-        x: 1023
-        y: 454
-        width: 110
-        height: 132
+        x: 1024
+        y: 455
+        width: 108
+        height: 130
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -843,13 +821,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Auras_102
+      name: GreymonAura_09
       rect:
         serializedVersion: 2
-        x: 1176
-        y: 451
-        width: 108
-        height: 135
+        x: 1177
+        y: 453
+        width: 107
+        height: 133
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -865,35 +843,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Auras_103
-      rect:
-        serializedVersion: 2
-        x: 1207
-        y: 576
-        width: 9
-        height: 12
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: aefdb165d0dc78b80800000000000000
-      internalID: -8392513923418693654
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Auras_104
+      name: GreymonAura_10
       rect:
         serializedVersion: 2
         x: 1342
-        y: 445
-        width: 139
-        height: 170
+        y: 447
+        width: 138
+        height: 167
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -909,167 +865,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Auras_105
+      name: GreymonAura_07
       rect:
         serializedVersion: 2
-        x: 607
-        y: 501
-        width: 43
-        height: 72
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f1dd35e643ffab680800000000000000
-      internalID: -8738391526304654049
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Auras_106
-      rect:
-        serializedVersion: 2
-        x: 750
-        y: 500
-        width: 47
-        height: 76
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d3cc47e159b9e5250800000000000000
-      internalID: 5935352423684295741
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Auras_107
-      rect:
-        serializedVersion: 2
-        x: 755
-        y: 570
-        width: 7
-        height: 10
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 68c48ae9baa56eb20800000000000000
-      internalID: 3163315481422089350
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Auras_108
-      rect:
-        serializedVersion: 2
-        x: 800
-        y: 562
-        width: 8
-        height: 10
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1afe46ad6c44b1fd0800000000000000
-      internalID: -2370225158022172767
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Auras_109
-      rect:
-        serializedVersion: 2
-        x: 907
-        y: 545
-        width: 30
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2a645af1f19189b50800000000000000
-      internalID: 6600052875377067682
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Auras_110
-      rect:
-        serializedVersion: 2
-        x: 469
-        y: 550
-        width: 8
-        height: 9
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 31b7d82e9b589fa50800000000000000
-      internalID: 6555417766030834451
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Auras_111
-      rect:
-        serializedVersion: 2
-        x: 606
-        y: 551
-        width: 9
-        height: 13
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 99e67d51ff0a1fa20800000000000000
-      internalID: 3094431436423786137
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Auras_112
-      rect:
-        serializedVersion: 2
-        x: 875
-        y: 456
-        width: 103
-        height: 105
+        x: 876
+        y: 458
+        width: 101
+        height: 132
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1085,255 +887,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Auras_113
+      name: GreymonAura_04
       rect:
         serializedVersion: 2
-        x: 336
-        y: 535
-        width: 10
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ab5bf9ecfca7724a0800000000000000
-      internalID: -6618186094454262342
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Auras_114
-      rect:
-        serializedVersion: 2
-        x: 479
-        y: 520
-        width: 15
-        height: 28
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ebc94ccfb4cb96380800000000000000
-      internalID: -8977437347637060418
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Auras_115
-      rect:
-        serializedVersion: 2
-        x: 662
-        y: 524
-        width: 9
-        height: 12
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 772f6a02d60090e50800000000000000
-      internalID: 6775947583054869111
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Auras_116
-      rect:
-        serializedVersion: 2
-        x: 811
-        y: 522
-        width: 9
-        height: 17
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 91f3bce402f326580800000000000000
-      internalID: -8835430110954045671
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Auras_117
-      rect:
-        serializedVersion: 2
-        x: 44
-        y: 495
-        width: 16
-        height: 19
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2f1f921ff53dc5000800000000000000
-      internalID: 26128106878792178
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Auras_118
-      rect:
-        serializedVersion: 2
-        x: 77
-        y: 507
-        width: 10
-        height: 11
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: dceec8818323fb600800000000000000
-      internalID: 486162501290749645
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Auras_119
-      rect:
-        serializedVersion: 2
-        x: 189
-        y: 514
-        width: 15
-        height: 18
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9f13ab976b5dbfa70800000000000000
-      internalID: 8861911671484592633
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Auras_120
-      rect:
-        serializedVersion: 2
-        x: 215
-        y: 508
-        width: 15
-        height: 20
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0646de70b611f97c0800000000000000
-      internalID: -4062509187472726944
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Auras_121
-      rect:
-        serializedVersion: 2
-        x: 325
-        y: 507
-        width: 6
-        height: 10
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 37531a4e62a6d5c90800000000000000
-      internalID: -7179465515681630861
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Auras_122
-      rect:
-        serializedVersion: 2
-        x: 352
-        y: 509
-        width: 8
-        height: 12
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e69cb6ad7e342dd80800000000000000
-      internalID: -8227438906171471506
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Auras_123
-      rect:
-        serializedVersion: 2
-        x: 366
-        y: 483
-        width: 27
-        height: 47
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 87c34dd8d8bd44f30800000000000000
-      internalID: 4559010123822152824
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Auras_124
-      rect:
-        serializedVersion: 2
-        x: 446
-        y: 461
-        width: 96
-        height: 65
+        x: 447
+        y: 462
+        width: 94
+        height: 96
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1349,13 +909,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Auras_125
+      name: GreymonAura_05
       rect:
         serializedVersion: 2
-        x: 584
-        y: 460
-        width: 100
-        height: 58
+        x: 585
+        y: 461
+        width: 98
+        height: 111
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1371,35 +931,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Auras_126
+      name: GreymonAura_06
       rect:
         serializedVersion: 2
-        x: 591
-        y: 514
-        width: 8
-        height: 12
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 56bd899eed1d9cda0800000000000000
-      internalID: -5923973079497122971
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Auras_127
-      rect:
-        serializedVersion: 2
-        x: 727
-        y: 459
-        width: 102
-        height: 66
+        x: 728
+        y: 460
+        width: 100
+        height: 118
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1415,123 +953,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Auras_128
-      rect:
-        serializedVersion: 2
-        x: 733
-        y: 511
-        width: 10
-        height: 21
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2779147b85a03ba20800000000000000
-      internalID: 3076814346572109682
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Auras_129
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 487
-        width: 7
-        height: 10
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f98e7274ef14c9ed0800000000000000
-      internalID: -2405975540551391073
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Auras_130
-      rect:
-        serializedVersion: 2
-        x: 93
-        y: 489
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5a6133a3ba708e290800000000000000
-      internalID: -7861024717577972059
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Auras_131
-      rect:
-        serializedVersion: 2
-        x: 112
-        y: 493
-        width: 8
-        height: 10
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d84c91ee1bb012650800000000000000
-      internalID: 6206254620325037197
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Auras_132
-      rect:
-        serializedVersion: 2
-        x: 174
-        y: 483
-        width: 10
-        height: 12
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 85a42010a9b5f99e0800000000000000
-      internalID: -1612469424575329704
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Auras_133
+      name: GreymonAura_02
       rect:
         serializedVersion: 2
         x: 176
-        y: 462
+        y: 463
         width: 88
-        height: 45
+        height: 68
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1547,13 +975,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Auras_134
+      name: GreymonAura_03
       rect:
         serializedVersion: 2
-        x: 309
-        y: 461
-        width: 94
-        height: 51
+        x: 310
+        y: 462
+        width: 92
+        height: 86
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1569,57 +997,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Auras_135
+      name: GreymonAura_01
       rect:
         serializedVersion: 2
-        x: 1276
-        y: 476
-        width: 10
-        height: 20
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 56f55e63d03749910800000000000000
-      internalID: 1843224648094146405
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Auras_136
-      rect:
-        serializedVersion: 2
-        x: 1336
-        y: 485
-        width: 12
-        height: 23
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5459ed8166b8cb820800000000000000
-      internalID: 2935374327758886213
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Auras_137
-      rect:
-        serializedVersion: 2
-        x: 40
-        y: 463
-        width: 86
-        height: 27
+        x: 41
+        y: 464
+        width: 84
+        height: 53
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1635,35 +1019,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Auras_138
+      name: MetalGreymonAura_06
       rect:
         serializedVersion: 2
-        x: 258
-        y: 482
-        width: 7
-        height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f5e2d6e9fb4ae9d20800000000000000
-      internalID: 3287245920930704991
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Auras_139
-      rect:
-        serializedVersion: 2
-        x: 728
-        y: 267
-        width: 102
-        height: 119
+        x: 729
+        y: 268
+        width: 100
+        height: 117
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1679,101 +1041,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Auras_140
+      name: MetalGreymonAura_09
       rect:
         serializedVersion: 2
-        x: 898
-        y: 365
-        width: 15
-        height: 22
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3a4330583ef31cad0800000000000000
-      internalID: -2683793656514399069
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Auras_141
-      rect:
-        serializedVersion: 2
-        x: 941
-        y: 375
-        width: 10
-        height: 12
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 74bcc00272119c5a0800000000000000
-      internalID: -6500645727393494201
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Auras_142
-      rect:
-        serializedVersion: 2
-        x: 1062
-        y: 386
-        width: 8
-        height: 9
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 80b7ff667d73c39e0800000000000000
-      internalID: -1640374765984187640
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Auras_143
-      rect:
-        serializedVersion: 2
-        x: 1103
-        y: 375
-        width: 11
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9842bce8a5031f190800000000000000
-      internalID: -7930504303321865079
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Auras_144
-      rect:
-        serializedVersion: 2
-        x: 1175
-        y: 264
-        width: 108
-        height: 134
+        x: 1176
+        y: 265
+        width: 109
+        height: 133
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1789,57 +1063,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Auras_145
-      rect:
-        serializedVersion: 2
-        x: 1203
-        y: 374
-        width: 16
-        height: 25
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 381cb60cd9d2d9260800000000000000
-      internalID: 7105885942621913475
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Auras_146
-      rect:
-        serializedVersion: 2
-        x: 1251
-        y: 370
-        width: 15
-        height: 27
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e395bf786273ae2a0800000000000000
-      internalID: -6707488056385251010
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Auras_147
+      name: MetalGreymonAura_10
       rect:
         serializedVersion: 2
         x: 1338
-        y: 255
-        width: 145
-        height: 168
+        y: 256
+        width: 148
+        height: 166
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1855,79 +1085,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Auras_148
+      name: MetalGreymonAura_07
       rect:
         serializedVersion: 2
-        x: 481
-        y: 356
-        width: 10
-        height: 13
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 57ccd349be7c6e020800000000000000
-      internalID: 2370802068475464821
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Auras_149
-      rect:
-        serializedVersion: 2
-        x: 602
-        y: 299
-        width: 50
-        height: 59
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 244b097ea5d9b95e0800000000000000
-      internalID: -1901753403876264894
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Auras_150
-      rect:
-        serializedVersion: 2
-        x: 628
-        y: 356
-        width: 15
-        height: 22
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b24aeb6aab3530c50800000000000000
-      internalID: 6630235137546036267
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Auras_151
-      rect:
-        serializedVersion: 2
-        x: 874
-        y: 266
-        width: 104
-        height: 104
+        x: 875
+        y: 267
+        width: 102
+        height: 119
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1943,13 +1107,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Auras_152
+      name: MetalGreymonAura_08
       rect:
         serializedVersion: 2
-        x: 1023
-        y: 264
-        width: 107
-        height: 112
+        x: 1024
+        y: 266
+        width: 105
+        height: 128
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1965,255 +1129,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Auras_153
-      rect:
-        serializedVersion: 2
-        x: 219
-        y: 323
-        width: 10
-        height: 13
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: be1c06126879c7d20800000000000000
-      internalID: 3277661231160279531
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Auras_154
-      rect:
-        serializedVersion: 2
-        x: 326
-        y: 332
-        width: 12
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b4dc4b5d39c7dfa70800000000000000
-      internalID: 8862376616122436939
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Auras_155
-      rect:
-        serializedVersion: 2
-        x: 363
-        y: 324
-        width: 12
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c5207671f9a7a9690800000000000000
-      internalID: -7594622997895904676
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Auras_156
-      rect:
-        serializedVersion: 2
-        x: 460
-        y: 311
-        width: 41
-        height: 40
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 293d754604544bf10800000000000000
-      internalID: 2284527053847384978
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Auras_157
-      rect:
-        serializedVersion: 2
-        x: 514
-        y: 333
-        width: 8
-        height: 11
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a99e22a76af6ec300800000000000000
-      internalID: 274279388120541594
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Auras_158
-      rect:
-        serializedVersion: 2
-        x: 657
-        y: 323
-        width: 12
-        height: 15
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0211147aab0db8360800000000000000
-      internalID: 7173056331606200608
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Auras_159
-      rect:
-        serializedVersion: 2
-        x: 1337
-        y: 317
-        width: 17
-        height: 38
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d4e83365e7d053810800000000000000
-      internalID: 1744315266939194957
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Auras_160
-      rect:
-        serializedVersion: 2
-        x: 1478
-        y: 329
-        width: 9
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5b0bbe4194d820d60800000000000000
-      internalID: 7854996045110685877
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Auras_161
-      rect:
-        serializedVersion: 2
-        x: 51
-        y: 313
-        width: 8
-        height: 10
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 50574a2ff6191d950800000000000000
-      internalID: 6472114049506374917
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Auras_162
-      rect:
-        serializedVersion: 2
-        x: 80
-        y: 320
-        width: 9
-        height: 11
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5ef07f57eaac02680800000000000000
-      internalID: -8781796422720221211
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Auras_163
-      rect:
-        serializedVersion: 2
-        x: 192
-        y: 322
-        width: 7
-        height: 9
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 975afa0bf96106a70800000000000000
-      internalID: 8818072945511343481
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Auras_164
+      name: MetalGreymonAura_03
       rect:
         serializedVersion: 2
         x: 312
-        y: 275
+        y: 276
         width: 89
-        height: 53
+        height: 71
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2229,13 +1151,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Auras_165
+      name: MetalGreymonAura_04
       rect:
         serializedVersion: 2
         x: 448
-        y: 273
+        y: 274
         width: 92
-        height: 56
+        height: 94
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2251,79 +1173,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Auras_166
+      name: MetalGreymonAura_02
       rect:
         serializedVersion: 2
-        x: 63
-        y: 297
-        width: 9
-        height: 13
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ee83b3e7c8e38da90800000000000000
-      internalID: -7289007223764993810
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Auras_167
-      rect:
-        serializedVersion: 2
-        x: 94
-        y: 302
-        width: 7
-        height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 494bb621676213e50800000000000000
-      internalID: 6787248401981093012
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Auras_168
-      rect:
-        serializedVersion: 2
-        x: 113
-        y: 305
-        width: 9
-        height: 11
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f44620b2e7c3eecc0800000000000000
-      internalID: -3679937332929993649
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Auras_169
-      rect:
-        serializedVersion: 2
-        x: 177
-        y: 275
-        width: 87
-        height: 37
+        x: 178
+        y: 276
+        width: 85
+        height: 59
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2339,101 +1195,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Auras_170
+      name: MetalGreymonAura_05
       rect:
         serializedVersion: 2
-        x: 197
-        y: 297
-        width: 10
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8624fc7290c57ec50800000000000000
-      internalID: 6694420565501887080
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Auras_171
-      rect:
-        serializedVersion: 2
-        x: 238
-        y: 300
-        width: 10
-        height: 17
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 504c319260687ea90800000000000000
-      internalID: -7284706511231400955
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Auras_172
-      rect:
-        serializedVersion: 2
-        x: 310
-        y: 294
-        width: 9
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: faccb8c2f1de9c2b0800000000000000
-      internalID: -5563655146492408657
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Auras_173
-      rect:
-        serializedVersion: 2
-        x: 396
-        y: 296
-        width: 7
-        height: 11
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a4122634d44d12ba0800000000000000
-      internalID: -6115373390684348086
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Auras_174
-      rect:
-        serializedVersion: 2
-        x: 584
-        y: 269
-        width: 100
-        height: 51
+        x: 585
+        y: 271
+        width: 98
+        height: 106
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2449,35 +1217,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Auras_175
+      name: MetalGreymonAura_01
       rect:
         serializedVersion: 2
-        x: 1277
-        y: 296
-        width: 9
-        height: 17
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7a9985026d521e990800000000000000
-      internalID: -7358558714550773337
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Auras_176
-      rect:
-        serializedVersion: 2
-        x: 39
-        y: 275
-        width: 88
-        height: 28
+        x: 40
+        y: 276
+        width: 86
+        height: 54
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2493,101 +1239,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Auras_177
+      name: WarGreymonAura_06
       rect:
         serializedVersion: 2
-        x: 446
-        y: 290
-        width: 7
-        height: 9
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 17de28705d3299210800000000000000
-      internalID: 1340141761980460401
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Auras_178
-      rect:
-        serializedVersion: 2
-        x: 536
-        y: 292
-        width: 6
-        height: 7
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 75df5620ca0628de0800000000000000
-      internalID: -1332396247857365673
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Auras_179
-      rect:
-        serializedVersion: 2
-        x: 482
-        y: 159
-        width: 14
-        height: 21
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e2b954bd4ac38bc60800000000000000
-      internalID: 7834078230562052910
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Auras_180
-      rect:
-        serializedVersion: 2
-        x: 626
-        y: 159
-        width: 21
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1b27c2e7624617fa0800000000000000
-      internalID: -5804748328215481679
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Auras_181
-      rect:
-        serializedVersion: 2
-        x: 727
-        y: 66
-        width: 101
-        height: 138
+        x: 728
+        y: 67
+        width: 99
+        height: 136
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2603,79 +1261,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Auras_182
+      name: WarGreymonAura_08
       rect:
         serializedVersion: 2
-        x: 886
-        y: 137
-        width: 17
-        height: 47
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7a74c00b5d686d180800000000000000
-      internalID: -9090930545461016665
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Auras_183
-      rect:
-        serializedVersion: 2
-        x: 912
-        y: 101
-        width: 36
-        height: 101
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 422537adad76e4790800000000000000
-      internalID: -7543978136133479900
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Auras_184
-      rect:
-        serializedVersion: 2
-        x: 954
-        y: 136
-        width: 14
-        height: 48
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6d66796dab7e8aeb0800000000000000
-      internalID: -4708258620765673770
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Auras_185
-      rect:
-        serializedVersion: 2
-        x: 1022
-        y: 64
-        width: 109
-        height: 131
+        x: 1023
+        y: 66
+        width: 107
+        height: 136
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2691,57 +1283,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Auras_186
+      name: WarGreymonAura_09
       rect:
         serializedVersion: 2
-        x: 1046
-        y: 169
-        width: 17
-        height: 29
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f46542f929c92b100800000000000000
-      internalID: 122332293441541711
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Auras_187
-      rect:
-        serializedVersion: 2
-        x: 1095
-        y: 180
-        width: 13
-        height: 23
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f0f40caaee003ed50800000000000000
-      internalID: 6765252090307563279
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Auras_188
-      rect:
-        serializedVersion: 2
-        x: 1175
-        y: 62
-        width: 111
-        height: 162
+        x: 1176
+        y: 63
+        width: 109
+        height: 160
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2757,13 +1305,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Auras_189
+      name: WarGreymonAura_10
       rect:
         serializedVersion: 2
-        x: 1336
-        y: 54
-        width: 149
-        height: 183
+        x: 1337
+        y: 56
+        width: 147
+        height: 180
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2779,255 +1327,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Auras_190
+      name: WarGreymonAura_07
       rect:
         serializedVersion: 2
-        x: 369
-        y: 154
-        width: 8
-        height: 10
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0ec8b41ba9ca4b5b0800000000000000
-      internalID: -5353464276637217568
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Auras_191
-      rect:
-        serializedVersion: 2
-        x: 462
-        y: 147
-        width: 8
-        height: 11
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ee6502d17e6cec870800000000000000
-      internalID: 8705113825682151150
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Auras_192
-      rect:
-        serializedVersion: 2
-        x: 514
-        y: 123
-        width: 14
-        height: 40
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4f5d3c45997669960800000000000000
-      internalID: 7608382528738809332
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Auras_193
-      rect:
-        serializedVersion: 2
-        x: 599
-        y: 92
-        width: 52
-        height: 74
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0196ce3d7e3f84670800000000000000
-      internalID: 8523330471817144592
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Auras_194
-      rect:
-        serializedVersion: 2
-        x: 649
-        y: 115
-        width: 16
-        height: 48
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 971595c19713a5630800000000000000
-      internalID: 3916497222188487033
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Auras_195
-      rect:
-        serializedVersion: 2
-        x: 198
-        y: 132
-        width: 9
-        height: 10
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 96b084dccbde6dcc0800000000000000
-      internalID: -3686497849802486935
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Auras_196
-      rect:
-        serializedVersion: 2
-        x: 236
-        y: 116
-        width: 11
-        height: 18
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 024d6f74d1dfe4500800000000000000
-      internalID: 382521320576308256
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Auras_197
-      rect:
-        serializedVersion: 2
-        x: 331
-        y: 121
-        width: 15
-        height: 27
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f2afb3d8979739620800000000000000
-      internalID: 2779698957985249839
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Auras_198
-      rect:
-        serializedVersion: 2
-        x: 373
-        y: 106
-        width: 20
-        height: 41
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 46eb4119f9c691f40800000000000000
-      internalID: 5699706236003728996
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Auras_199
-      rect:
-        serializedVersion: 2
-        x: 469
-        y: 111
-        width: 22
-        height: 40
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a1a79002a9fd45760800000000000000
-      internalID: 7445821937005722138
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Auras_200
-      rect:
-        serializedVersion: 2
-        x: 588
-        y: 128
-        width: 9
-        height: 13
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e109e05cc24becd70800000000000000
-      internalID: 9065381204321013790
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Auras_201
-      rect:
-        serializedVersion: 2
-        x: 873
-        y: 65
-        width: 105
-        height: 79
+        x: 874
+        y: 66
+        width: 103
+        height: 135
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3043,57 +1349,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Auras_202
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 116
-        width: 8
-        height: 9
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6cbd4b347204c4180800000000000000
-      internalID: -9129851807203009594
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Auras_203
-      rect:
-        serializedVersion: 2
-        x: 79
-        y: 99
-        width: 21
-        height: 27
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e34f4381c26518220800000000000000
-      internalID: 2486363216669897790
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Auras_204
+      name: WarGreymonAura_02
       rect:
         serializedVersion: 2
         x: 177
-        y: 72
-        width: 87
-        height: 48
+        y: 73
+        width: 86
+        height: 68
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3109,35 +1371,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Auras_205
-      rect:
-        serializedVersion: 2
-        x: 217
-        y: 115
-        width: 8
-        height: 9
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a504b4f4d946df1d0800000000000000
-      internalID: -3315383123871842214
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Auras_206
+      name: WarGreymonAura_03
       rect:
         serializedVersion: 2
         x: 313
-        y: 70
+        y: 71
         width: 88
-        height: 49
+        height: 92
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3153,13 +1393,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Auras_207
+      name: WarGreymonAura_04
       rect:
         serializedVersion: 2
         x: 449
-        y: 70
+        y: 71
         width: 91
-        height: 58
+        height: 108
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3175,13 +1415,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Auras_208
+      name: WarGreymonAura_05
       rect:
         serializedVersion: 2
-        x: 584
-        y: 67
-        width: 97
-        height: 54
+        x: 585
+        y: 68
+        width: 96
+        height: 122
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3197,57 +1437,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Auras_209
+      name: WarGreymonAura_01
       rect:
         serializedVersion: 2
-        x: 47
-        y: 91
-        width: 19
-        height: 13
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7b06410c5bd2948d0800000000000000
-      internalID: -2861705829582348105
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Auras_210
-      rect:
-        serializedVersion: 2
-        x: 109
-        y: 99
-        width: 8
-        height: 10
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 641c4d3e2ac7020e0800000000000000
-      internalID: -2296698770910035642
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Auras_211
-      rect:
-        serializedVersion: 2
-        x: 39
-        y: 71
-        width: 87
-        height: 24
+        x: 40
+        y: 73
+        width: 85
+        height: 52
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3258,138 +1454,6 @@ TextureImporter:
       bones: []
       spriteID: 9408557467bb9aad0800000000000000
       internalID: -2690413185699839927
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Auras_212
-      rect:
-        serializedVersion: 2
-        x: 175
-        y: 90
-        width: 6
-        height: 7
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: caa4ae2c0c3d7f9b0800000000000000
-      internalID: -5046332032588035412
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Auras_213
-      rect:
-        serializedVersion: 2
-        x: 309
-        y: 88
-        width: 8
-        height: 9
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 30e7b27feb9046130800000000000000
-      internalID: 3558980321324793347
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Auras_214
-      rect:
-        serializedVersion: 2
-        x: 397
-        y: 88
-        width: 6
-        height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b1946fe38e15c8530800000000000000
-      internalID: 3858549038680262939
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Auras_215
-      rect:
-        serializedVersion: 2
-        x: 446
-        y: 88
-        width: 7
-        height: 9
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2791e760bc3b53f70800000000000000
-      internalID: 9166430301151172978
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Auras_216
-      rect:
-        serializedVersion: 2
-        x: 536
-        y: 87
-        width: 6
-        height: 9
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7649ca3384a599e10800000000000000
-      internalID: 2204892758725661799
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Auras_217
-      rect:
-        serializedVersion: 2
-        x: 676
-        y: 87
-        width: 8
-        height: 11
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 686237ee9685d6640800000000000000
-      internalID: 5074809567111751302
       vertices: []
       indices: 
       edges: []
@@ -3601,7 +1665,7 @@ TextureImporter:
         width: 99
         height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3623,7 +1687,7 @@ TextureImporter:
         width: 96
         height: 63
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3645,7 +1709,7 @@ TextureImporter:
         width: 100
         height: 65
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3667,7 +1731,7 @@ TextureImporter:
         width: 104
         height: 89
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3689,7 +1753,7 @@ TextureImporter:
         width: 104
         height: 106
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3711,7 +1775,7 @@ TextureImporter:
         width: 113
         height: 121
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3733,7 +1797,7 @@ TextureImporter:
         width: 109
         height: 121
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3755,7 +1819,7 @@ TextureImporter:
         width: 117
         height: 131
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3777,7 +1841,7 @@ TextureImporter:
         width: 119
         height: 150
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3799,7 +1863,7 @@ TextureImporter:
         width: 156
         height: 175
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3839,10 +1903,7 @@ TextureImporter:
       Auras_1: 7858776746088833052
       Auras_10: 2213428910607324352
       Auras_100: -2055414886174858031
-      Auras_101: 4750861639907688363
-      Auras_102: 3439641475165203849
       Auras_103: -8392513923418693654
-      Auras_104: -3865215390205574249
       Auras_105: -8738391526304654049
       Auras_106: 5935352423684295741
       Auras_107: 3163315481422089350
@@ -3851,7 +1912,6 @@ TextureImporter:
       Auras_11: 8249047985144915733
       Auras_110: 6555417766030834451
       Auras_111: 3094431436423786137
-      Auras_112: 8442218543445789596
       Auras_113: -6618186094454262342
       Auras_114: -8977437347637060418
       Auras_115: 6775947583054869111
@@ -3864,38 +1924,27 @@ TextureImporter:
       Auras_121: -7179465515681630861
       Auras_122: -8227438906171471506
       Auras_123: 4559010123822152824
-      Auras_124: -4646711372674863812
-      Auras_125: -1587015222680911698
       Auras_126: -5923973079497122971
-      Auras_127: -2919253605217660854
       Auras_128: 3076814346572109682
       Auras_129: -2405975540551391073
       Auras_13: 7006294142968970197
       Auras_130: -7861024717577972059
       Auras_131: 6206254620325037197
       Auras_132: -1612469424575329704
-      Auras_133: -6736075017858637812
-      Auras_134: 5333045132522159441
       Auras_135: 1843224648094146405
       Auras_136: 2935374327758886213
-      Auras_137: 353019402198179265
       Auras_138: 3287245920930704991
-      Auras_139: 5140107807162870414
       Auras_14: 6116360353816325279
       Auras_140: -2683793656514399069
       Auras_141: -6500645727393494201
       Auras_142: -1640374765984187640
       Auras_143: -7930504303321865079
-      Auras_144: -3925023945874128288
       Auras_145: 7105885942621913475
       Auras_146: -6707488056385251010
-      Auras_147: -8005200098941200349
       Auras_148: 2370802068475464821
       Auras_149: -1901753403876264894
       Auras_15: -182217390684129129
       Auras_150: 6630235137546036267
-      Auras_151: 877517171492404603
-      Auras_152: 8545255182422476401
       Auras_153: 3277661231160279531
       Auras_154: 8862376616122436939
       Auras_155: -7594622997895904676
@@ -3908,34 +1957,25 @@ TextureImporter:
       Auras_161: 6472114049506374917
       Auras_162: -8781796422720221211
       Auras_163: 8818072945511343481
-      Auras_164: 1069078343377056848
-      Auras_165: -3317445344744900752
       Auras_166: -7289007223764993810
       Auras_167: 6787248401981093012
       Auras_168: -3679937332929993649
-      Auras_169: -285817822699136824
       Auras_17: 218392326866640077
       Auras_170: 6694420565501887080
       Auras_171: -7284706511231400955
       Auras_172: -5563655146492408657
       Auras_173: -6115373390684348086
-      Auras_174: -4454019765676697324
       Auras_175: -7358558714550773337
-      Auras_176: -4950201385418070933
       Auras_177: 1340141761980460401
       Auras_178: -1332396247857365673
       Auras_179: 7834078230562052910
       Auras_18: -7315647053959585178
       Auras_180: -5804748328215481679
-      Auras_181: -2501160884260218734
       Auras_182: -9090930545461016665
       Auras_183: -7543978136133479900
       Auras_184: -4708258620765673770
-      Auras_185: -8272114228288587498
       Auras_186: 122332293441541711
       Auras_187: 6765252090307563279
-      Auras_188: -3422784088158801013
-      Auras_189: 249828103776790338
       Auras_19: -6586298996291093284
       Auras_190: -5353464276637217568
       Auras_191: 8705113825682151150
@@ -3950,18 +1990,12 @@ TextureImporter:
       Auras_2: -725488316294708571
       Auras_20: -103367576268022917
       Auras_200: 9065381204321013790
-      Auras_201: 7159074130540463100
       Auras_202: -9129851807203009594
       Auras_203: 2486363216669897790
-      Auras_204: 2536642589355575128
       Auras_205: -3315383123871842214
-      Auras_206: -2622381077524440373
-      Auras_207: -3826387965159059107
-      Auras_208: 1786860243088668267
       Auras_209: -2861705829582348105
       Auras_21: 540340795031692406
       Auras_210: -2296698770910035642
-      Auras_211: -2690413185699839927
       Auras_212: -5046332032588035412
       Auras_213: 3558980321324793347
       Auras_214: 3858549038680262939
@@ -4053,6 +2087,36 @@ TextureImporter:
       Auras_97: -5831496686223988595
       Auras_98: 834898289921241497
       Auras_99: 78987451795339577
+      GreymonAura_01: 353019402198179265
+      GreymonAura_02: -6736075017858637812
+      GreymonAura_03: 5333045132522159441
+      GreymonAura_04: -4646711372674863812
+      GreymonAura_05: -1587015222680911698
+      GreymonAura_06: -2919253605217660854
+      GreymonAura_07: 8442218543445789596
+      GreymonAura_08: 4750861639907688363
+      GreymonAura_09: 3439641475165203849
+      GreymonAura_10: -3865215390205574249
+      MetalGreymonAura_01: -4950201385418070933
+      MetalGreymonAura_02: -285817822699136824
+      MetalGreymonAura_03: 1069078343377056848
+      MetalGreymonAura_04: -3317445344744900752
+      MetalGreymonAura_05: -4454019765676697324
+      MetalGreymonAura_06: 5140107807162870414
+      MetalGreymonAura_07: 877517171492404603
+      MetalGreymonAura_08: 8545255182422476401
+      MetalGreymonAura_09: -3925023945874128288
+      MetalGreymonAura_10: -8005200098941200349
+      WarGreymonAura_01: -2690413185699839927
+      WarGreymonAura_02: 2536642589355575128
+      WarGreymonAura_03: -2622381077524440373
+      WarGreymonAura_04: -3826387965159059107
+      WarGreymonAura_05: 1786860243088668267
+      WarGreymonAura_06: -2501160884260218734
+      WarGreymonAura_07: 7159074130540463100
+      WarGreymonAura_08: -8272114228288587498
+      WarGreymonAura_09: -3422784088158801013
+      WarGreymonAura_10: 249828103776790338
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

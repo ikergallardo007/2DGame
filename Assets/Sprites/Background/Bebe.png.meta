@@ -1,19 +1,22 @@
 fileFormatVersion: 2
-guid: 9dc1d31c949e3d347a37da639b96a447
+guid: 56184ae82ecc5dc4a86d877bc208c159
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 9076005914459839800
-    second: Bebe_0
+      213: -1229779721412419011
+    second: Bebe 1_0
   - first:
-      213: 1012293959621124465
-    second: Bebe_1
+      213: -8091385497762676238
+    second: Bebe 1_1
   - first:
-      213: -3240341501153915643
-    second: Bebe_2
+      213: 3669427553092589667
+    second: Bebe 1_2
   - first:
-      213: 2789835159451097225
-    second: Bebe_3
+      213: -3389300694470361141
+    second: Bebe 1_3
+  - first:
+      213: -4161472563678698869
+    second: Bebe 1_4
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -135,7 +138,29 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Bebe_0
+      name: Bebe 1_0
+      rect:
+        serializedVersion: 2
+        x: 2068
+        y: 455
+        width: 116
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d32eb39ebd1feeee0800000000000000
+      internalID: -1229779721412419011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bebe 1_1
       rect:
         serializedVersion: 2
         x: 1127
@@ -150,14 +175,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 83d19beda4374fd70800000000000000
-      internalID: 9076005914459839800
+      spriteID: 2f1cb1182cf95bf80800000000000000
+      internalID: -8091385497762676238
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bebe_1
+      name: Bebe 1_2
       rect:
         serializedVersion: 2
         x: 1403
@@ -172,14 +197,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 171ad7f2ef36c0e00800000000000000
-      internalID: 1012293959621124465
+      spriteID: 3685d170bec6ce230800000000000000
+      internalID: 3669427553092589667
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bebe_2
+      name: Bebe 1_3
       rect:
         serializedVersion: 2
         x: 1655
@@ -194,14 +219,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 50dc3c0a29ef703d0800000000000000
-      internalID: -3240341501153915643
+      spriteID: bcffb15c9f8c6f0d0800000000000000
+      internalID: -3389300694470361141
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bebe_3
+      name: Bebe 1_4
       rect:
         serializedVersion: 2
         x: 1931
@@ -216,8 +241,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9885afcdb4c77b620800000000000000
-      internalID: 2789835159451097225
+      spriteID: b82a56370ca7f36c0800000000000000
+      internalID: -4161472563678698869
       vertices: []
       indices: 
       edges: []
@@ -236,10 +261,11 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Bebe_0: 9076005914459839800
-      Bebe_1: 1012293959621124465
-      Bebe_2: -3240341501153915643
-      Bebe_3: 2789835159451097225
+      Bebe 1_0: -1229779721412419011
+      Bebe 1_1: -8091385497762676238
+      Bebe 1_2: 3669427553092589667
+      Bebe 1_3: -3389300694470361141
+      Bebe 1_4: -4161472563678698869
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -47,13 +47,6 @@ public class PlayerMovement : MonoBehaviour
         // Horizontal movement
         Vector2 moveValue = _moveAction.ReadValue<Vector2>();
 
-        Debug.Log(
-            $"Input X: {moveValue.x:F2} | " +
-            $"Velocity X: {_rigidbody.linearVelocity.x:F2} | " +
-            $"Posición X: {_rigidbody.position.x:F3} | " +
-            $"Transform X: {transform.position.x:F3}"
-            );
-
         Vector2 horizontalMovement = new(moveValue.x, 0);
         _rigidbody.AddForce(horizontalMovement * _horizontalForce);
         
@@ -97,13 +90,6 @@ public class PlayerMovement : MonoBehaviour
         }
     }
 
-    private void LateUpdate()
-    {
-        Debug.Log(
-            $"RB: {_rigidbody.position.x:F3} | " +
-            $"Transform: {transform.position.x:F3}"
-            );
-    }
     #endregion
 
     #region Public Methods

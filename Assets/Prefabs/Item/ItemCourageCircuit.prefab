@@ -79,6 +79,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 8958420148017820776, guid: fed279d0906c865469cd8f3aafe3ad60, type: 3}
       insertIndex: 1
       addedObject: {fileID: 4494813997587990071}
+    - targetCorrespondingSourceObject: {fileID: 8958420148017820776, guid: fed279d0906c865469cd8f3aafe3ad60, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 857270944779161051}
   m_SourcePrefab: {fileID: 100100000, guid: fed279d0906c865469cd8f3aafe3ad60, type: 3}
 --- !u!1 &1576000553948995125 stripped
 GameObject:
@@ -98,3 +101,40 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::ItemCourageCircuit
   _particles: {fileID: 1449676196005313029, guid: d7af6abbdc1176f4980191c1e680ef86, type: 3}
+--- !u!70 &857270944779161051
+CapsuleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1576000553948995125}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
+  m_Offset: {x: 0, y: 0}
+  m_Size: {x: 0.5, y: 1}
+  m_Direction: 0

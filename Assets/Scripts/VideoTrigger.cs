@@ -12,7 +12,7 @@ public class VideoTrigger : MonoBehaviour
     [SerializeField] private VideoPlayer _videoPlayer;
     [SerializeField] private GameObject _videoImage;
     [SerializeField] private PlayerStateController _playerState;
-
+    [SerializeField] private AudioSource _audioSource;
     [SerializeField] private VideoClip _clip;
     [SerializeField] private RenderTexture _renderTexture;
     [SerializeField] private Jetpack _jetpack;
@@ -107,6 +107,9 @@ public class VideoTrigger : MonoBehaviour
         // Pausar el juego
         Time.timeScale = 0f;
 
+        // Pausar música del juego
+        _audioSource.Pause();
+
         // Reproducir el video
         _videoPlayer.Play();
 
@@ -124,6 +127,9 @@ public class VideoTrigger : MonoBehaviour
 
         // Ocultar el video
         _videoImage.SetActive(false);
+
+        // Reanudar música del juego
+        _audioSource.UnPause();
 
         // Reanudar el juego
         Time.timeScale = 1.0f;

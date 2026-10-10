@@ -221,13 +221,17 @@ PrefabInstance:
       propertyPath: m_Name
       value: ItemCourageCircuit
       objectReference: {fileID: 0}
+    - target: {fileID: 3973536909314619789, guid: 54865bf8281d87e4fba5c8266feaf272, type: 3}
+      propertyPath: m_Constraints
+      value: 7
+      objectReference: {fileID: 0}
     - target: {fileID: 8062731536637124407, guid: 54865bf8281d87e4fba5c8266feaf272, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 7.4576097
+      value: 7.5
       objectReference: {fileID: 0}
     - target: {fileID: 8062731536637124407, guid: 54865bf8281d87e4fba5c8266feaf272, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 278.51913
+      value: 278.5
       objectReference: {fileID: 0}
     - target: {fileID: 8062731536637124407, guid: 54865bf8281d87e4fba5c8266feaf272, type: 3}
       propertyPath: m_LocalPosition.z
@@ -561,6 +565,7 @@ MonoBehaviour:
   _videoPlayer: {fileID: 533227223}
   _videoImage: {fileID: 1217977641}
   _playerState: {fileID: 1007686058}
+  _audioSource: {fileID: 1052086823}
   _clip: {fileID: 32900000, guid: 03df6c80a696f6946b5252a164bfcdf8, type: 3}
   _renderTexture: {fileID: 8400000, guid: 97d1c60062ad24e4f875e24571d14036, type: 2}
   _jetpack: {fileID: 1007686056}
@@ -1427,6 +1432,7 @@ MonoBehaviour:
   _videoPlayer: {fileID: 533227223}
   _videoImage: {fileID: 1217977641}
   _playerState: {fileID: 1007686058}
+  _audioSource: {fileID: 1052086823}
   _clip: {fileID: 32900000, guid: f3403b54b86590c4d8ec7207fba6c5cf, type: 3}
   _renderTexture: {fileID: 8400000, guid: beca11cb48260d742bd54813215d8f3a, type: 2}
   _jetpack: {fileID: 1007686056}
@@ -1789,6 +1795,7 @@ MonoBehaviour:
   _videoPlayer: {fileID: 533227223}
   _videoImage: {fileID: 1217977641}
   _playerState: {fileID: 1007686058}
+  _audioSource: {fileID: 1052086823}
   _clip: {fileID: 32900000, guid: 5a7990846374ced42a012b61daab585a, type: 3}
   _renderTexture: {fileID: 8400000, guid: 0ff9e63639feccd4d8e8083c3fd22200, type: 2}
   _jetpack: {fileID: 1007686056}
@@ -3536,6 +3543,7 @@ SceneRoots:
   - {fileID: 525298030}
   - {fileID: 1793584088}
   - {fileID: 1727142829}
+  - {fileID: 42487960}
   - {fileID: 1052086820}
   - {fileID: 1409052650}
   - {fileID: 82091643}
@@ -3544,4 +3552,3 @@ SceneRoots:
   - {fileID: 1300678765}
   - {fileID: 1675790135}
   - {fileID: 533227224}
-  - {fileID: 42487960}

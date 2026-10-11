@@ -9,6 +9,9 @@ public class VideoTrigger : MonoBehaviour
     #endregion
 
     #region Fields
+    [SerializeField] private CapsuleCollider2D _playerCollider;
+    [SerializeField] private Vector2 _colliderSize;
+    [SerializeField] private Vector2 _colliderOffset;
     [SerializeField] private VideoPlayer _videoPlayer;
     [SerializeField] private GameObject _videoImage;
     [SerializeField] private PlayerStateController _playerState;
@@ -125,6 +128,9 @@ public class VideoTrigger : MonoBehaviour
         // Digievolucionar
         _playerState.DigimonIndex += 1;
 
+        // Actualizar tamaño del collider
+        UpdatePlayerCollider();
+
         // Ocultar el video
         _videoImage.SetActive(false);
 
@@ -133,6 +139,12 @@ public class VideoTrigger : MonoBehaviour
 
         // Reanudar el juego
         Time.timeScale = 1.0f;
+    }
+
+    private void UpdatePlayerCollider()
+    {
+        _playerCollider.size = _colliderSize;
+        _playerCollider.offset = _colliderOffset;
     }
     #endregion
 }

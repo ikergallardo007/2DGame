@@ -43,7 +43,8 @@ public class PlayerAnimationController : MonoBehaviour
     // Update is called once per frame
     private void Update()
     {
-        if (_playerState.DigimonIndex == 1)
+        if ((_playerState.DigimonIndex == 1) ||
+            (_playerState.DigimonIndex == 2 && _playerState.Walking))
             _spriteRenderer.flipX = !_playerState.LookRight;
         else
             _spriteRenderer.flipX = _playerState.LookRight;

@@ -11,20 +11,33 @@ public class InGameController : MonoBehaviour
     #endregion
 
     #region Unity Callbacks
-    // Start method
-    private void Start()
+    private void OnEnable()
     {
         _escapeAction = InputSystem.actions.FindAction("Escape");
+
+        if (_escapeAction != null)
+        {
+            _escapeAction.performed += OnEscapePressed;
+        }
+        else
+        {
+            Debug.LogError("No se ha encontrado la acción Escape.");
+        }
     }
 
-    // Update is called once per frame
-    private void Update()
+    private void OnDisable()
     {
-        if(_escapeAction.triggered)
+        if (_escapeAction != null)
         {
-            SceneManager.LoadScene("MainMenu");
+            _escapeAction.performed -= OnEscapePressed;
         }
     }
     #endregion
 
+    #region Private Methods
+    private void OnEscapePressed(InputAction.CallbackContext context)
+    {
+        SceneManager.LoadScene("MainMenu");
+    }
+    #endregion
 }

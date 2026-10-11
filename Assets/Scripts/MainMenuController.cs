@@ -45,7 +45,7 @@ public class MainMenuController : MonoBehaviour
         Application.Quit();
     }
 
-    private void StartGame()
+    public void StartGame()
     {
         SceneManager.LoadScene("Level1");
     }

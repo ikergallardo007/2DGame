@@ -1,0 +1,399 @@
+fileFormatVersion: 2
+guid: c57a09385168fcf4ca27a61d4e5a3d87
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9174001735518703626
+    second: MetalGreymonDamaged_0
+  - first:
+      213: 3025592846214219904
+    second: MetalGreymonDamaged_1
+  - first:
+      213: -3001264359495618701
+    second: MetalGreymonDamaged_2
+  - first:
+      213: -5323453762895839687
+    second: MetalGreymonDamaged_3
+  - first:
+      213: -7733497808093249986
+    second: MetalGreymonDamaged_4
+  - first:
+      213: 6249315496520153583
+    second: MetalGreymonDamaged_5
+  - first:
+      213: 1099765828005475889
+    second: MetalGreymonDamaged_6
+  - first:
+      213: -4968339139790397280
+    second: MetalGreymonDamaged_7
+  - first:
+      213: -1237098437522972097
+    second: MetalGreymonDamaged_8
+  - first:
+      213: 8455783938750457792
+    second: MetalGreymonDamaged_9
+  - first:
+      213: -1002778809099702324
+    second: MetalGreymonDamaged_10
+  - first:
+      213: 811471510410895091
+    second: MetalGreymonDamaged_11
+  - first:
+      213: 8102299840291813217
+    second: MetalGreymonDamaged_12
+  - first:
+      213: -8723158969846020482
+    second: MetalGreymonDamaged_13
+  - first:
+      213: 4677217272685977842
+    second: MetalGreymonDamaged_14
+  - first:
+      213: -3147357764252834312
+    second: MetalGreymonDamaged_15
+  - first:
+      213: 284029828151535645
+    second: MetalGreymonDamaged_16
+  - first:
+      213: 5993408763827708833
+    second: MetalGreymonDamaged_17
+  - first:
+      213: -9030382218554138419
+    second: MetalGreymonDamaged_18
+  - first:
+      213: -3956734983466568272
+    second: MetalGreymonDamaged_19
+  - first:
+      213: -1551671064479816986
+    second: MetalGreymonDamaged_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 150
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MetalGreymonDamaged_1
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 213
+        width: 239
+        height: 339
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93e706ce10b4f16b0800000000000000
+      internalID: -5323453762895839687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalGreymonDamaged_2
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 211
+        width: 257
+        height: 326
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3ef655a7b81da490800000000000000
+      internalID: -7733497808093249986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalGreymonDamaged_3
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 211
+        width: 249
+        height: 267
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a0af1130e9ec0bb0800000000000000
+      internalID: -4968339139790397280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalGreymonDamaged_4
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 211
+        width: 218
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f32a0478681f4dee0800000000000000
+      internalID: -1237098437522972097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalGreymonDamaged_5
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 210
+        width: 226
+        height: 239
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c7acae01baf85570800000000000000
+      internalID: 8455783938750457792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalGreymonDamaged_6
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 193
+        width: 245
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccfa25f6cf96512f0800000000000000
+      internalID: -1002778809099702324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalGreymonDamaged_7
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 209
+        width: 262
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fe14631a0de24b00800000000000000
+      internalID: 811471510410895091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalGreymonDamaged_8
+      rect:
+        serializedVersion: 2
+        x: 1758
+        y: 210
+        width: 218
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1673c44e6c6217070800000000000000
+      internalID: 8102299840291813217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 23d246a0003860a4f91eb7b8b647aaa7
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      MetalGreymonDamaged_0: -9174001735518703626
+      MetalGreymonDamaged_1: -5323453762895839687
+      MetalGreymonDamaged_13: -8723158969846020482
+      MetalGreymonDamaged_14: 4677217272685977842
+      MetalGreymonDamaged_15: -3147357764252834312
+      MetalGreymonDamaged_16: 284029828151535645
+      MetalGreymonDamaged_17: 5993408763827708833
+      MetalGreymonDamaged_18: -9030382218554138419
+      MetalGreymonDamaged_19: -3956734983466568272
+      MetalGreymonDamaged_2: -7733497808093249986
+      MetalGreymonDamaged_20: -1551671064479816986
+      MetalGreymonDamaged_3: -4968339139790397280
+      MetalGreymonDamaged_4: -1237098437522972097
+      MetalGreymonDamaged_5: 8455783938750457792
+      MetalGreymonDamaged_6: -1002778809099702324
+      MetalGreymonDamaged_7: 811471510410895091
+      MetalGreymonDamaged_8: 8102299840291813217
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

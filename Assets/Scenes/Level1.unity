@@ -563,7 +563,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::VideoTrigger
   _playerCollider: {fileID: 1007686060}
-  _colliderSize: {x: 0.93, y: 1.12}
+  _colliderSize: {x: 0.9, y: 1.12}
   _colliderOffset: {x: 0, y: 0}
   _videoPlayer: {fileID: 533227223}
   _videoImage: {fileID: 1217977641}

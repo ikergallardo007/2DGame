@@ -1,0 +1,390 @@
+fileFormatVersion: 2
+guid: 1a15f7399e7404645bb8608a0d4284a6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1444776013363133206
+    second: MetalGreymonFly_0
+  - first:
+      213: -1164503099070594507
+    second: MetalGreymonFly_1
+  - first:
+      213: 6516863915457948839
+    second: MetalGreymonFly_2
+  - first:
+      213: -4196937843478030944
+    second: MetalGreymonFly_3
+  - first:
+      213: -5562822001976830492
+    second: MetalGreymonFly_4
+  - first:
+      213: -6718200113894132642
+    second: MetalGreymonFly_5
+  - first:
+      213: -6402426170362332850
+    second: MetalGreymonFly_6
+  - first:
+      213: 6237724954793107062
+    second: MetalGreymonFly_7
+  - first:
+      213: -301508972589579354
+    second: MetalGreymonFly_8
+  - first:
+      213: 9156938009299725406
+    second: MetalGreymonFly_9
+  - first:
+      213: 6253592928860902734
+    second: MetalGreymonFly_10
+  - first:
+      213: 7824919084655857086
+    second: MetalGreymonFly_11
+  - first:
+      213: 6231846878353068288
+    second: MetalGreymonFly_12
+  - first:
+      213: 5363871902775093133
+    second: MetalGreymonFly_13
+  - first:
+      213: 5232931140305615525
+    second: MetalGreymonFly_14
+  - first:
+      213: -1542160986112233370
+    second: MetalGreymonFly_15
+  - first:
+      213: 8634095064530301136
+    second: MetalGreymonFly_16
+  - first:
+      213: -554537353901822824
+    second: MetalGreymonFly_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 140
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MetalGreymonFly_1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 266
+        width: 243
+        height: 278
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7acae6a043d807a50800000000000000
+      internalID: 6516863915457948839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalGreymonFly_2
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 226
+        width: 246
+        height: 274
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a51917844b71c5c0800000000000000
+      internalID: -4196937843478030944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalGreymonFly_3
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 227
+        width: 245
+        height: 281
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e5917fbcd2ecc2b0800000000000000
+      internalID: -5562822001976830492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalGreymonFly_4
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 249
+        width: 249
+        height: 252
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e54f959479824c2a0800000000000000
+      internalID: -6718200113894132642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalGreymonFly_5
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 230
+        width: 242
+        height: 287
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4973eec1530627a0800000000000000
+      internalID: -6402426170362332850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalGreymonFly_6
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 211
+        width: 233
+        height: 283
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67e58092cc9d09650800000000000000
+      internalID: 6237724954793107062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalGreymonFly_7
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 210
+        width: 228
+        height: 271
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a38438df23d0dbf0800000000000000
+      internalID: -301508972589579354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalGreymonFly_8
+      rect:
+        serializedVersion: 2
+        x: 1767
+        y: 198
+        width: 216
+        height: 259
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5c259a9a9af31f70800000000000000
+      internalID: 9156938009299725406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: a0744bcc43a7be24ab2384d696db5c71
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      MetalGreymonFly_0: -1444776013363133206
+      MetalGreymonFly_1: 6516863915457948839
+      MetalGreymonFly_10: 6253592928860902734
+      MetalGreymonFly_11: 7824919084655857086
+      MetalGreymonFly_12: 6231846878353068288
+      MetalGreymonFly_13: 5363871902775093133
+      MetalGreymonFly_14: 5232931140305615525
+      MetalGreymonFly_15: -1542160986112233370
+      MetalGreymonFly_16: 8634095064530301136
+      MetalGreymonFly_17: -554537353901822824
+      MetalGreymonFly_2: -4196937843478030944
+      MetalGreymonFly_3: -5562822001976830492
+      MetalGreymonFly_4: -6718200113894132642
+      MetalGreymonFly_5: -6402426170362332850
+      MetalGreymonFly_6: 6237724954793107062
+      MetalGreymonFly_7: -301508972589579354
+      MetalGreymonFly_8: 9156938009299725406
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

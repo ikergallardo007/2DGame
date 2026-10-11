@@ -1,0 +1,406 @@
+fileFormatVersion: 2
+guid: 7ecee0345e2de3347a7474c8821f46f6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2118564299851881927
+    second: MetalGreymonLand_0
+  - first:
+      213: 2436332577459934661
+    second: MetalGreymonLand_1
+  - first:
+      213: -545089935330391988
+    second: MetalGreymonLand_2
+  - first:
+      213: -7717390741214341222
+    second: MetalGreymonLand_3
+  - first:
+      213: 6867918828059038565
+    second: MetalGreymonLand_4
+  - first:
+      213: 5797863486465198297
+    second: MetalGreymonLand_5
+  - first:
+      213: 6361987262892210562
+    second: MetalGreymonLand_6
+  - first:
+      213: -7213215358285003372
+    second: MetalGreymonLand_7
+  - first:
+      213: -7222944243248854099
+    second: MetalGreymonLand_8
+  - first:
+      213: 4453631127888365711
+    second: MetalGreymonLand_9
+  - first:
+      213: -4312857938451061716
+    second: MetalGreymonLand_10
+  - first:
+      213: -275132755375830951
+    second: MetalGreymonLand_11
+  - first:
+      213: 8145833955077619686
+    second: MetalGreymonLand_12
+  - first:
+      213: 1399219518966311258
+    second: MetalGreymonLand_13
+  - first:
+      213: 8218841268844029962
+    second: MetalGreymonLand_14
+  - first:
+      213: -8540530357512496555
+    second: MetalGreymonLand_15
+  - first:
+      213: -647331824249487834
+    second: MetalGreymonLand_16
+  - first:
+      213: 8367702739894621560
+    second: MetalGreymonLand_17
+  - first:
+      213: -9099049161430409966
+    second: MetalGreymonLand_18
+  - first:
+      213: 6413514780256007851
+    second: MetalGreymonLand_19
+  - first:
+      213: 21996211317986020
+    second: MetalGreymonLand_20
+  - first:
+      213: -8685393242906009931
+    second: MetalGreymonLand_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 150
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MetalGreymonLand_1
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 260
+        width: 240
+        height: 292
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c48cdf187937f68f0800000000000000
+      internalID: -545089935330391988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalGreymonLand_2
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 212
+        width: 233
+        height: 291
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a97d705620256e490800000000000000
+      internalID: -7717390741214341222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalGreymonLand_3
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 169
+        width: 237
+        height: 298
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5631dac49cfbf4f50800000000000000
+      internalID: 6867918828059038565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalGreymonLand_4
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 168
+        width: 243
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d847fe5f16267050800000000000000
+      internalID: 5797863486465198297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalGreymonLand_5
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 168
+        width: 238
+        height: 272
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 289ff3655b15a4850800000000000000
+      internalID: 6361987262892210562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalGreymonLand_6
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 170
+        width: 236
+        height: 281
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 495c70159d285eb90800000000000000
+      internalID: -7213215358285003372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalGreymonLand_7
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 168
+        width: 219
+        height: 304
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dab03b4ca72f2cb90800000000000000
+      internalID: -7222944243248854099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalGreymonLand_8
+      rect:
+        serializedVersion: 2
+        x: 1747
+        y: 168
+        width: 221
+        height: 290
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f88886a1ae97ecd30800000000000000
+      internalID: 4453631127888365711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 276cf53ba3ea862418c33ede256bf988
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      MetalGreymonLand_0: 2118564299851881927
+      MetalGreymonLand_1: -545089935330391988
+      MetalGreymonLand_10: -4312857938451061716
+      MetalGreymonLand_11: -275132755375830951
+      MetalGreymonLand_12: 8145833955077619686
+      MetalGreymonLand_13: 1399219518966311258
+      MetalGreymonLand_14: 8218841268844029962
+      MetalGreymonLand_15: -8540530357512496555
+      MetalGreymonLand_16: -647331824249487834
+      MetalGreymonLand_17: 8367702739894621560
+      MetalGreymonLand_18: -9099049161430409966
+      MetalGreymonLand_19: 6413514780256007851
+      MetalGreymonLand_2: -7717390741214341222
+      MetalGreymonLand_20: 21996211317986020
+      MetalGreymonLand_21: -8685393242906009931
+      MetalGreymonLand_3: 6867918828059038565
+      MetalGreymonLand_4: 5797863486465198297
+      MetalGreymonLand_5: 6361987262892210562
+      MetalGreymonLand_6: -7213215358285003372
+      MetalGreymonLand_7: -7222944243248854099
+      MetalGreymonLand_8: 4453631127888365711
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

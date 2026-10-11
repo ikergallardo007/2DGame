@@ -10,8 +10,9 @@ public class VideoTrigger : MonoBehaviour
 
     #region Fields
     [SerializeField] private CapsuleCollider2D _playerCollider;
-    [SerializeField] private Vector2 _colliderSize;
     [SerializeField] private Vector2 _colliderOffset;
+    [SerializeField] private Vector2 _colliderSize;
+    [SerializeField] private CapsuleDirection2D _colliderDirection;
     [SerializeField] private VideoPlayer _videoPlayer;
     [SerializeField] private GameObject _videoImage;
     [SerializeField] private PlayerStateController _playerState;
@@ -145,6 +146,7 @@ public class VideoTrigger : MonoBehaviour
     {
         _playerCollider.size = _colliderSize;
         _playerCollider.offset = _colliderOffset;
+        _playerCollider.direction = _colliderDirection;
     }
     #endregion
 }

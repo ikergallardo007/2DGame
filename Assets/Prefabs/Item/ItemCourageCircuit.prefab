@@ -64,6 +64,10 @@ PrefabInstance:
       propertyPath: m_WasSpriteAssigned
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 6821107674833671120, guid: fed279d0906c865469cd8f3aafe3ad60, type: 3}
+      propertyPath: m_Constraints
+      value: 7
+      objectReference: {fileID: 0}
     - target: {fileID: 8214415782360090396, guid: fed279d0906c865469cd8f3aafe3ad60, type: 3}
       propertyPath: <Type>k__BackingField
       value: 3

@@ -57,18 +57,6 @@ public class PlayerMovement : MonoBehaviour
         playerMap.Enable();
     }
 
-    private void Update()
-    {
-        if (Keyboard.current != null &&
-            Keyboard.current.escapeKey.wasPressedThisFrame)
-        {
-            Debug.Log(
-                $"Move enabled: {_moveAction != null && _moveAction.enabled} | " +
-                $"Jump enabled: {_jumpAction != null && _jumpAction.enabled}"
-                );
-        }
-    }
-
     // FixedUpdate is called once per physics frame
     private void FixedUpdate()
     {

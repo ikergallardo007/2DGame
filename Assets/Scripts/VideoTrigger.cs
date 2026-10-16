@@ -58,7 +58,6 @@ public class VideoTrigger : MonoBehaviour
         {
             case 0:
                 {
-                    Debug.Log("Koromon Digievolution");
                     state.HasDigivice = false;
                     _jetpack.UpdateMaxEnergy(100f);
                     _jetpack.UpdateEnergyRegeneration(0.6f);
@@ -66,7 +65,6 @@ public class VideoTrigger : MonoBehaviour
                 }
             case 1:
                 {
-                    Debug.Log("Agumon Digievolution");
                     state.HasCourageEmblem = false;
                     _jetpack.UpdateMaxEnergy(130f);
                     _jetpack.UpdateEnergyRegeneration(0.7f);

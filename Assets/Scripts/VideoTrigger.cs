@@ -1,6 +1,7 @@
 using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.Video;
+using UnityEngine.SceneManagement;
 
 public class VideoTrigger : MonoBehaviour
 {
@@ -60,6 +61,7 @@ public class VideoTrigger : MonoBehaviour
                     Debug.Log("Koromon Digievolution");
                     state.HasDigivice = false;
                     _jetpack.UpdateMaxEnergy(100f);
+                    _jetpack.UpdateEnergyRegeneration(0.6f);
                     break;
                 }
             case 1:
@@ -67,18 +69,21 @@ public class VideoTrigger : MonoBehaviour
                     Debug.Log("Agumon Digievolution");
                     state.HasCourageEmblem = false;
                     _jetpack.UpdateMaxEnergy(130f);
+                    _jetpack.UpdateEnergyRegeneration(0.7f);
                     break;
                 }
             case 2:
                 {
                     state.HasCourageCircuit = false;
                     _jetpack.UpdateMaxEnergy(180f);
+                    _jetpack.UpdateEnergyRegeneration(0.85f);
                     break;
                 }
             case 3:
                 {
                     state.HasCourageDigivice = false;
                     _jetpack.UpdateMaxEnergy(250f);
+                    _jetpack.UpdateEnergyRegeneration(1f);
                     break;
                 }
             case 4:
@@ -140,6 +145,12 @@ public class VideoTrigger : MonoBehaviour
 
         // Reanudar el juego
         Time.timeScale = 1.0f;
+
+        // En el final del juego.
+        if (_playerState.DigimonIndex > 4)
+        {
+            SceneManager.LoadScene("MainMenu");
+        }
     }
 
     private void UpdatePlayerCollider()

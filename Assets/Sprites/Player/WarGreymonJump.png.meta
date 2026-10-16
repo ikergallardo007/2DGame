@@ -1,0 +1,390 @@
+fileFormatVersion: 2
+guid: 3fe782d4fa1c6f546a98d65bf31e0a74
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7620611591477584938
+    second: WarGreymonJump_0
+  - first:
+      213: -6482209556802205036
+    second: WarGreymonJump_1
+  - first:
+      213: 4749648040825056130
+    second: WarGreymonJump_2
+  - first:
+      213: -2192464332541611098
+    second: WarGreymonJump_3
+  - first:
+      213: -3023099057170286125
+    second: WarGreymonJump_4
+  - first:
+      213: -1378324901116202720
+    second: WarGreymonJump_5
+  - first:
+      213: 3514073937772828262
+    second: WarGreymonJump_6
+  - first:
+      213: 2261461689993602950
+    second: WarGreymonJump_7
+  - first:
+      213: 8054336065622734962
+    second: WarGreymonJump_8
+  - first:
+      213: -2306663695507215900
+    second: WarGreymonJump_9
+  - first:
+      213: 8833538297368641389
+    second: WarGreymonJump_10
+  - first:
+      213: -1750517156527066381
+    second: WarGreymonJump_11
+  - first:
+      213: 8084595626300506391
+    second: WarGreymonJump_12
+  - first:
+      213: 8668679193357245714
+    second: WarGreymonJump_13
+  - first:
+      213: 7012249607309526293
+    second: WarGreymonJump_14
+  - first:
+      213: -5152484624890666790
+    second: WarGreymonJump_15
+  - first:
+      213: -283269081270073891
+    second: WarGreymonJump_16
+  - first:
+      213: 4400617806974842187
+    second: WarGreymonJump_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 175
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WarGreymonJump_01
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 187
+        width: 218
+        height: 275
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28be1897ab32ae140800000000000000
+      internalID: 4749648040825056130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarGreymonJump_02
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 187
+        width: 221
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a3b4244e4dc291e0800000000000000
+      internalID: -2192464332541611098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarGreymonJump_03
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 211
+        width: 227
+        height: 272
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d9fb80bc6bcb06d0800000000000000
+      internalID: -3023099057170286125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarGreymonJump_04
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 299
+        width: 214
+        height: 274
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 021b4eb1ec43fdce0800000000000000
+      internalID: -1378324901116202720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarGreymonJump_05
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 221
+        width: 213
+        height: 291
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6665867c0af74c030800000000000000
+      internalID: 3514073937772828262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarGreymonJump_06
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 192
+        width: 218
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6872931ec63526f10800000000000000
+      internalID: 2261461689993602950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarGreymonJump_07
+      rect:
+        serializedVersion: 2
+        x: 1514
+        y: 188
+        width: 217
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2787f0d5affb6cf60800000000000000
+      internalID: 8054336065622734962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarGreymonJump_08
+      rect:
+        serializedVersion: 2
+        x: 1765
+        y: 187
+        width: 205
+        height: 279
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e9a00517951dffd0800000000000000
+      internalID: -2306663695507215900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5986179be8b9c9d449542d0b73ea7f5f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      WarGreymonJump_01: 4749648040825056130
+      WarGreymonJump_02: -2192464332541611098
+      WarGreymonJump_03: -3023099057170286125
+      WarGreymonJump_04: -1378324901116202720
+      WarGreymonJump_05: 3514073937772828262
+      WarGreymonJump_06: 2261461689993602950
+      WarGreymonJump_07: 8054336065622734962
+      WarGreymonJump_08: -2306663695507215900
+      WarGreymonJump_1: -6482209556802205036
+      WarGreymonJump_10: 8833538297368641389
+      WarGreymonJump_11: -1750517156527066381
+      WarGreymonJump_12: 8084595626300506391
+      WarGreymonJump_13: 8668679193357245714
+      WarGreymonJump_14: 7012249607309526293
+      WarGreymonJump_15: -5152484624890666790
+      WarGreymonJump_16: -283269081270073891
+      WarGreymonJump_17: 4400617806974842187
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

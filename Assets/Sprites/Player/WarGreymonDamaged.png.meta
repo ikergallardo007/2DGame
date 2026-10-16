@@ -1,0 +1,414 @@
+fileFormatVersion: 2
+guid: ad1dbaa798df1ba428d695b7b17aed9d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5123941324347518134
+    second: WarGreymonDamaged_0
+  - first:
+      213: -250922991893006306
+    second: WarGreymonDamaged_1
+  - first:
+      213: -1880618646157785004
+    second: WarGreymonDamaged_2
+  - first:
+      213: -4463751739387804905
+    second: WarGreymonDamaged_3
+  - first:
+      213: 8793814077811595057
+    second: WarGreymonDamaged_4
+  - first:
+      213: 4868094250982612059
+    second: WarGreymonDamaged_5
+  - first:
+      213: 2253881966314748834
+    second: WarGreymonDamaged_6
+  - first:
+      213: -5903650720648229106
+    second: WarGreymonDamaged_7
+  - first:
+      213: 2408990495752158050
+    second: WarGreymonDamaged_8
+  - first:
+      213: 3729210528305141604
+    second: WarGreymonDamaged_9
+  - first:
+      213: -8818938039408103090
+    second: WarGreymonDamaged_10
+  - first:
+      213: 5290933931315841396
+    second: WarGreymonDamaged_11
+  - first:
+      213: -2595943865073404017
+    second: WarGreymonDamaged_12
+  - first:
+      213: 7926011257070464216
+    second: WarGreymonDamaged_13
+  - first:
+      213: -9073661059266632497
+    second: WarGreymonDamaged_14
+  - first:
+      213: 2365951195265749116
+    second: WarGreymonDamaged_15
+  - first:
+      213: -7556014566908674509
+    second: WarGreymonDamaged_16
+  - first:
+      213: 6637156201083431917
+    second: WarGreymonDamaged_17
+  - first:
+      213: 7280861009271981462
+    second: WarGreymonDamaged_18
+  - first:
+      213: 7756083937789574969
+    second: WarGreymonDamaged_19
+  - first:
+      213: -8470791763214629313
+    second: WarGreymonDamaged_20
+  - first:
+      213: 2332036015090109898
+    second: WarGreymonDamaged_21
+  - first:
+      213: 5710270495573157790
+    second: WarGreymonDamaged_22
+  - first:
+      213: 2682243465329064631
+    second: WarGreymonDamaged_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 175
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WarGreymonDamaged_02
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 197
+        width: 256
+        height: 349
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 713024861719d02c0800000000000000
+      internalID: -4463751739387804905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarGreymonDamaged_03
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 193
+        width: 249
+        height: 337
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ab79dfe4b5674f10800000000000000
+      internalID: 2253881966314748834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarGreymonDamaged_01
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 202
+        width: 235
+        height: 302
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0f88cdc2f4021ea0800000000000000
+      internalID: -5903650720648229106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarGreymonDamaged_04
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 201
+        width: 222
+        height: 281
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4675640a731d0c330800000000000000
+      internalID: 3729210528305141604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarGreymonDamaged_05
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 204
+        width: 228
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4176e0f396dc9580800000000000000
+      internalID: -8818938039408103090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarGreymonDamaged_06
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 213
+        width: 217
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4794422c06c2d6940800000000000000
+      internalID: 5290933931315841396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarGreymonDamaged_07
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 191
+        width: 234
+        height: 258
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc42e164751e31280800000000000000
+      internalID: -9073661059266632497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarGreymonDamaged_08
+      rect:
+        serializedVersion: 2
+        x: 1741
+        y: 202
+        width: 234
+        height: 313
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c70d9b5a31c85d020800000000000000
+      internalID: 2365951195265749116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 59a66a4d6265bbf4bacb17a0a76d14d8
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      WarGreymonDamaged_01: -5903650720648229106
+      WarGreymonDamaged_02: -4463751739387804905
+      WarGreymonDamaged_03: 2253881966314748834
+      WarGreymonDamaged_04: 3729210528305141604
+      WarGreymonDamaged_05: -8818938039408103090
+      WarGreymonDamaged_06: 5290933931315841396
+      WarGreymonDamaged_07: -9073661059266632497
+      WarGreymonDamaged_08: 2365951195265749116
+      WarGreymonDamaged_1: -250922991893006306
+      WarGreymonDamaged_12: -2595943865073404017
+      WarGreymonDamaged_13: 7926011257070464216
+      WarGreymonDamaged_16: -7556014566908674509
+      WarGreymonDamaged_17: 6637156201083431917
+      WarGreymonDamaged_18: 7280861009271981462
+      WarGreymonDamaged_19: 7756083937789574969
+      WarGreymonDamaged_2: -1880618646157785004
+      WarGreymonDamaged_20: -8470791763214629313
+      WarGreymonDamaged_21: 2332036015090109898
+      WarGreymonDamaged_22: 5710270495573157790
+      WarGreymonDamaged_23: 2682243465329064631
+      WarGreymonDamaged_4: 8793814077811595057
+      WarGreymonDamaged_5: 4868094250982612059
+      WarGreymonDamaged_8: 2408990495752158050
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

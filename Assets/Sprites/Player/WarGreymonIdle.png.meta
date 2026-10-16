@@ -1,0 +1,390 @@
+fileFormatVersion: 2
+guid: 1306db48c12f54d42968bedddb650d9b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4789229385093927603
+    second: WarGreymonIdle_0
+  - first:
+      213: 1242374736116806169
+    second: WarGreymonIdle_1
+  - first:
+      213: -6757310478888931411
+    second: WarGreymonIdle_2
+  - first:
+      213: 3710327885746122465
+    second: WarGreymonIdle_3
+  - first:
+      213: -7384364819860609535
+    second: WarGreymonIdle_4
+  - first:
+      213: 7081325062464339245
+    second: WarGreymonIdle_5
+  - first:
+      213: 1025806251438436628
+    second: WarGreymonIdle_6
+  - first:
+      213: -3463230631095027624
+    second: WarGreymonIdle_7
+  - first:
+      213: 847722340024787508
+    second: WarGreymonIdle_8
+  - first:
+      213: 4536698667664328455
+    second: WarGreymonIdle_9
+  - first:
+      213: -8303799128616572709
+    second: WarGreymonIdle_10
+  - first:
+      213: 5218986720903486934
+    second: WarGreymonIdle_11
+  - first:
+      213: -9196681023837983210
+    second: WarGreymonIdle_12
+  - first:
+      213: -5449285123013801528
+    second: WarGreymonIdle_13
+  - first:
+      213: 4225428851271233182
+    second: WarGreymonIdle_14
+  - first:
+      213: 1730840764950110211
+    second: WarGreymonIdle_15
+  - first:
+      213: 5300022103705785015
+    second: WarGreymonIdle_16
+  - first:
+      213: 3513914156920561328
+    second: WarGreymonIdle_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 175
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WarGreymonIdle_01
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 214
+        width: 234
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dafecc4dbe53932a0800000000000000
+      internalID: -6757310478888931411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarGreymonIdle_02
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 213
+        width: 236
+        height: 313
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eeaf1ecd8bbd7330800000000000000
+      internalID: 3710327885746122465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarGreymonIdle_03
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 213
+        width: 230
+        height: 307
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10621540257758990800000000000000
+      internalID: -7384364819860609535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarGreymonIdle_04
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 214
+        width: 231
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2df14730abe54260800000000000000
+      internalID: 7081325062464339245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarGreymonIdle_05
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 214
+        width: 228
+        height: 302
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 411fc59c9556c3e00800000000000000
+      internalID: 1025806251438436628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarGreymonIdle_06
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 213
+        width: 234
+        height: 313
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 858345a071220ffc0800000000000000
+      internalID: -3463230631095027624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarGreymonIdle_07
+      rect:
+        serializedVersion: 2
+        x: 1513
+        y: 214
+        width: 230
+        height: 302
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43227511af6b3cb00800000000000000
+      internalID: 847722340024787508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarGreymonIdle_08
+      rect:
+        serializedVersion: 2
+        x: 1759
+        y: 213
+        width: 222
+        height: 308
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 707ce1bd66795fe30800000000000000
+      internalID: 4536698667664328455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 6921090b188c8f245a281ff2d5d438d5
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      WarGreymonIdle_01: -6757310478888931411
+      WarGreymonIdle_02: 3710327885746122465
+      WarGreymonIdle_03: -7384364819860609535
+      WarGreymonIdle_04: 7081325062464339245
+      WarGreymonIdle_05: 1025806251438436628
+      WarGreymonIdle_06: -3463230631095027624
+      WarGreymonIdle_07: 847722340024787508
+      WarGreymonIdle_08: 4536698667664328455
+      WarGreymonIdle_1: 1242374736116806169
+      WarGreymonIdle_10: -8303799128616572709
+      WarGreymonIdle_11: 5218986720903486934
+      WarGreymonIdle_12: -9196681023837983210
+      WarGreymonIdle_13: -5449285123013801528
+      WarGreymonIdle_14: 4225428851271233182
+      WarGreymonIdle_15: 1730840764950110211
+      WarGreymonIdle_16: 5300022103705785015
+      WarGreymonIdle_17: 3513914156920561328
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

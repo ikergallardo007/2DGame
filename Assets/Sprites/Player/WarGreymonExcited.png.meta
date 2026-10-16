@@ -1,0 +1,501 @@
+fileFormatVersion: 2
+guid: 4de2e940c7d37b641ab4e4ce93f40647
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4205813503094155129
+    second: WarGreymonExcited_0
+  - first:
+      213: 1998911320387368329
+    second: WarGreymonExcited_1
+  - first:
+      213: -7515949204977297327
+    second: WarGreymonExcited_2
+  - first:
+      213: -837363172267161614
+    second: WarGreymonExcited_3
+  - first:
+      213: -997548489868313598
+    second: WarGreymonExcited_4
+  - first:
+      213: 1113684002228824375
+    second: WarGreymonExcited_5
+  - first:
+      213: -2451979674691780185
+    second: WarGreymonExcited_6
+  - first:
+      213: 4361484364581563564
+    second: WarGreymonExcited_7
+  - first:
+      213: -1052907017390954457
+    second: WarGreymonExcited_8
+  - first:
+      213: 3519505574661848547
+    second: WarGreymonExcited_9
+  - first:
+      213: -7806363983438051442
+    second: WarGreymonExcited_10
+  - first:
+      213: 4278557066996693982
+    second: WarGreymonExcited_11
+  - first:
+      213: -4588022638161483615
+    second: WarGreymonExcited_12
+  - first:
+      213: -7588393456321159194
+    second: WarGreymonExcited_13
+  - first:
+      213: 7854413266733895604
+    second: WarGreymonExcited_14
+  - first:
+      213: 3853897802677904960
+    second: WarGreymonExcited_15
+  - first:
+      213: -8391241702062759420
+    second: WarGreymonExcited_16
+  - first:
+      213: -916903645743786310
+    second: WarGreymonExcited_17
+  - first:
+      213: -7142196159725534182
+    second: WarGreymonExcited_18
+  - first:
+      213: 7120255265159885633
+    second: WarGreymonExcited_19
+  - first:
+      213: 952047356604608207
+    second: WarGreymonExcited_20
+  - first:
+      213: 8695748648475793669
+    second: WarGreymonExcited_21
+  - first:
+      213: -6794309948354154109
+    second: WarGreymonExcited_22
+  - first:
+      213: -2393280217599687405
+    second: WarGreymonExcited_23
+  - first:
+      213: -3678218973724129671
+    second: WarGreymonExcited_24
+  - first:
+      213: -3835685221752860089
+    second: WarGreymonExcited_25
+  - first:
+      213: -1133437067821944400
+    second: WarGreymonExcited_26
+  - first:
+      213: -584558902843723638
+    second: WarGreymonExcited_27
+  - first:
+      213: -2244658514310911560
+    second: WarGreymonExcited_28
+  - first:
+      213: -6583560792532868969
+    second: WarGreymonExcited_29
+  - first:
+      213: 1705162941171108776
+    second: WarGreymonExcited_30
+  - first:
+      213: -5883959325691844371
+    second: WarGreymonExcited_31
+  - first:
+      213: 3461949760608359750
+    second: WarGreymonExcited_32
+  - first:
+      213: -345151419084597769
+    second: WarGreymonExcited_33
+  - first:
+      213: -2148258117798156879
+    second: WarGreymonExcited_34
+  - first:
+      213: -3308324239059792257
+    second: WarGreymonExcited_35
+  - first:
+      213: 7560215004984854913
+    second: WarGreymonExcited_36
+  - first:
+      213: -258080495940800660
+    second: WarGreymonExcited_37
+  - first:
+      213: -2221757715102788132
+    second: WarGreymonExcited_38
+  - first:
+      213: 250006169479249462
+    second: WarGreymonExcited_39
+  - first:
+      213: -7427115527091573639
+    second: WarGreymonExcited_40
+  - first:
+      213: -4088849827654728104
+    second: WarGreymonExcited_41
+  - first:
+      213: -1525925157539254360
+    second: WarGreymonExcited_42
+  - first:
+      213: 6512433665985211619
+    second: WarGreymonExcited_43
+  - first:
+      213: -3508028779404192409
+    second: WarGreymonExcited_44
+  - first:
+      213: 8721296732271269935
+    second: WarGreymonExcited_45
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 175
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WarGreymonExcited_02
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 202
+        width: 246
+        height: 330
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73962e013b9947f00800000000000000
+      internalID: 1113684002228824375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarGreymonExcited_04
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 220
+        width: 225
+        height: 339
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a1c48d1a71d8fdd0800000000000000
+      internalID: -2451979674691780185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarGreymonExcited_06
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 200
+        width: 234
+        height: 335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3edf9ba4cabc7d030800000000000000
+      internalID: 3519505574661848547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarGreymonExcited_08
+      rect:
+        serializedVersion: 2
+        x: 1758
+        y: 202
+        width: 214
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8785c321593aa390800000000000000
+      internalID: -7806363983438051442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarGreymonExcited_01
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 205
+        width: 236
+        height: 335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edb3391dbfc706b30800000000000000
+      internalID: 4278557066996693982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarGreymonExcited_03
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 198
+        width: 232
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b17635fdf83540f0800000000000000
+      internalID: -1133437067821944400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarGreymonExcited_05
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 195
+        width: 249
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8035b566ca33e7f0800000000000000
+      internalID: -584558902843723638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarGreymonExcited_07
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 204
+        width: 214
+        height: 278
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ab0aa029a4f9a710800000000000000
+      internalID: 1705162941171108776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 4c9c49ae8fa192140b6c59fc969a5476
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      WarGreymonExcited_01: 4278557066996693982
+      WarGreymonExcited_02: 1113684002228824375
+      WarGreymonExcited_03: -1133437067821944400
+      WarGreymonExcited_04: -2451979674691780185
+      WarGreymonExcited_05: -584558902843723638
+      WarGreymonExcited_06: 3519505574661848547
+      WarGreymonExcited_07: 1705162941171108776
+      WarGreymonExcited_08: -7806363983438051442
+      WarGreymonExcited_12: -4588022638161483615
+      WarGreymonExcited_13: -7588393456321159194
+      WarGreymonExcited_14: 7854413266733895604
+      WarGreymonExcited_15: 3853897802677904960
+      WarGreymonExcited_16: -8391241702062759420
+      WarGreymonExcited_17: -916903645743786310
+      WarGreymonExcited_18: -7142196159725534182
+      WarGreymonExcited_19: 7120255265159885633
+      WarGreymonExcited_2: -7515949204977297327
+      WarGreymonExcited_20: 952047356604608207
+      WarGreymonExcited_21: 8695748648475793669
+      WarGreymonExcited_22: -6794309948354154109
+      WarGreymonExcited_23: -2393280217599687405
+      WarGreymonExcited_24: -3678218973724129671
+      WarGreymonExcited_25: -3835685221752860089
+      WarGreymonExcited_28: -2244658514310911560
+      WarGreymonExcited_29: -6583560792532868969
+      WarGreymonExcited_3: -837363172267161614
+      WarGreymonExcited_31: -5883959325691844371
+      WarGreymonExcited_32: 3461949760608359750
+      WarGreymonExcited_33: -345151419084597769
+      WarGreymonExcited_34: -2148258117798156879
+      WarGreymonExcited_35: -3308324239059792257
+      WarGreymonExcited_36: 7560215004984854913
+      WarGreymonExcited_37: -258080495940800660
+      WarGreymonExcited_38: -2221757715102788132
+      WarGreymonExcited_39: 250006169479249462
+      WarGreymonExcited_4: -997548489868313598
+      WarGreymonExcited_40: -7427115527091573639
+      WarGreymonExcited_41: -4088849827654728104
+      WarGreymonExcited_42: -1525925157539254360
+      WarGreymonExcited_43: 6512433665985211619
+      WarGreymonExcited_44: -3508028779404192409
+      WarGreymonExcited_45: 8721296732271269935
+      WarGreymonExcited_7: 4361484364581563564
+      WarGreymonExcited_8: -1052907017390954457
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

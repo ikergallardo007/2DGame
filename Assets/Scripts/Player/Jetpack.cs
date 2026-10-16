@@ -118,8 +118,12 @@ public class Jetpack : MonoBehaviour
     }
     public void UpdateMaxEnergy(float newEnergy)
     {
-        Debug.Log("Updating max energy...");
         _maxEnergy = newEnergy;
+    }
+
+    public void UpdateEnergyRegeneration(float newEnergyRegeneration)
+    {
+        _energyRegenerationRatio = newEnergyRegeneration;
     }
 
     #endregion

@@ -44,7 +44,7 @@ public class PlayerAnimationController : MonoBehaviour
     private void Update()
     {
         if ((_playerState.DigimonIndex == 1) ||
-            (_playerState.DigimonIndex == 2))
+            (_playerState.DigimonIndex == 2 && _playerState.Walking))
             _spriteRenderer.flipX = !_playerState.LookRight;
         else
             _spriteRenderer.flipX = _playerState.LookRight;

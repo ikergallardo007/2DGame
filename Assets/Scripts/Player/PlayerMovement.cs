@@ -2,7 +2,7 @@ using UnityEngine;
 using UnityEngine.InputSystem;
 
 [RequireComponent(
-    typeof(Rigidbody2D), 
+    typeof(Rigidbody2D),
     typeof(Jetpack),
     typeof(PlayerStateController)
     )]
@@ -17,9 +17,10 @@ public class PlayerMovement : MonoBehaviour
 
     private InputAction _moveAction;
     private InputAction _jumpAction;
-    
+    private bool _jumpPressed = false;
+
     private float _spaceTime;
-    
+
     private Rigidbody2D _rigidbody;
     private Jetpack _jetpack;
     private PlayerStateController _playerState;
@@ -57,6 +58,16 @@ public class PlayerMovement : MonoBehaviour
         playerMap.Enable();
     }
 
+    private void Update()
+    {
+        if (_jumpAction != null &&
+            _jumpAction.enabled &&
+            _jumpAction.WasPressedThisFrame())
+        {
+            _jumpPressed = true;
+        }
+    }
+
     // FixedUpdate is called once per physics frame
     private void FixedUpdate()
     {
@@ -71,13 +82,13 @@ public class PlayerMovement : MonoBehaviour
 
         Vector2 horizontalMovement = new(moveValue.x, 0);
         _rigidbody.AddForce(horizontalMovement * _horizontalForce);
-        
-        if (moveValue.x < 0 && !_playerState.OnAir)
+
+        if (moveValue.x < 0)
         {
             _playerState.LookRight = false;
             _playerState.Walking = true;
         }
-        else if (moveValue.x > 0 && !_playerState.OnAir)
+        else if (moveValue.x > 0)
         {
             _playerState.LookRight = true;
             _playerState.Walking = true;
@@ -86,15 +97,20 @@ public class PlayerMovement : MonoBehaviour
         {
             _playerState.Walking = false;
         }
-     
+
         // Jump
-        if (_jumpAction.WasPressedThisFrame() &&
-            _playerState.Grounded)
+        if (_jumpPressed)
         {
-            Vector2 jumpMovement = new(0, _jumpForce);
-            _rigidbody.AddForce(jumpMovement);
-            _spaceTime = 0;
-            _playerState.Jumping = true;
+            _jumpPressed = false;
+
+            if (_playerState.Grounded)
+            {
+                Vector2 jumpMovement = new(0, _jumpForce);
+                _rigidbody.AddForce(jumpMovement);
+
+                _spaceTime = 0;
+                _playerState.Jumping = true;
+            }
         }
 
         // Fly
@@ -107,10 +123,10 @@ public class PlayerMovement : MonoBehaviour
                 !_playerState.EmptyTank)
             {
                 _jetpack.Fly();
-            
+
                 Vector2 flyMovement = new(0, _flyForce);
                 _rigidbody.AddForce(flyMovement);
-                
+
                 _playerState.Flying = true;
             }
         }

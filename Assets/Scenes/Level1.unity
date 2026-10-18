@@ -745,7 +745,7 @@ Transform:
   m_GameObject: {fileID: 525298027}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 2.4349997, z: -10}
+  m_LocalPosition: {x: 0, y: 6.3, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -2554,7 +2554,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1395585342580261870, guid: 42b3b18b912881f44af9c942a3836641, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 2.4349997
+      value: 6.3
       objectReference: {fileID: 0}
     - target: {fileID: 1395585342580261870, guid: 42b3b18b912881f44af9c942a3836641, type: 3}
       propertyPath: m_LocalPosition.z
@@ -2590,7 +2590,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1889337432242935943, guid: 42b3b18b912881f44af9c942a3836641, type: 3}
       propertyPath: _spawList.Array.size
-      value: 5
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 1889337432242935943, guid: 42b3b18b912881f44af9c942a3836641, type: 3}
       propertyPath: '_spawList.Array.data[1]'
@@ -2608,6 +2608,14 @@ PrefabInstance:
       propertyPath: '_spawList.Array.data[4]'
       value: 
       objectReference: {fileID: 6358158555082960355, guid: e3781c027345af14a8e9ae5a7e1f28a4, type: 3}
+    - target: {fileID: 1889337432242935943, guid: 42b3b18b912881f44af9c942a3836641, type: 3}
+      propertyPath: '_spawList.Array.data[5]'
+      value: 
+      objectReference: {fileID: 127977077431122480, guid: 9c31a2cee836fac4db77cf37b58f4591, type: 3}
+    - target: {fileID: 1889337432242935943, guid: 42b3b18b912881f44af9c942a3836641, type: 3}
+      propertyPath: '_spawList.Array.data[6]'
+      value: 
+      objectReference: {fileID: 370513577838705023, guid: 8c59b35d47e2b1942adbc78e2f7c71a2, type: 3}
     - target: {fileID: 3257378407595157589, guid: 42b3b18b912881f44af9c942a3836641, type: 3}
       propertyPath: m_ClearFlags
       value: 2

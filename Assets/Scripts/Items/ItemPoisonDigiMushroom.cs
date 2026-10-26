@@ -37,17 +37,11 @@ public class ItemPoisonDigiMushroom : ItemBase
     #region Private Methods
     protected override void ApplyEffect(GameObject player)
     {
-        PlayerStateController playerState = player.GetComponent<PlayerStateController>();
-
-        if (playerState == null)
-            return;
-
         Rigidbody2D playerRB = player.GetComponent<Rigidbody2D>();
 
         if (playerRB == null)
             return;
 
-        playerState.Damaged = true;
         playerRB.linearVelocityX = 0;
         playerRB.linearVelocityY = 0;
     }

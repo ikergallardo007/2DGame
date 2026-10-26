@@ -213,6 +213,9 @@ MonoBehaviour:
   _damaged: 0
   _charging: 0
   _hasDigivice: 0
+  _hasCourageEmblem: 0
+  _hasCourageCircuit: 0
+  _hasCourageDigivice: 0
 --- !u!114 &3548923720021280534
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -385,8 +388,8 @@ CapsuleCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: -0.04, y: -0.14}
-  m_Size: {x: 0.7, y: 0.55}
+  m_Offset: {x: 0.05, y: -0.12}
+  m_Size: {x: 0.85, y: 0.72}
   m_Direction: 1
 --- !u!114 &6958352658442046466
 MonoBehaviour:
@@ -414,7 +417,7 @@ MonoBehaviour:
       m_Calls: []
   m_ActionEvents: []
   m_NeverAutoSwitchControlSchemes: 1
-  m_DefaultControlScheme: 
+  m_DefaultControlScheme: Keyboard&Mouse
   m_DefaultActionMap: Player
   m_SplitScreenIndex: -1
   m_Camera: {fileID: 0}

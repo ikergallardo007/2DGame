@@ -8,7 +8,7 @@ public class UISettings : MonoBehaviour
     #region Fields
     [SerializeField] Button _settingsButton;
     [SerializeField] Button _closeButton;
-    [SerializeField] GameObject _titleText;
+    [SerializeField] GameObject _titleObject;
     [SerializeField] GameObject _menuPanel;
     [SerializeField] TMP_Dropdown _qualityDrop;
     [SerializeField] Toggle _vsyncToggle;
@@ -84,7 +84,7 @@ public class UISettings : MonoBehaviour
     private void CloseSettings()
     {
         gameObject.SetActive(false);
-        _titleText.SetActive(true);
+        _titleObject.SetActive(true);
         _menuPanel.SetActive(true);
         _settingsButton.gameObject.SetActive(true);
     }

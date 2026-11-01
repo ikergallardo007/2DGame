@@ -67,7 +67,7 @@ public class Jetpack : MonoBehaviour
     }
 
     // Update is called once per frame
-    private void Update()
+    private void FixedUpdate()
     {
         if (_playerState.Landing)
         {

@@ -52,7 +52,9 @@ public abstract class ItemBase : MonoBehaviour, IRecolectable
     #region Private Methods
     private void CreateParticles()
     {
-        Instantiate(_particles, transform.position, Quaternion.identity);
+        GameObject particles = Instantiate(_particles, transform.position, Quaternion.identity);
+
+        Destroy(particles, 2f);
     }
     #endregion
 }

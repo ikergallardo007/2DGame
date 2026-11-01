@@ -10,7 +10,7 @@ public class MainMenuController : MonoBehaviour
     [SerializeField] Button _settingsButton;
     [SerializeField] GameObject _menuPanel;
     [SerializeField] GameObject _uiSettingsPanel;
-    [SerializeField] GameObject _titleText;
+    [SerializeField] GameObject _titleObject;
     #endregion
 
     #region Unity Callbacks
@@ -37,7 +37,7 @@ public class MainMenuController : MonoBehaviour
     {
         _menuPanel.SetActive(false);
         _settingsButton.gameObject.SetActive(false);
-        _titleText.SetActive(false);
+        _titleObject.SetActive(false);
         _uiSettingsPanel.SetActive(true);
     }
 

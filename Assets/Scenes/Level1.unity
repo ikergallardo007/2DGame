@@ -1431,10 +1431,10 @@ RectTransform:
   - {fileID: 1990673102}
   m_Father: {fileID: 15417148}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0.25}
-  m_AnchorMax: {x: 1, y: 0.75}
-  m_AnchoredPosition: {x: -0.1000061, y: 0}
-  m_SizeDelta: {x: -20, y: 0}
+  m_AnchorMin: {x: 0.07463774, y: 0.25}
+  m_AnchorMax: {x: 0.92536235, y: 0.75}
+  m_AnchoredPosition: {x: -0.43849945, y: 0}
+  m_SizeDelta: {x: -0.17990017, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &1217977641
 GameObject:
@@ -2225,6 +2225,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1387145436277013754, guid: 9173a9aabe7ec5d4693a06a98946d785, type: 3}
+      propertyPath: _energyRegenerationRatio
+      value: 0.5
+      objectReference: {fileID: 0}
     - target: {fileID: 3149421786500660738, guid: 9173a9aabe7ec5d4693a06a98946d785, type: 3}
       propertyPath: m_Name
       value: Player

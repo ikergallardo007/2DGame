@@ -1,7 +1,6 @@
 using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
-using System;
 
 public class MainMenuController : MonoBehaviour
 {
@@ -11,6 +10,7 @@ public class MainMenuController : MonoBehaviour
     [SerializeField] Button _settingsButton;
     [SerializeField] GameObject _menuPanel;
     [SerializeField] GameObject _uiSettingsPanel;
+    [SerializeField] GameObject _titleText;
     #endregion
 
     #region Unity Callbacks
@@ -37,6 +37,7 @@ public class MainMenuController : MonoBehaviour
     {
         _menuPanel.SetActive(false);
         _settingsButton.gameObject.SetActive(false);
+        _titleText.SetActive(false);
         _uiSettingsPanel.SetActive(true);
     }
 
